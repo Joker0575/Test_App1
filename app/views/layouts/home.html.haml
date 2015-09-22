@@ -1,0 +1,337 @@
+!!!
+/[if lt IE 7] <html class="no-js lt-ie9 lt-ie8 lt-ie7">
+/[if IE 7] <html class="no-js lt-ie9 lt-ie8">
+/[if IE 8] <html class="no-js lt-ie9">
+/ [if gt IE 8]><!
+%html.no-js
+  / <![endif]
+  %head
+    / meta
+    %meta{:charset => "utf-8"}
+    %meta{:content => "width=device-width, initial-scale=1", :name => "viewport"}
+    %meta{:content => "IE=edge", "http-equiv" => "X-UA-Compatible"}
+    %title Theme Blog - Web Template Design
+    / stylesheets
+    = stylesheet_link_tag 'application', media: 'all'
+    %link{:href => "assets/css/bootstrap.min.css", :rel => "stylesheet"}
+    %link{:href => "assets/css/font-awesome.min.css", :rel => "stylesheet"}
+    %link{:href => "assets/css/animate.css", :rel => "stylesheet"}
+    %link{:href => "assets/css/style.css", :rel => "stylesheet"}
+  %body
+    %nav.navbar.navbar-default.navbar-fixed-top
+      .container
+        / Brand and toggle get grouped for better mobile display
+        .navbar-header
+          %button.navbar-toggle.collapsed{"aria-expanded" => "false", "data-target" => "#bs-example-navbar-collapse-1", "data-toggle" => "collapse", :type => "button"}
+            %span.sr-only Toggle navigation
+            %span.icon-bar
+            %span.icon-bar
+            %span.icon-bar
+          %a.navbar-brand{:href => "index.html"}
+            %img{:alt => "Site Logo", :src => asset_path("logo.png")}
+        / Collect the nav links, forms, and other content for toggling
+        #bs-example-navbar-collapse-1.collapse.navbar-collapse
+          %ul.nav.navbar-nav.navbar-right
+            %li.active
+              %a{:href => "index.html"}
+                Home
+            %li
+              %a{:href => "html5-templates.html"} HTML5 Templates
+            %li
+              %a{:href => "wordpress-themes.html"} Wordpress Themes
+            %li
+              %a{:href => "design-inspiration.html"} Design Inspiration
+            %li
+              %a{:href => "resources.html"} Resource
+    / end of /.navbar-collapse
+    / end of /.container
+    %main
+      .container
+        .row
+          / blog-contents
+          %section.col-md-8
+            %article.blog-item
+              .row
+                .col-md-3
+                  %a{:href => "single_blog_page.html"}
+                    %img.img-thumbnail.center-block{:alt => "Blog Post Thumbnail", :src => asset_path("corporate.jpg")}
+                .col-md-9
+                  %p
+                    in
+                    %a{:href => "html5-templates.html"} html5
+                    ,
+                    %a{:href => "#"} templates
+                    %time
+                      23-july-2015
+                      %time
+                  %h1
+                    %a{:href => "single_blog_page.html"} 50+ best free responsive corporate template in 2015
+            / /.blog-item
+            %article.blog-item
+              .row
+                .col-md-3
+                  %a{:href => "#"}
+                    %img.img-thumbnail.center-block{:alt => "Blog Post Thumbnail", :src => asset_path("event.jpg")}
+                .col-md-9
+                  %p
+                    in
+                    %a{:href => "html5-templates.html"} html5
+                    ,
+                    %a{:href => "#"} templates
+                    %time
+                      23-july-2015
+                      %time
+                  %h1
+                    %a{:href => "single_blog_page.html"} 50+ best free responsive event template in 2015
+            / /.blog-item
+            %article.blog-item
+              .row
+                .col-md-3
+                  %a{:href => "#"}
+                    %img.img-thumbnail.center-block{:alt => "Blog Post Thumbnail", :src => asset_path("restaurant.jpg")}
+                .col-md-9
+                  %p
+                    in
+                    %a{:href => "html5-templates.html"} html5
+                    ,
+                    %a{:href => "#"} templates
+                    %time
+                      23-july-2015
+                      %time
+                  %h1
+                    %a{:href => "single_blog_page.html"} 50+ best free responsive restaurant template in 2015
+            / /.blog-item
+            %article.blog-item
+              .row
+                .col-md-3
+                  %a{:href => "#"}
+                    %img.img-thumbnail.center-block{:alt => "Blog Post Thumbnail", :src => asset_path("coming-soon.jpg")}
+                .col-md-9
+                  %p
+                    in
+                    %a{:href => "html5-templates.html"} html5
+                    ,
+                    %a{:href => "#"} templates
+                    %time
+                      23-july-2015
+                      %time
+                  %h1
+                    %a{:href => "single_blog_page.html"} 50+ best free responsive coming soon template in 2015
+            / /.blog-item
+            %article.blog-item
+              .row
+                .col-md-3
+                  %a{:href => "#"}
+                    %img.img-thumbnail.center-block{:alt => "Blog Post Thumbnail", :src => asset_path("photography.jpg")}
+                .col-md-9
+                  %p
+                    in
+                    %a{:href => "html5-templates.html"} html5
+                    ,
+                    %a{:href => "#"} templates
+                    %time
+                      23-july-2015
+                      %time
+                  %h1
+                    %a{:href => "single_blog_page.html"} 50+ best free responsive photography template in 2015
+            / /.blog-item
+            %article.blog-item
+              .row
+                .col-md-3
+                  %a{:href => "single_blog_page.html"}
+                    %img.img-thumbnail.center-block{:alt => "Blog Post Thumbnail", :src => asset_path("corporate.jpg")}
+                .col-md-9
+                  %p
+                    in
+                    %a{:href => "html5-templates.html"} html5
+                    ,
+                    %a{:href => "#"} templates
+                    %time
+                      23-july-2015
+                      %time
+                  %h1
+                    %a{:href => "single_blog_page.html"} 50+ best free responsive corporate template in 2015
+            / /.blog-item
+            %article.blog-item
+              .row
+                .col-md-3
+                  %a{:href => "#"}
+                    %img.img-thumbnail.center-block{:alt => "Blog Post Thumbnail", :src => asset_path("event.jpg")}
+                .col-md-9
+                  %p
+                    in
+                    %a{:href => "html5-templates.html"} html5
+                    ,
+                    %a{:href => "#"} templates
+                    %time
+                      23-july-2015
+                      %time
+                  %h1
+                    %a{:href => "single_blog_page.html"} 50+ best free responsive event template in 2015
+            / /.blog-item
+            %article.blog-item
+              .row
+                .col-md-3
+                  %a{:href => "#"}
+                    %img.img-thumbnail.center-block{:alt => "Blog Post Thumbnail", :src => asset_path("restaurant.jpg")}
+                .col-md-9
+                  %p
+                    in
+                    %a{:href => "html5-templates.html"} html5
+                    ,
+                    %a{:href => "#"} templates
+                    %time
+                      23-july-2015
+                      %time
+                  %h1
+                    %a{:href => "single_blog_page.html"} 50+ best free responsive restaurant template in 2015
+            / /.blog-item
+            %article.blog-item
+              .row
+                .col-md-3
+                  %a{:href => "#"}
+                    %img.img-thumbnail.center-block{:alt => "Blog Post Thumbnail", :src => asset_path("coming-soon.jpg")}
+                .col-md-9
+                  %p
+                    in
+                    %a{:href => "html5-templates.html"} html5
+                    ,
+                    %a{:href => "#"} templates
+                    %time
+                      23-july-2015
+                      %time
+                  %h1
+                    %a{:href => "single_blog_page.html"} 50+ best free responsive coming soon template in 2015
+            / /.blog-item
+            %article.blog-item
+              .row
+                .col-md-3
+                  %a{:href => "#"}
+                    %img.img-thumbnail.center-block{:alt => "Blog Post Thumbnail", :src => asset_path("photography.jpg")}
+                .col-md-9
+                  %p
+                    in
+                    %a{:href => "html5-templates.html"} html5
+                    ,
+                    %a{:href => "#"} templates
+                    %time
+                      23-july-2015
+                      %time
+                  %h1
+                    %a{:href => "single_blog_page.html"} 50+ best free responsive photography template in 2015
+            / /.blog-item
+            .page-turn
+              .row
+                .col-md-6.col-md-offset-3.text-center
+                  %nav
+                    %ul.pagination.pagination-sm
+                      %li.disabled
+                        %a{"aria-label" => "Previous", :href => "#"}
+                          %span{"aria-hidden" => "true"} Prev
+                      %li.active
+                        %a{:href => "index.html"} 1
+                      %li
+                        %a{:href => "page2.html"} 2
+                      %li
+                        %a{:href => "page3.html"} 3
+                      %li
+                        %a{:href => "page4.html"} 4
+                      %li
+                        %a{:href => "page5.html"} 5
+                      %li
+                        %a{"aria-label" => "Next", :href => "page6.html"}
+                          %span{"aria-hidden" => "true"} Next
+          / /.pagination
+          / /.page-turn
+          / end of blog-contents
+          / sidebar
+          %aside.col-md-4.col-sm-8.col-xs-8
+            .sidebar
+              / search option
+              .search-widget
+                .input-group.margin-bottom-sm
+                  %input.form-control{:placeholder => "Search here", :type => "text"}
+                    %a.input-group-addon{:href => "#"}
+                      %i.fa.fa-search.fa-fw
+              %a.template-images{:href => "http://themewagon.com/"}
+                %img.img-responsive{:alt => "Template Store", :src => asset_path("store1.png")}
+                  .overlay
+              / subscribe form
+              .subscribe-widget
+                %h4.text-capitalize.text-center
+                  get recent update by email
+                .input-group.margin-bottom-sm
+                  %input.form-control{:placeholder => "Your Email", :type => "text"}
+                    %a.input-group-addon{:href => "#"}
+                      %i.fa.fa-paper-plane.fa-fw
+              / sidebar share button
+              .share-widget.hidden-xs.hidden-sm
+                %ul.social-share.text-center
+                  %li
+                    %a{:href => "#"}
+                      %i.fa.fa-twitter
+                  %li
+                    %a{:href => "#"}
+                      %i.fa.fa-google-plus
+                  %li
+                    %a{:href => "#"}
+                      %i.fa.fa-facebook
+                  %li
+                    %a{:href => "#"}
+                      %i.fa.fa-pinterest
+                  %li
+                    %a{:href => "#"}
+                      %i.fa.fa-instagram
+    / /.sidebar-share-button
+    / /.share-widget
+    / end of sidebar
+    / end of /.container
+    %footer
+      .container
+        .row
+          / copyright
+          .col-md-4.col-sm-4
+            copyright &copy; 2015
+            %a{:href => "#", :style => "margin-left: 4px;"} Your website Link
+            %br
+              Theme by
+              %a{:href => "https://themewagon.com/", :target => "_blank"} ThemeWagon
+          / footer share button
+          .col-md-4.col-sm-4
+            %ul.social-share.text-center
+              %li
+                %a{:href => "#"}
+                  %i.fa.fa-twitter
+              %li
+                %a{:href => "#"}
+                  %i.fa.fa-google-plus
+              %li
+                %a{:href => "#"}
+                  %i.fa.fa-facebook
+              %li
+                %a{:href => "#"}
+                  %i.fa.fa-pinterest
+              %li
+                %a{:href => "#"}
+                  %i.fa.fa-instagram
+          / /.social-share
+          / footer-nav
+          .col-md-4.col-sm-4
+            %ul.footer-nav
+              %li
+                %a{:href => "about.html"} About
+              %li
+                %a{:href => "privacy.html"} Privacy
+              %li
+                %a{:href => "contact.html"} Contact
+    / /.footer-nav
+    / Necessary scripts
+    %script{:src => "assets/js/jquery-2.1.3.min.js", :type => "text/javascript"}
+    %script{:src => "assets/js/bootstrap.min.js", :type => "text/javascript"}
+    %script{:src => "assets/js/jQuery.scrollSpeed.js", :type => "text/javascript"}
+    = javascript_include_tag 'application'
+    / smooth-scroll
+    :javascript
+      $(function() {  
+          jQuery.scrollSpeed(100, 1000);
+      });
