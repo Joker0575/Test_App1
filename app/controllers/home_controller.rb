@@ -4,7 +4,7 @@ class HomeController < ApplicationController
   layout "home"
 
   def index
-    render html:"<strong>This is sample text</strong>".html_safe
+    # render html:"<strong>This is sample text</strong>".html_safe
     # render xml:Product.all
     # render js:"alert('hello')"
     # render json:Product.all
