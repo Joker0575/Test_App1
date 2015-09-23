@@ -1,7 +1,7 @@
 class HomeController < ApplicationController
 
   # layout :false
-  layout "home"
+  layout "home", :only => [:index]
 
   def index
     # render html:"<strong>This is sample text</strong>".html_safe
@@ -16,5 +16,23 @@ class HomeController < ApplicationController
 
   def create
     product=Product.new(params[:product])
+  end
+
+  def sign_up
+    render :layout => false
+  end
+
+  def sign_in
+    render :layout => false
+  end
+
+  def about_us
+  end
+
+  def privacy
+  end
+
+  def contact_us
+    render :layout => false
   end
 end

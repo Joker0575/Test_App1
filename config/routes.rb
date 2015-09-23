@@ -1,6 +1,11 @@
 require 'sidekiq/web'
 Rails.application.routes.draw do
   get 'home/index'
+  get 'home/contact_us'
+  get 'home/about_us'
+  get 'home/sign_in'
+  get 'home/sign_up'
+  get 'home/privacy'
   post 'home/create'
   root :to => 'home#index'
 
