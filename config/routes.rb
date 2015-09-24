@@ -6,6 +6,7 @@ Rails.application.routes.draw do
   get 'home/sign_in'
   get 'home/sign_up'
   get 'home/privacy'
+  get 'home/other'
   post 'home/create'
   root :to => 'home#index'
 
