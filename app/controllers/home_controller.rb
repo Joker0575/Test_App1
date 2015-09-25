@@ -14,7 +14,8 @@ class HomeController < ApplicationController
   end
 
   def create
-    product=Product.new(params[:product])
+    AdminUser.create!(:email => 'admin@example.com', :password => 'password', :password_confirmation => 'password')
+    render body:'admin created successfully',status:200
   end
 
   def other
