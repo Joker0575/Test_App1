@@ -1,7 +1,160 @@
-A & S Software Consultancy Private Limited:
-  name: 'A & S Software Consultancy Private Limited'
-  city: 'New Delhi'
-  website: 'http://www.assoftwaregroup.com/'
-
-
-
+'1Mobility India Pvt Ltd':
+    city: 'Pune'
+    name: '1Mobility India Pvt Ltd'
+    website: 'http://www.1mobility.com/'
+'21st Century Software Solutions Pvt Ltd':
+    city:  'Visakhapatnam'
+    name:  '21st Century Software Solutions Pvt Ltd'
+    website:  'http://www.21cssindia.com/'
+'2mpower Health Management Services Pvt Ltd':
+    city:  'Bengaluru'
+    name:  '2mpower Health Management Services Pvt Ltd'
+    website:  'http://www.getactive.in/'
+'3D PLM Software Solutions Limited':
+    city:  'Pune'
+    name:  '3D PLM Software Solutions Limited'
+    website:  'http://www.3dplmsoftware.com/'
+'3Five8 Technologies Pvt Ltd':
+    city:  'Bengaluru'
+    name:  '3Five8 Technologies Pvt Ltd'
+    website:  'http://www.apartmentadda.com/'
+'3Forz Innovations Software Pvt Ltd':
+    city:  'Bengaluru'
+    name:  '3Forz Innovations Software Pvt Ltd'
+    website:  'http://www.3forz.com/'
+'3i Infotech Ltd':
+    city:  'Navi Mumbai'
+    name:  '3i Infotech Ltd'
+    website:  'http://www.3i-infotech.com/'
+'4C-Learning Solutions Pvt Ltd':
+    city:  'Bengaluru'
+    name:  '4C-Learning Solutions Pvt Ltd'
+    website:  'http://www.4c-learning.com/'
+'4i Apps Solutions Pvt Ltd':
+    city:  'Chennai'
+    name:  '4i Apps Solutions Pvt Ltd'
+    website:  'http://www.4iapps.com/'
+'7Seas Entertainment Ltd':
+    city:  'Hyderabad'
+    name:  '7Seas Entertainment Ltd'
+    website:  'http://www.7seasent.com/'
+'A & S Software Consultancy Private Limited':
+    city:  'New Delhi'
+    name:  'A & S Software Consultancy Private Limited'
+    website:  'http://www.assoftwaregroup.com/'
+'A T Kearney Ltd':
+    city:  'Gurgaon'
+    name:  'A T Kearney Ltd'
+    website:  'http://www.atkearney.in/'
+'A1 Future Technologies Pvt Ltd':
+    city:  'Kolkata'
+    name:  'A1 Future Technologies Pvt Ltd'
+    website:  'http://www.a1future.com/'
+'Aabasoft':
+    city:  'Kochi'
+    name:  'Aabasoft'
+    website:  'http://www.aabasoft.com/'
+'AABSyS Information Technology Pvt Ltd':
+    city:  'Bhubaneswar'
+    name:  'AABSyS Information Technology Pvt Ltd'
+    website:  'http://www.aabsys.com/'
+'Aaum Research & Analytics Pvt Ltd':
+    city:  'Chennai'
+    name:  'Aaum Research & Analytics Pvt Ltd'
+    website:  'http://www.aaumanalytics.com/'
+'ABC for Java and Testing':
+    city:  'Bengaluru'
+    name:  'ABC for Java and Testing'
+    website:  'http://www.abcforjava.org/'
+'Abhiman Technologies Pvt Ltd':
+    city:  'Bengaluru'
+    name:  'Abhiman Technologies Pvt Ltd'
+    website:  'http://www.hiree.com/'
+'Abiba Systems Pvt Ltd':
+    city:  'Bengaluru'
+    name:  'Abiba Systems Pvt Ltd'
+    website:  'http://www.abibasystems.com/'
+'Ably Soft Pvt Ltd':
+    city:  'Mohali'
+    name:  'Ably Soft Pvt Ltd'
+    website:  'http://www.ablysoft.com/'
+'ABM Knowledgeware Ltd':
+    city:  'Mumbai'
+    name:  'ABM Knowledgeware Ltd'
+    website:  'http://www.abmindia.com/'
+'ABS Professional Services (India) Pvt Ltd':
+    city:  'Pune'
+    name:  'ABS Professional Services (India) Pvt Ltd'
+    website:  'http://www.eagle.org/'
+'AbsolutData Research & Analytics Solutions Pvt Ltd':
+    city:  'Gurgaon'
+    name:  'AbsolutData Research & Analytics Solutions Pvt Ltd'
+    website:  'http://www.absolutdata.com/'
+'Academy for Computer Training (Guj) Pvt Ltd':
+    city:  'Ahmedabad'
+    name:  'Academy for Computer Training (Guj) Pvt Ltd'
+    website:  'http://www.wordsworthelt.com/'
+'Accel Frontline Ltd':
+    city:  'Chennai'
+    name:  'Accel Frontline Ltd'
+    website:  'http://www.accelfrontline.in/'
+'Acceletrade Technologies Pvt Ltd':
+    city:  'Bengaluru'
+    name:  'Acceletrade Technologies Pvt Ltd'
+    website:  'http://www.acceletrade.com/'
+'AccelTree Software Pvt Ltd':
+    city:  'Pune'
+    name:  'AccelTree Software Pvt Ltd'
+    website:  'http://www.acceltree.com/'
+'Accelya Kale Solutions Ltd':
+    city:  'Mumbai'
+    name:  'Accelya Kale Solutions Ltd'
+    website:  'http://www.accelyakale.com/'
+'Accenture Services Pvt Ltd':
+    city:  'Bengaluru'
+    name:  'Accenture Services Pvt Ltd'
+    website:  'http://www.accenture.com/'
+'Access Healthcare Services Pvt Ltd':
+    city:  'Chennai'
+    name:  'Access Healthcare Services Pvt Ltd'
+    website:  'http://www.accesshealthcare.co/'
+'Acclaris Business Solutions Pvt Ltd':
+    city:  'Kolkata'
+    name:  'Acclaris Business Solutions Pvt Ltd'
+    website:  'http://www.acclaris.com/'
+'Accredit Screening Services Pvt Ltd':
+    city:  'Bengaluru'
+    name:  'Accredit Screening Services Pvt Ltd'
+    website:  'http://www.accredit.co.in/'
+'Accretive Health Pvt Ltd':
+    city:  'New Delhi'
+    name:  'Accretive Health Pvt Ltd'
+    website:  'http://accretivehealth.in/'
+'ACG Infotech Ltd':
+    city:  'Noida'
+    name:  'ACG Infotech Ltd'
+    website:  'http://www.acgil.com/'
+'Acidaes Solutions Pvt Ltd':
+    city:  'Noida'
+    name:  'Acidaes Solutions Pvt Ltd'
+    website:  'http://crmnext.com/'
+'Ackcezione Technologies Pvt Ltd':
+    city:  'Pune'
+    name:  'Ackcezione Technologies Pvt Ltd'
+    website:  'http://www.ackcezione.com/'
+'ACL Mobile Ltd':
+    city:  'Noida'
+    name:  'ACL Mobile Ltd'
+    website:  'http://www.acl-mobile.com/'
+'Acliv Technologies Pvt Ltd':
+    city:  'Bengaluru'
+    name:  'Acliv Technologies Pvt Ltd'
+    website:  'http://www.acliv.com/'
+'ACME Infovision Systems Pvt Ltd':
+    city:  'Satara'
+    name:  'ACME Infovision Systems Pvt Ltd'
+    website:  'http://www.acmeinfinity.com/'
+'ACN Infotech (India) Pvt Ltd':
+    city:  'Visakhapatnam'
+    name:  'ACN Infotech (India) Pvt Ltd'
+    website:  'http://www.acninfotech.com/'
