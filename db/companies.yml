@@ -1,160 +1,4086 @@
-'1Mobility India Pvt Ltd':
-    city: 'Pune'
-    name: '1Mobility India Pvt Ltd'
-    website: 'http://www.1mobility.com/'
-'21st Century Software Solutions Pvt Ltd':
-    city:  'Visakhapatnam'
-    name:  '21st Century Software Solutions Pvt Ltd'
-    website:  'http://www.21cssindia.com/'
-'2mpower Health Management Services Pvt Ltd':
-    city:  'Bengaluru'
-    name:  '2mpower Health Management Services Pvt Ltd'
-    website:  'http://www.getactive.in/'
-'3D PLM Software Solutions Limited':
-    city:  'Pune'
-    name:  '3D PLM Software Solutions Limited'
-    website:  'http://www.3dplmsoftware.com/'
-'3Five8 Technologies Pvt Ltd':
-    city:  'Bengaluru'
-    name:  '3Five8 Technologies Pvt Ltd'
-    website:  'http://www.apartmentadda.com/'
-'3Forz Innovations Software Pvt Ltd':
-    city:  'Bengaluru'
-    name:  '3Forz Innovations Software Pvt Ltd'
-    website:  'http://www.3forz.com/'
-'3i Infotech Ltd':
-    city:  'Navi Mumbai'
-    name:  '3i Infotech Ltd'
-    website:  'http://www.3i-infotech.com/'
-'4C-Learning Solutions Pvt Ltd':
-    city:  'Bengaluru'
-    name:  '4C-Learning Solutions Pvt Ltd'
-    website:  'http://www.4c-learning.com/'
-'4i Apps Solutions Pvt Ltd':
-    city:  'Chennai'
-    name:  '4i Apps Solutions Pvt Ltd'
-    website:  'http://www.4iapps.com/'
-'7Seas Entertainment Ltd':
-    city:  'Hyderabad'
-    name:  '7Seas Entertainment Ltd'
-    website:  'http://www.7seasent.com/'
-'A & S Software Consultancy Private Limited':
-    city:  'New Delhi'
-    name:  'A & S Software Consultancy Private Limited'
-    website:  'http://www.assoftwaregroup.com/'
-'A T Kearney Ltd':
-    city:  'Gurgaon'
-    name:  'A T Kearney Ltd'
-    website:  'http://www.atkearney.in/'
-'A1 Future Technologies Pvt Ltd':
-    city:  'Kolkata'
-    name:  'A1 Future Technologies Pvt Ltd'
-    website:  'http://www.a1future.com/'
-'Aabasoft':
-    city:  'Kochi'
-    name:  'Aabasoft'
-    website:  'http://www.aabasoft.com/'
-'AABSyS Information Technology Pvt Ltd':
-    city:  'Bhubaneswar'
-    name:  'AABSyS Information Technology Pvt Ltd'
-    website:  'http://www.aabsys.com/'
-'Aaum Research & Analytics Pvt Ltd':
-    city:  'Chennai'
-    name:  'Aaum Research & Analytics Pvt Ltd'
-    website:  'http://www.aaumanalytics.com/'
-'ABC for Java and Testing':
-    city:  'Bengaluru'
-    name:  'ABC for Java and Testing'
-    website:  'http://www.abcforjava.org/'
-'Abhiman Technologies Pvt Ltd':
-    city:  'Bengaluru'
-    name:  'Abhiman Technologies Pvt Ltd'
-    website:  'http://www.hiree.com/'
-'Abiba Systems Pvt Ltd':
-    city:  'Bengaluru'
-    name:  'Abiba Systems Pvt Ltd'
-    website:  'http://www.abibasystems.com/'
-'Ably Soft Pvt Ltd':
-    city:  'Mohali'
-    name:  'Ably Soft Pvt Ltd'
-    website:  'http://www.ablysoft.com/'
-'ABM Knowledgeware Ltd':
-    city:  'Mumbai'
-    name:  'ABM Knowledgeware Ltd'
-    website:  'http://www.abmindia.com/'
-'ABS Professional Services (India) Pvt Ltd':
-    city:  'Pune'
-    name:  'ABS Professional Services (India) Pvt Ltd'
-    website:  'http://www.eagle.org/'
-'AbsolutData Research & Analytics Solutions Pvt Ltd':
-    city:  'Gurgaon'
-    name:  'AbsolutData Research & Analytics Solutions Pvt Ltd'
-    website:  'http://www.absolutdata.com/'
-'Academy for Computer Training (Guj) Pvt Ltd':
-    city:  'Ahmedabad'
-    name:  'Academy for Computer Training (Guj) Pvt Ltd'
-    website:  'http://www.wordsworthelt.com/'
-'Accel Frontline Ltd':
-    city:  'Chennai'
-    name:  'Accel Frontline Ltd'
-    website:  'http://www.accelfrontline.in/'
-'Acceletrade Technologies Pvt Ltd':
-    city:  'Bengaluru'
-    name:  'Acceletrade Technologies Pvt Ltd'
-    website:  'http://www.acceletrade.com/'
-'AccelTree Software Pvt Ltd':
-    city:  'Pune'
-    name:  'AccelTree Software Pvt Ltd'
-    website:  'http://www.acceltree.com/'
-'Accelya Kale Solutions Ltd':
-    city:  'Mumbai'
-    name:  'Accelya Kale Solutions Ltd'
-    website:  'http://www.accelyakale.com/'
-'Accenture Services Pvt Ltd':
-    city:  'Bengaluru'
-    name:  'Accenture Services Pvt Ltd'
-    website:  'http://www.accenture.com/'
-'Access Healthcare Services Pvt Ltd':
-    city:  'Chennai'
-    name:  'Access Healthcare Services Pvt Ltd'
-    website:  'http://www.accesshealthcare.co/'
-'Acclaris Business Solutions Pvt Ltd':
-    city:  'Kolkata'
-    name:  'Acclaris Business Solutions Pvt Ltd'
-    website:  'http://www.acclaris.com/'
-'Accredit Screening Services Pvt Ltd':
-    city:  'Bengaluru'
-    name:  'Accredit Screening Services Pvt Ltd'
-    website:  'http://www.accredit.co.in/'
-'Accretive Health Pvt Ltd':
-    city:  'New Delhi'
-    name:  'Accretive Health Pvt Ltd'
-    website:  'http://accretivehealth.in/'
-'ACG Infotech Ltd':
-    city:  'Noida'
-    name:  'ACG Infotech Ltd'
-    website:  'http://www.acgil.com/'
-'Acidaes Solutions Pvt Ltd':
-    city:  'Noida'
-    name:  'Acidaes Solutions Pvt Ltd'
-    website:  'http://crmnext.com/'
-'Ackcezione Technologies Pvt Ltd':
-    city:  'Pune'
-    name:  'Ackcezione Technologies Pvt Ltd'
-    website:  'http://www.ackcezione.com/'
-'ACL Mobile Ltd':
-    city:  'Noida'
-    name:  'ACL Mobile Ltd'
-    website:  'http://www.acl-mobile.com/'
-'Acliv Technologies Pvt Ltd':
-    city:  'Bengaluru'
-    name:  'Acliv Technologies Pvt Ltd'
-    website:  'http://www.acliv.com/'
-'ACME Infovision Systems Pvt Ltd':
-    city:  'Satara'
-    name:  'ACME Infovision Systems Pvt Ltd'
-    website:  'http://www.acmeinfinity.com/'
-'ACN Infotech (India) Pvt Ltd':
-    city:  'Visakhapatnam'
-    name:  'ACN Infotech (India) Pvt Ltd'
-    website:  'http://www.acninfotech.com/'
+ 'ADAPT International Pvt Ltd':
+  city:  'Kolkata'
+  name:  'ADAPT International Pvt Ltd'
+  website:  'http://www.adaptsoft.com/'
+ 'ADCC Infocad Limited':
+  city:  'Nagpur'
+  name:  'ADCC Infocad Limited'
+  website:  'http://www.adccinfocad.com/'
+ 'ADP India Pvt Ltd':
+  city:  'Chennai'
+  name:  'ADP India Pvt Ltd'
+  website:  'http://www.mcsl.co.in/'
+ 'ADP Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'ADP Pvt Ltd'
+  website:  'http://www.adp.com/'
+ 'ADP Solutions Pvt Ltd':
+  city:  'Chennai'
+  name:  'ADP Solutions Pvt Ltd'
+  website:  'http://www.adp.com/'
+ 'AES Technologies (India) Pvt Ltd':
+  city:  'Coimbatore'
+  name:  'AES Technologies (India) Pvt Ltd'
+  website:  'http://www.aesasp.com/'
+ 'AFS Technology Services Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'AFS Technology Services Pvt Ltd'
+  website:  'http://home.afs.net/India'
+ 'AG Resources India Pvt Ltd':
+  city:  'Coimbatore'
+  name:  'AG Resources India Pvt Ltd'
+  website:  'http://www.asecin.com/'
+ 'AGATE Technocom Pvt Ltd':
+  city:  'Kolkata'
+  name:  'AGATE Technocom Pvt Ltd'
+  website:  'http://www.agatetechnocom.com/'
+ 'AH Career Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'AH Career Pvt Ltd'
+  website:  'http://www.ahcareer.in/'
+ 'AIG Data Services Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'AIG Data Services Pvt Ltd'
+  website:  'http://www.aig.com/'
+ 'AIMIA India Loyalty Management Pvt Ltd':
+  city:  'Mumbai'
+  name:  'AIMIA India Loyalty Management Pvt Ltd'
+  website:  'http://www.aimia.com/'
+ 'AK & S Associates':
+  city:  'Hyderabad'
+  name:  'AK & S Associates'
+  website:  'http://www.akands.com/'
+ 'AKS Information Technology Services Pvt Ltd':
+  city:  'Noida'
+  name:  'AKS Information Technology Services Pvt Ltd'
+  website:  'http://www.aksitservices.co.in/'
+ 'AKS Software Ltd':
+  city:  'Noida'
+  name:  'AKS Software Ltd'
+  website:  'http://www.aksamity.com/'
+ 'ANSR Source India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'ANSR Source India Pvt Ltd'
+  website:  'http://www.ansrsource.com/'
+ 'ANZ Operations and Technology Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'ANZ Operations and Technology Pvt Ltd'
+  website:  'http://www.anz-it.com/'
+ 'APEX eLearning Technologies Ltd':
+  city:  'Bengaluru'
+  name:  'APEX eLearning Technologies Ltd'
+  website:  'http://www.apexgroup.in/'
+ 'APS Property Solutions Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'APS Property Solutions Pvt Ltd'
+  website:  'http://www.aps-india.com/'
+ 'ARC Advisory Group':
+  city:  'Bengaluru'
+  name:  'ARC Advisory Group'
+  website:  'http://www.arcweb.com/'
+ 'ASDintech Services Pvt Ltd':
+  city:  'Noida'
+  name:  'ASDintech Services Pvt Ltd'
+  website:  'http://www.asdintech.com/'
+ 'ASE Structure Design Pvt Ltd':
+  city:  'Chennai'
+  name:  'ASE Structure Design Pvt Ltd'
+  website:  'http://www.asecaddesign.com/'
+ 'ASF Infrastructure Pvt Ltd':
+  city:  'New Delhi'
+  name:  'ASF Infrastructure Pvt Ltd'
+  website:  'http://www.asfinfrastructure.com/'
+ 'ASM Technologies Ltd':
+  city:  'Bengaluru'
+  name:  'ASM Technologies Ltd'
+  website:  'http://www.asmltd.com/'
+ 'ASPECT Integrated IT Pvt Ltd':
+  city:  'Amravati'
+  name:  'ASPECT Integrated IT Pvt Ltd'
+  website:  'http://www.aspectiit.com/'
+ 'AT&T Global Network Services India Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'AT&T Global Network Services India Pvt Ltd'
+  website:  'http://www.ap.att.com/'
+ 'ATOA Scientific Technologies Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'ATOA Scientific Technologies Pvt Ltd'
+  website:  'http://www.atoa.com/'
+ 'AVR EdGE Networks Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'AVR EdGE Networks Pvt Ltd'
+  website:  'http://www.edgenetworks.in/'
+ 'AXA Business Services Pvt Ltd':
+  city:  'Pune'
+  name:  'AXA Business Services Pvt Ltd'
+  website:  'http://www.axa.com/'
+ 'AXISCADES Engineering Technologies Ltd':
+  city:  'Bengaluru'
+  name:  'AXISCADES Engineering Technologies Ltd'
+  website:  'http://www.cadestech.com/'
+ 'Aabasoft':
+  city:  'Kochi'
+  name:  'Aabasoft'
+  website:  'http://www.aabasoft.com/'
+ 'Aaum Research & Analytics Pvt Ltd':
+  city:  'Chennai'
+  name:  'Aaum Research & Analytics Pvt Ltd'
+  website:  'http://www.aaumanalytics.com/'
+ 'Abhiman Technologies Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Abhiman Technologies Pvt Ltd'
+  website:  'http://www.hiree.com/'
+ 'Abiba Systems Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Abiba Systems Pvt Ltd'
+  website:  'http://www.abibasystems.com/'
+ 'Ably Soft Pvt Ltd':
+  city:  'Mohali'
+  name:  'Ably Soft Pvt Ltd'
+  website:  'http://www.ablysoft.com/'
+ 'AbsolutData Research & Analytics Solutions Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'AbsolutData Research & Analytics Solutions Pvt Ltd'
+  website:  'http://www.absolutdata.com/'
+ 'Academy for Computer Training (Guj) Pvt Ltd':
+  city:  'Ahmedabad'
+  name:  'Academy for Computer Training (Guj) Pvt Ltd'
+  website:  'http://www.wordsworthelt.com/'
+ 'Accel Frontline Ltd':
+  city:  'Chennai'
+  name:  'Accel Frontline Ltd'
+  website:  'http://www.accelfrontline.in/'
+ 'AccelTree Software Pvt Ltd':
+  city:  'Pune'
+  name:  'AccelTree Software Pvt Ltd'
+  website:  'http://www.acceltree.com/'
+ 'Acceletrade Technologies Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Acceletrade Technologies Pvt Ltd'
+  website:  'http://www.acceletrade.com/'
+ 'Accelya Kale Solutions Ltd':
+  city:  'Mumbai'
+  name:  'Accelya Kale Solutions Ltd'
+  website:  'http://www.accelyakale.com/'
+ 'Accenture Services Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Accenture Services Pvt Ltd'
+  website:  'http://www.accenture.com/'
+ 'Access Healthcare Services Pvt Ltd':
+  city:  'Chennai'
+  name:  'Access Healthcare Services Pvt Ltd'
+  website:  'http://www.accesshealthcare.co/'
+ 'Acclaris Business Solutions Pvt Ltd':
+  city:  'Kolkata'
+  name:  'Acclaris Business Solutions Pvt Ltd'
+  website:  'http://www.acclaris.com/'
+ 'Accredit Screening Services Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Accredit Screening Services Pvt Ltd'
+  website:  'http://www.accredit.co.in/'
+ 'Accretive Health Pvt Ltd':
+  city:  'New Delhi'
+  name:  'Accretive Health Pvt Ltd'
+  website:  'http://accretivehealth.in/'
+ 'Acidaes Solutions Pvt Ltd':
+  city:  'Noida'
+  name:  'Acidaes Solutions Pvt Ltd'
+  website:  'http://crmnext.com/'
+ 'Ackcezione Technologies Pvt Ltd':
+  city:  'Pune'
+  name:  'Ackcezione Technologies Pvt Ltd'
+  website:  'http://www.ackcezione.com/'
+ 'Acliv Technologies Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Acliv Technologies Pvt Ltd'
+  website:  'http://www.acliv.com/'
+ 'Actuant India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Actuant India Pvt Ltd'
+  website:  'http://www.actuant.co.in/'
+ 'Acty System India Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Acty System India Pvt Ltd'
+  website:  'http://www.acty-sys.com/in/'
+ 'Acuvate Software Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Acuvate Software Pvt Ltd'
+  website:  'http://www.acuvate.com/'
+ 'Adamas Builders Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Adamas Builders Pvt Ltd'
+  website:  'http://www.mapletree.com.sg/'
+ 'Adamma Info Services Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Adamma Info Services Pvt Ltd'
+  website:  'http://www.adamma.in/'
+ 'Add Technologies (India) Ltd':
+  city:  'Bengaluru'
+  name:  'Add Technologies (India) Ltd'
+  website:  'http://www.addtech.in/'
+ 'AddWeb Solution Pvt Ltd':
+  city:  'Ahmedabad'
+  name:  'AddWeb Solution Pvt Ltd'
+  website:  'http://www.addwebsolution.com/'
+ 'Adhi Software Pvt Ltd':
+  city:  'Kanchipuram'
+  name:  'Adhi Software Pvt Ltd'
+  website:  'http://www.adhisoftware.co.in/'
+ 'AdoRoi Marketing Science Pvt Ltd':
+  city:  'Mumbai'
+  name:  'AdoRoi Marketing Science Pvt Ltd'
+  website:  'http://www.adoroi.com/'
+ 'Adobe Systems India Pvt Ltd':
+  city:  'Noida'
+  name:  'Adobe Systems India Pvt Ltd'
+  website:  'http://www.adobeindia.com/'
+ 'Adrenalin eSystems Ltd':
+  city:  'Chennai'
+  name:  'Adrenalin eSystems Ltd'
+  website:  'http://www.myadrenalin.com/'
+ 'Advance Systems Software Development Lab Ltd':
+  city:  'Gurgaon'
+  name:  'Advance Systems Software Development Lab Ltd'
+  website:  'http://www.asdel.co/'
+ 'Advanced Business Intelligence & Analytics Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Advanced Business Intelligence & Analytics Pvt Ltd'
+  website:  'http://www.dataguru.in/'
+ 'Advantech Industrial Computing India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Advantech Industrial Computing India Pvt Ltd'
+  website:  'http://www.advantech.in/'
+ 'Advent Global Solutions Ltd':
+  city:  'Hyderabad'
+  name:  'Advent Global Solutions Ltd'
+  website:  'http://www.adventglobal.com/'
+ 'Advent Systems':
+  city:  'Bengaluru'
+  name:  'Advent Systems'
+  website:  'http://www.adventsys.in/'
+ 'Aegis Ltd':
+  city:  'Mumbai'
+  name:  'Aegis Ltd'
+  website:  'http://www.aegiscomgroup.com/'
+ 'Aeren IT Solutions Pvt Ltd':
+  city:  'Chandigarh'
+  name:  'Aeren IT Solutions Pvt Ltd'
+  website:  'http://www.acrenoutsourcing.com/'
+ 'Agile Labs Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Agile Labs Pvt Ltd'
+  website:  'http://www.agile-labs.com/'
+ 'Agile Learning Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Agile Learning Pvt Ltd'
+  website:  'http://www.agilelearning.com/'
+ 'Agni Information Systems Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Agni Information Systems Pvt Ltd'
+  website:  'http://www.agniinfo.com/'
+ 'Ahana Systems and Solutions Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Ahana Systems and Solutions Pvt Ltd'
+  website:  'http://www.ahana.co.in/'
+ 'Ahsan Technologies Pvt Ltd':
+  city:  'Chennai'
+  name:  'Ahsan Technologies Pvt Ltd'
+  website:  'http://www.agriya.com/'
+ 'Airaavat Technologies Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Airaavat Technologies Pvt Ltd'
+  website:  'http://www.airaavat.com/'
+ 'Ajuba Solutions (India) Pvt Ltd':
+  city:  'Chennai'
+  name:  'Ajuba Solutions (India) Pvt Ltd'
+  website:  'http://www.ajubanet.net/'
+ 'Akamai Technologies India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Akamai Technologies India Pvt Ltd'
+  website:  'http://www.akamai.com/'
+ 'Aker Powergas Subsea Pvt Ltd':
+  city:  'Pune'
+  name:  'Aker Powergas Subsea Pvt Ltd'
+  website:  'http://www.akersolutions.com/'
+ 'Akmin Technologies Pvt Ltd':
+  city:  'Chennai'
+  name:  'Akmin Technologies Pvt Ltd'
+  website:  'http://www.akmin.com/'
+ 'Alcanzar Software Solutions Pvt Ltd':
+  city:  'Lucknow'
+  name:  'Alcanzar Software Solutions Pvt Ltd'
+  website:  'http://alcanzarsoft.com/'
+ 'Alcon Laboratories (India) Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Alcon Laboratories (India) Pvt Ltd'
+  website:  'http://www.alcon.com/'
+ 'Algorithmic Insight Pvt Ltd':
+  city:  'New Delhi'
+  name:  'Algorithmic Insight Pvt Ltd'
+  website:  'http://www.a-insight.com/'
+ 'Algorithms Software Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Algorithms Software Pvt Ltd'
+  website:  'http://www.algosoftware.com/'
+ 'Alisons Infomatics Pvt Ltd':
+  city:  'Kannur'
+  name:  'Alisons Infomatics Pvt Ltd'
+  website:  'http://www.alisonsgroup.com/'
+ 'All India Society For Electronics & Computer Technology (AISECT)':
+  city:  'Bhopal'
+  name:  'All India Society For Electronics & Computer Technology
+    (AISECT)'
+  website:  'http://www.aisect.org/'
+ 'All e Technologies (P) Ltd':
+  city:  'Noida'
+  name:  'All e Technologies (P) Ltd'
+  website:  'http://www.alletec.com/'
+ 'Allegis Services India Pvt Ltd (EASi)':
+  city:  'Bengaluru'
+  name:  'Allegis Services India Pvt Ltd (EASi)'
+  website:  'http://www.easi.com/'
+ 'Allerin Tech Pvt Ltd':
+  city:  'Navi Mumbai'
+  name:  'Allerin Tech Pvt Ltd'
+  website:  'http://www.allerin.com/'
+ 'Alliance Global Services IT India Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Alliance Global Services IT India Pvt Ltd'
+  website:  'http://www.allianceglobalservices.com/'
+ 'Allsec Technologies Ltd':
+  city:  'Chennai'
+  name:  'Allsec Technologies Ltd'
+  website:  'http://www.allsectech.com/'
+ 'Allstate Solutions Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Allstate Solutions Pvt Ltd'
+  website:  'http://www.allstate.com/'
+ 'Almamate Info Tech Pvt Ltd':
+  city:  'Noida'
+  name:  'Almamate Info Tech Pvt Ltd'
+  website:  'http://www.almamate.in/'
+ 'Alpha Plus Technologies Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Alpha Plus Technologies Pvt Ltd'
+  website:  'http://www.alphaplustech.com/'
+ 'Alpharithm Technologies Pvt Ltd':
+  city:  'Chennai'
+  name:  'Alpharithm Technologies Pvt Ltd'
+  website:  'http://www.alpharithm.com/'
+ 'Alsbridge Advisory Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Alsbridge Advisory Pvt Ltd'
+  website:  'http://www.alsbridge.com/'
+ 'Altair Engineering India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Altair Engineering India Pvt Ltd'
+  website:  'http://www.altair.com/'
+ 'Altimetrik India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Altimetrik India Pvt Ltd'
+  website:  'http://www.altimetrik.com/'
+ 'Altiux Innovations Private Limited':
+  city:  'Bengaluru'
+  name:  'Altiux Innovations Private Limited'
+  website:  'http://www.altiux.com/'
+ 'Altran Technologies India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Altran Technologies India Pvt Ltd'
+  website:  'http://www.altran.co.in/'
+ 'Altura Consulting Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Altura Consulting Pvt Ltd'
+  website:  'http://www.altura.in/'
+ 'Amadeus Software Labs India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Amadeus Software Labs India Pvt Ltd'
+  website:  'http://www.amadeus.com/'
+ 'Amaze Infotainment Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Amaze Infotainment Pvt Ltd'
+  website:  'http://memberdirectory.nasscom.in/mms_company_free_search/bfocus/www.amazearapp.com'
+ 'Amazon Seller Services Pvt Ltd':
+  city:  'New Delhi'
+  name:  'Amazon Seller Services Pvt Ltd'
+  website:  'http://www.amazon.com/'
+ 'Ambalal Infinity Solutions Pvt Ltd':
+  city:  'Vellore'
+  name:  'Ambalal Infinity Solutions Pvt Ltd'
+  website:  'http://www.ambalalinfy.com/'
+ 'Amdipharm Mercury Services Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Amdipharm Mercury Services Pvt Ltd'
+  website:  'http://www.mercurypharma.com/'
+ 'Amdocs Development Centre India Pvt Ltd':
+  city:  'Pune'
+  name:  'Amdocs Development Centre India Pvt Ltd'
+  website:  'http://www.amdocs.com/'
+ 'American Express India Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'American Express India Pvt Ltd'
+  website:  'http://www.americanexpress.co.in/'
+ 'American Megatrends India Pvt Ltd':
+  city:  'Chennai'
+  name:  'American Megatrends India Pvt Ltd'
+  website:  'http://www.amiindia.co.in/'
+ 'Ameriprise India Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Ameriprise India Pvt Ltd'
+  website:  'http://www.ameriprise.com/'
+ 'Amicus Technology Pvt Ltd':
+  city:  'Raipur'
+  name:  'Amicus Technology Pvt Ltd'
+  website:  'http://www.amicusglobal.com/'
+ 'Amrapali Group of Institutes (A div. of Modern Academy Society)':
+  city:  'Haldwani'
+  name:  'Amrapali Group of Institutes (A div. of Modern Academy Society)'
+  website:  'http://www.amrapali.ac.in/'
+ 'Amrut Software Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Amrut Software Pvt Ltd'
+  website:  'http://www.amruts.com/'
+ 'Amulya Infotech India Pvt Ltd':
+  city:  'Coimbatore'
+  name:  'Amulya Infotech India Pvt Ltd'
+  website:  'http://www.amulya.biz/'
+ 'Anant Raj Ltd':
+  city:  'Chandigarh'
+  name:  'Anant Raj Ltd'
+  website:  'http://www.anantrajlimited.com/'
+ 'Anant Softtech Pvt Ltd':
+  city:  'Ahmedabad'
+  name:  'Anant Softtech Pvt Ltd'
+  website:  'http://www.anantsoftech.com/'
+ 'Anantara Solutions Pvt Ltd':
+  city:  'Chennai'
+  name:  'Anantara Solutions Pvt Ltd'
+  website:  'http://www.anantsol.com/'
+ 'Anantha Cybertech Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Anantha Cybertech Pvt Ltd'
+  website:  'http://www.anantha.co.in/'
+ 'Andhra Pradesh Technology Services Ltd':
+  city:  'Hyderabad'
+  name:  'Andhra Pradesh Technology Services Ltd'
+  website:  'http://www.apts.gov.in/'
+ 'Anibrain Digital Technologies Pvt Ltd':
+  city:  'Pune'
+  name:  'Anibrain Digital Technologies Pvt Ltd'
+  website:  'http://www.anibrain.com/'
+ 'Annik Technology Services Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Annik Technology Services Pvt Ltd'
+  website:  'http://www.anniksystems.com/'
+ 'Ansal IT City & Parks Ltd':
+  city:  'New Delhi'
+  name:  'Ansal IT City & Parks Ltd'
+  website:  'http://www.ansalapi.com/'
+ 'Antares Systems Ltd':
+  city:  'Bengaluru'
+  name:  'Antares Systems Ltd'
+  website:  'http://www.antaressystems.com/'
+ 'Anthelio Business Technologies Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Anthelio Business Technologies Pvt Ltd'
+  website:  'http://www.antheliohealth.com/'
+ 'Antworks Solutions India Pvt Ltd':
+  city:  'Pune'
+  name:  'Antworks Solutions India Pvt Ltd'
+  website:  'http://www.ant.works/'
+ 'Anubavam Technologies Pvt Ltd':
+  city:  'Chennai'
+  name:  'Anubavam Technologies Pvt Ltd'
+  website:  'http://www.anubavam.com/'
+ 'Aon Services India Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Aon Services India Pvt Ltd'
+  website:  'http://www.hewitt.com/'
+ 'Apax Partners India Advisers Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Apax Partners India Advisers Pvt Ltd'
+  website:  'http://www.apax.com/'
+ 'Apex Computer & Engineering Services':
+  city:  'Panaji'
+  name:  'Apex Computer & Engineering Services'
+  website:  'http://www.aces-india.com/'
+ 'Apex Professional University':
+  city:  'Passighat'
+  name:  'Apex Professional University'
+  website:  'http://www.apexuniversity.ac.in/'
+ 'AppPoint Software Solutions Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'AppPoint Software Solutions Pvt Ltd'
+  website:  'http://www.apppoint.com/'
+ 'AppSys Global Pvt Ltd':
+  city:  'Chennai'
+  name:  'AppSys Global Pvt Ltd'
+  website:  'http://www.appsysglobal.com/'
+ 'Appexigo Technologies Pvt Ltd':
+  city:  'Noida'
+  name:  'Appexigo Technologies Pvt Ltd'
+  website:  'http://www.appexigotech.com/'
+ 'Applied Cloud Computing Pvt Ltd':
+  city:  'Thane'
+  name:  'Applied Cloud Computing Pvt Ltd'
+  website:  'http://www.appliedcloudcomputing.com/'
+ 'Applied Software Pvt Ltd':
+  city:  'Ahmedabad'
+  name:  'Applied Software Pvt Ltd'
+  website:  'http://www.appliedcommerce.com/'
+ 'AppsGuru Business IT Consulting Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'AppsGuru Business IT Consulting Pvt Ltd'
+  website:  'http://memberdirectory.nasscom.in/mms_company_free_search/bfocus/www.appsguruconsulting.com'
+ 'Apt Software Avenues Pvt Ltd':
+  city:  'Kolkata'
+  name:  'Apt Software Avenues Pvt Ltd'
+  website:  'http://www.aptsoftware.com/'
+ 'Aptara Technologies Pvt Ltd':
+  city:  'Pune'
+  name:  'Aptara Technologies Pvt Ltd'
+  website:  'http://www.aptaracorp.com/'
+ 'Aptean India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Aptean India Pvt Ltd'
+  website:  'http://www.aptean.com/'
+ 'Aptech Ltd':
+  city:  'Mumbai'
+  name:  'Aptech Ltd'
+  website:  'http://www.aptech-worldwide.com/'
+ 'Arctern Consulting Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Arctern Consulting Pvt Ltd'
+  website:  'http://www.arctern.com/'
+ 'Arezzo Sky India Pvt Ltd':
+  city:  'Pune'
+  name:  'Arezzo Sky India Pvt Ltd'
+  website:  'http://www.arezzosky.com/'
+ 'Aria Telecom Solutions Pvt Ltd':
+  city:  'Delhi'
+  name:  'Aria Telecom Solutions Pvt Ltd'
+  website:  'http://www.ariatelecom.net/'
+ 'Aricent Technologies (Holdings) Ltd':
+  city:  'Gurgaon'
+  name:  'Aricent Technologies (Holdings) Ltd'
+  website:  'http://www.aricent.com/'
+ 'Arora and Associates Realty Ltd':
+  city:  'New Delhi'
+  name:  'Arora and Associates Realty Ltd'
+  website:  'http://www.thearoragroup.in/'
+ 'Arrk Solutions Pvt Ltd':
+  city:  'Navi Mumbai'
+  name:  'Arrk Solutions Pvt Ltd'
+  website:  'http://www.arrkgroup.com/'
+ 'Arrowpoint Technologies Pvt Ltd':
+  city:  'Chennai'
+  name:  'Arrowpoint Technologies Pvt Ltd'
+  website:  'http://www.arrowpointtechnologies.com/'
+ 'Artech Infosystems Pvt Ltd':
+  city:  'Noida'
+  name:  'Artech Infosystems Pvt Ltd'
+  website:  'http://www.artechinfo.in/'
+ 'Arteria Technologies Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Arteria Technologies Pvt Ltd'
+  website:  'http://www.arteriatech.com/'
+ 'Arteva Consulting Pvt Ltd':
+  city:  'Ghaziabad'
+  name:  'Arteva Consulting Pvt Ltd'
+  website:  'http://www.artevaconsulting.com/'
+ 'Arya Risk Management Systems Pvt Ltd':
+  city:  'Pune'
+  name:  'Arya Risk Management Systems Pvt Ltd'
+  website:  'http://memberdirectory.nasscom.in/mms_company_free_search/bfocus/-'
+ 'Ascendas Services (India) Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Ascendas Services (India) Pvt Ltd'
+  website:  'http://www.ascendas.com/'
+ 'Ascenders Technologies Pvt Ltd':
+  city:  'Chennai'
+  name:  'Ascenders Technologies Pvt Ltd'
+  website:  'http://www.ascenderstech.com/'
+ 'Ascent Informatics (India) Pvt Ltd':
+  city:  'Pune'
+  name:  'Ascent Informatics (India) Pvt Ltd'
+  website:  'http://www.aiplindia.com/'
+ 'Ascent Resilience Solutions Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Ascent Resilience Solutions Pvt Ltd'
+  website:  'http://ascentitgroup.com/'
+ 'Ascomp Technologies Pvt Ltd':
+  city:  'Delhi'
+  name:  'Ascomp Technologies Pvt Ltd'
+  website:  'http://www.ascomp.com/'
+ 'Aspire Software Consultancy':
+  city:  'Bengaluru'
+  name:  'Aspire Software Consultancy'
+  website:  'http://www.aspiresoftwareconsultancy.com/'
+ 'Aspire Systems (India) Pvt Ltd':
+  city:  'Chennai'
+  name:  'Aspire Systems (India) Pvt Ltd'
+  website:  'http://www.aspiresys.com/'
+ 'Assimilate Solutions India Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Assimilate Solutions India Pvt Ltd'
+  website:  'http://www.assimilatesolutions.com/'
+ 'Assistanz Networks Pvt Ltd':
+  city:  'Coimbatore'
+  name:  'Assistanz Networks Pvt Ltd'
+  website:  'http://www.assistanz.com/'
+ 'Assotech Realty Pvt Ltd':
+  city:  'New Delhi'
+  name:  'Assotech Realty Pvt Ltd'
+  website:  'http://www.assotech.in/'
+ 'Assyst International Pvt Ltd':
+  city:  'Ernakulam'
+  name:  'Assyst International Pvt Ltd'
+  website:  'http://www.assyst.in/'
+ 'Asteor Software Pvt Ltd':
+  city:  'Thanjavur'
+  name:  'Asteor Software Pvt Ltd'
+  website:  'http://www.asteor.com/'
+ 'Astrea IT Services Pvt Ltd':
+  city:  'Noida'
+  name:  'Astrea IT Services Pvt Ltd'
+  website:  'http://www.astreait.com/'
+ 'Atcis Technology Private Limited':
+  city:  'Kolkata'
+  name:  'Atcis Technology Private Limited'
+  website:  'http://www.atcis.in/'
+ 'Atlogys (Automated Logical Software Pvt Ltd)':
+  city:  'New Delhi'
+  name:  'Atlogys (Automated Logical Software Pvt Ltd)'
+  website:  'http://www.atlogys.com/'
+ 'Atos India Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Atos India Pvt Ltd'
+  website:  'http://www.atos.net/'
+ 'Attinad Software Pvt Ltd':
+  city:  'Thiruvananthapuram'
+  name:  'Attinad Software Pvt Ltd'
+  website:  'http://www.attinadsoftware.com/'
+ 'Attra Infotech Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Attra Infotech Pvt Ltd'
+  website:  'http://www.attra.com/'
+ 'Aufait Technologies Pvt Ltd':
+  city:  'Calicut'
+  name:  'Aufait Technologies Pvt Ltd'
+  website:  'http://www.aufait.in/'
+ 'Aujas Networks Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Aujas Networks Pvt Ltd'
+  website:  'http://www.aujas.com/'
+ 'Aureus Analytics Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Aureus Analytics Pvt Ltd'
+  website:  'http://aureusanalytics.com/'
+ 'Aurum Equity Partners LLP':
+  city:  'Gurgaon'
+  name:  'Aurum Equity Partners LLP'
+  website:  'http://www.aurumequity.com/'
+ 'Authorgen Technologies Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Authorgen Technologies Pvt Ltd'
+  website:  'http://www.wiziq.com/'
+ 'Autodesk India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Autodesk India Pvt Ltd'
+  website:  'http://www.autodesk.com/'
+ 'Avaap IT Solutions Pvt Ltd':
+  city:  'Chennai'
+  name:  'Avaap IT Solutions Pvt Ltd'
+  website:  'http://www.avaap.com/'
+ 'Avani Cimcon Technologies Ltd':
+  city:  'Ahmedabad'
+  name:  'Avani Cimcon Technologies Ltd'
+  website:  'http://memberdirectory.nasscom.in/mms_company_free_search/bfocus/www.travelcarma.com'
+ 'Avantha Business Solutions Ltd':
+  city:  'Gurgaon'
+  name:  'Avantha Business Solutions Ltd'
+  website:  'http://www.avanthabsl.com/'
+ 'Avaya India Pvt Ltd':
+  city:  'Pune'
+  name:  'Avaya India Pvt Ltd'
+  website:  'http://www.avaya-apac.com/'
+ 'Avekshaa Technologies Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Avekshaa Technologies Pvt Ltd'
+  website:  'http://www.avekshaa.com/'
+ 'AvioHeliTronics InfoSystems Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'AvioHeliTronics InfoSystems Pvt Ltd'
+  website:  'http://www.aviohelitronics.com/'
+ 'Aviva Global Services (A div. Of A G S Customer Services (India) Pvt Ltd)':
+  city:  'Nagpur'
+  name:  'Aviva Global Services (A div. Of A G S Customer Services
+    (India) Pvt Ltd)'
+  website:  'http://www.aviva.com/'
+ 'Axcend Automation & Software Solutions Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Axcend Automation & Software Solutions Pvt Ltd'
+  website:  'http://www.axcend.com/'
+ 'Axcess Tech Systems India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Axcess Tech Systems India Pvt Ltd'
+  website:  'http://www.axcess.in/'
+ 'Axiliem Inc':
+  city:  'Bengaluru'
+  name:  'Axiliem Inc'
+  website:  'http://www.axiliem.com/'
+ 'Axio-Net Solutions (India) Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Axio-Net Solutions (India) Pvt Ltd'
+  website:  'http://www.axionet.ch/'
+ 'Axis Softech Private Limited':
+  city:  'Delhi'
+  name:  'Axis Softech Private Limited'
+  website:  'http://www.axissoftech.com/'
+ 'Axis Veriforte Services Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Axis Veriforte Services Pvt Ltd'
+  website:  'http://www.axisveriforte.com/'
+ 'Axon Outsourcing Pvt Ltd':
+  city:  'New Delhi'
+  name:  'Axon Outsourcing Pvt Ltd'
+  website:  'http://www.axonoutsourcing.com/'
+ 'Axtria India Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Axtria India Pvt Ltd'
+  website:  'http://www.axtria.com/'
+ 'Azureiken Technologies Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Azureiken Technologies Pvt Ltd'
+  website:  'http://www.azureiken.com/'
+ 'B4B IT Solutions Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'B4B IT Solutions Pvt Ltd'
+  website:  'http://www.b4bsolutions.com/'
+ 'BA Continuum India Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'BA Continuum India Pvt Ltd'
+  website:  'http://www.bankofamerica.com/'
+ 'BAeHAL Software Ltd':
+  city:  'Bengaluru'
+  name:  'BAeHAL Software Ltd'
+  website:  'http://www.baehal.com/'
+ 'BBITS Consulting Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'BBITS Consulting Pvt Ltd'
+  website:  'http://bbitsconsulting.com/'
+ 'BC Management Services Pvt Ltd':
+  city:  'Noida'
+  name:  'BC Management Services Pvt Ltd'
+  website:  'http://www.britishcouncil.org/'
+ 'BDI Systems and Technologies Pvt ltd':
+  city:  'Bengaluru'
+  name:  'BDI Systems and Technologies Pvt ltd'
+  website:  'http://www.bdisys.com/'
+ 'BE Engineering Services India Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'BE Engineering Services India Pvt Ltd'
+  website:  'http://memberdirectory.nasscom.in/mms_company_free_search/bfocus/www.beaerospace.com'
+ 'BIAS IT Consulting Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'BIAS IT Consulting Pvt Ltd'
+  website:  'http://www.biascorp.com/'
+ 'BMC Software India Pvt Ltd':
+  city:  'Pune'
+  name:  'BMC Software India Pvt Ltd'
+  website:  'http://www.bmc.com/'
+ 'BMR Advisors Pvt Ltd':
+  city:  'Mumbai'
+  name:  'BMR Advisors Pvt Ltd'
+  website:  'http://www.bmrmanagedservices.com/'
+ 'BNP Paribas India Solutions Pvt Ltd':
+  city:  'Mumbai'
+  name:  'BNP Paribas India Solutions Pvt Ltd'
+  website:  'http://www.bnpparibasindiasolutions.com/'
+ 'BNY Mellon International Operations (India) Pvt Ltd':
+  city:  'Pune'
+  name:  'BNY Mellon International Operations (India) Pvt Ltd'
+  website:  'http://www.bnymellon.com/'
+ 'BPO Integra India Pvt Ltd':
+  city:  'Coimbatore'
+  name:  'BPO Integra India Pvt Ltd'
+  website:  'http://www.globalintegra.com/'
+ 'BRIDGEi2i Analytics Solutions Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'BRIDGEi2i Analytics Solutions Pvt Ltd'
+  website:  'http://www.bridgei2i.com/'
+ 'BT & BT Management Consultancy Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'BT & BT Management Consultancy Pvt Ltd'
+  website:  'http://www.btbt.co.in/'
+ 'BT India Pvt Ltd':
+  city:  'New Delhi'
+  name:  'BT India Pvt Ltd'
+  website:  'http://www.bt.com/india'
+ 'Baabte System Technologies Pvt Ltd':
+  city:  'Calicut'
+  name:  'Baabte System Technologies Pvt Ltd'
+  website:  'http://www.baabte.com/'
+ 'Baba Farid Group of Institutions':
+  city:  'Bhatinda'
+  name:  'Baba Farid Group of Institutions'
+  website:  'http://www.babafaridgroup.com/'
+ 'Babumoshay Tradex Pvt Ltd':
+  city:  'Noida'
+  name:  'Babumoshay Tradex Pvt Ltd'
+  website:  'http://www.babumoshay.com/'
+ 'Bahwan CyberTek Pvt Ltd':
+  city:  'Chennai'
+  name:  'Bahwan CyberTek Pvt Ltd'
+  website:  'http://www.bahwancybertek.com/'
+ 'Bain Capability Center India Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Bain Capability Center India Pvt Ltd'
+  website:  'http://www.bain.com/'
+ 'Banca Sella S.p.A.':
+  city:  'Chennai'
+  name:  'Banca Sella S.p.A.'
+  website:  'http://www.sella.it/'
+ 'Bantech Solutions':
+  city:  'Kolkata'
+  name:  'Bantech Solutions'
+  website:  'http://www.iadroit.com/'
+ 'Barclays Shared Services Pvt Ltd':
+  city:  'Noida'
+  name:  'Barclays Shared Services Pvt Ltd'
+  website:  'http://www.barclays.com/'
+ 'Barclays Technology Centre India Pvt Ltd':
+  city:  'Pune'
+  name:  'Barclays Technology Centre India Pvt Ltd'
+  website:  'http://www.barclays.com/'
+ 'Batoi Systems Pvt Ltd':
+  city:  'Bhubaneswar'
+  name:  'Batoi Systems Pvt Ltd'
+  website:  'http://www.batoi.com/'
+ 'Bayern International':
+  city:  'Bengaluru'
+  name:  'Bayern International'
+  website:  'http://www.invest-in-bavaria.com/'
+ 'Bebo Technologies Pvt Ltd':
+  city:  'Chandigarh'
+  name:  'Bebo Technologies Pvt Ltd'
+  website:  'http://www.bebotechnologies.com/'
+ 'Bechtel India Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Bechtel India Pvt Ltd'
+  website:  'http://www.bechtel.com/'
+ 'Bellsoft India Solutions Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Bellsoft India Solutions Pvt Ltd'
+  website:  'http://www.bellsoftindia.com/'
+ 'Berkadia Services India Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Berkadia Services India Pvt Ltd'
+  website:  'http://memberdirectory.nasscom.in/mms_company_free_search/bfocus/www.berkadia.com'
+ 'Bertelsmann Marketing Services India Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Bertelsmann Marketing Services India Pvt Ltd'
+  website:  'http://www.arvatoindia.com/'
+ 'Best of Breed Software Solutions India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Best of Breed Software Solutions India Pvt Ltd'
+  website:  'http://www.bbssl.com/'
+ 'Bestfit Business Solutions Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Bestfit Business Solutions Pvt Ltd'
+  website:  'http://www.bestfitsolutions.co.in/'
+ 'BeyondSquare Solutions Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'BeyondSquare Solutions Pvt Ltd'
+  website:  'http://memberdirectory.nasscom.in/mms_company_free_search/bfocus/www.beyondsquare.com'
+ 'Bigtree Entertainment Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Bigtree Entertainment Pvt Ltd'
+  website:  'http://www.bigtree.in/'
+ 'Binary Fountain Solutions India Pvt Ltd':
+  city:  'Thiruvananthapuram'
+  name:  'Binary Fountain Solutions India Pvt Ltd'
+  website:  'http://www.binaryfountain.com/'
+ 'Biomatiques Identification Solutions Pvt Ltd':
+  city:  'Surat'
+  name:  'Biomatiques Identification Solutions Pvt Ltd'
+  website:  'http://www.biomatiques.com/'
+ 'Birlasoft (India) Ltd':
+  city:  'Noida'
+  name:  'Birlasoft (India) Ltd'
+  website:  'http://www.birlasoft.com/'
+ 'Bitsinbin Technologies Pvt Ltd':
+  city:  'New Delhi'
+  name:  'Bitsinbin Technologies Pvt Ltd'
+  website:  'http://www.bitsinbin.com/'
+ 'BlackBerry India Pvt Ltd':
+  city:  'Noida'
+  name:  'BlackBerry India Pvt Ltd'
+  website:  'http://www.rim.com/'
+ 'BlackRock Services India Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'BlackRock Services India Pvt Ltd'
+  website:  'http://www.blackrock.co.in/'
+ 'BlazeClan Technologies Pvt Ltd':
+  city:  'Pune'
+  name:  'BlazeClan Technologies Pvt Ltd'
+  website:  'http://www.blazeclan.com/'
+ 'Blisslogix Technology Solutions Pvt Ltd':
+  city:  'Chennai'
+  name:  'Blisslogix Technology Solutions Pvt Ltd'
+  website:  'http://www.blisslogix.com/'
+ 'Blue Camphor Technologies Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Blue Camphor Technologies Pvt Ltd'
+  website:  'http://www.skillspeed.com/'
+ 'Blue Chip Computer Consultants Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Blue Chip Computer Consultants Pvt Ltd'
+  website:  'http://www.bluechipsw.com/'
+ 'Blue Coat Network India Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Blue Coat Network India Pvt Ltd'
+  website:  'http://www.bluecoat.com/'
+ 'Blue Star Infotech Ltd':
+  city:  'Mumbai'
+  name:  'Blue Star Infotech Ltd'
+  website:  'http://www.bsil.com/'
+ 'Blue Umbrella India Pvt Ltd':
+  city:  'New Delhi'
+  name:  'Blue Umbrella India Pvt Ltd'
+  website:  'http://www.bluedd.com/'
+ 'Blueocean Market Intelligence Services Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Blueocean Market Intelligence Services Pvt Ltd'
+  website:  'http://www.blueoceanmi.com/'
+ 'BodhBridge Educational Services Pvt Ltd':
+  city:  'Chennai'
+  name:  'BodhBridge Educational Services Pvt Ltd'
+  website:  'http://www.btechguru.com/'
+ 'Bodhtree Consulting Ltd':
+  city:  'Hyderabad'
+  name:  'Bodhtree Consulting Ltd'
+  website:  'http://www.bodhtree.com/'
+ 'Boeing International Corporation India Pvt Ltd':
+  city:  'New Delhi'
+  name:  'Boeing International Corporation India Pvt Ltd'
+  website:  'http://www.boeing.com/'
+ 'Book Supply Bureau':
+  city:  'New Delhi'
+  name:  'Book Supply Bureau'
+  website:  'http://www.bsb.co.in/'
+ 'Botree Software International Ltd':
+  city:  'Chennai'
+  name:  'Botree Software International Ltd'
+  website:  'http://www.botree.co.in/'
+ 'Brady Company India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Brady Company India Pvt Ltd'
+  website:  'http://www.bradyindia.co.in/'
+ 'Brain4ce Education Solutions Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Brain4ce Education Solutions Pvt Ltd'
+  website:  'http://memberdirectory.nasscom.in/mms_company_free_search/bfocus/www.edureka.co'
+ 'Bravura Solutions India Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Bravura Solutions India Pvt Ltd'
+  website:  'http://www.bravurasolutions.com/'
+ 'Brickwork India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Brickwork India Pvt Ltd'
+  website:  'http://www.brickworkindia.com/'
+ 'Brillio Technologies Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Brillio Technologies Pvt Ltd'
+  website:  'http://www.brillio.com/'
+ 'Brindley Technologies Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Brindley Technologies Pvt Ltd'
+  website:  'http://www.brindleytech.com/'
+ 'Brio Technologies Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Brio Technologies Pvt Ltd'
+  website:  'http://www.brio.co.in/'
+ 'Brishti Technologies Private Limited':
+  city:  'Kolkata'
+  name:  'Brishti Technologies Private Limited'
+  website:  'https://www.myprivatetutor.com/'
+ 'Bristlecone India Ltd':
+  city:  'Mumbai'
+  name:  'Bristlecone India Ltd'
+  website:  'http://www.bcone.com/'
+ 'British Council':
+  city:  'New Delhi'
+  name:  'British Council'
+  website:  'http://www.britishcouncil.org/india'
+ 'Broadridge Financial Solutions (India) Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Broadridge Financial Solutions (India) Pvt Ltd'
+  website:  'http://www.broadridge.com/'
+ 'Brocade Communications Systems Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Brocade Communications Systems Pvt Ltd'
+  website:  'http://www.brocade.com/'
+ 'BullBear Device Pvt Ltd':
+  city:  'Ahmedabad'
+  name:  'BullBear Device Pvt Ltd'
+  website:  'http://www.bullbeardevice.com/'
+ 'Bulwark Systems':
+  city:  'Vadodara'
+  name:  'Bulwark Systems'
+  website:  'http://www.bulwarks.com/'
+ 'Business Brio (A division of GBSM Consulting Pvt Ltd)':
+  city:  'Kolkata'
+  name:  'Business Brio (A division of GBSM Consulting Pvt Ltd)'
+  website:  'http://www.businessbrio.com/'
+ 'Busy Infotech Pvt Ltd':
+  city:  'New Delhi'
+  name:  'Busy Infotech Pvt Ltd'
+  website:  'http://www.busy.in/'
+ 'Butler Technical Services India (P) Ltd':
+  city:  'Hyderabad'
+  name:  'Butler Technical Services India (P) Ltd'
+  website:  'http://www.butler.com/'
+ 'ByDesign India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'ByDesign India Pvt Ltd'
+  website:  'http://www.bydesignindia.com/'
+ 'C-Net Infotech Pvt Ltd':
+  city:  'Bhopal'
+  name:  'C-Net Infotech Pvt Ltd'
+  website:  'http://www.cnet-india.com/'
+ 'C1 India Pvt Ltd':
+  city:  'Noida'
+  name:  'C1 India Pvt Ltd'
+  website:  'http://www.c1india.com/'
+ 'C42 Engineering India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'C42 Engineering India Pvt Ltd'
+  website:  'http://c42.in/'
+ 'CA (India) Technologies Pvt Ltd':
+  city:  'Mumbai'
+  name:  'CA (India) Technologies Pvt Ltd'
+  website:  'http://www.ca.com/'
+ 'CADD Centre Training Services Pvt Ltd':
+  city:  'Chennai'
+  name:  'CADD Centre Training Services Pvt Ltd'
+  website:  'http://www.caddcentre.ws/'
+ 'CAST Software India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'CAST Software India Pvt Ltd'
+  website:  'http://www.castsoftware.com/'
+ 'CDK Global India Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'CDK Global India Pvt Ltd'
+  website:  'http://www.cdkglobal.com/'
+ 'CE Info Systems Pvt Ltd':
+  city:  'New Delhi'
+  name:  'CE Info Systems Pvt Ltd'
+  website:  'http://www.mapmyindia.com/'
+ 'CEDCOSS Technologies Pvt Ltd':
+  city:  'Lucknow'
+  name:  'CEDCOSS Technologies Pvt Ltd'
+  website:  'http://www.cedcoss.com/'
+ 'CES Limited':
+  city:  'Hyderabad'
+  name:  'CES Limited'
+  website:  'http://www.cesltd.com/'
+ 'CFA Institute India Private Limited':
+  city:  'Mumbai'
+  name:  'CFA Institute India Private Limited'
+  website:  'http://memberdirectory.nasscom.in/mms_company_free_search/bfocus/www.cfainstitute.org'
+ 'CGI Information Systems and Management Consultants Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'CGI Information Systems and Management Consultants Pvt Ltd'
+  website:  'http://www.cgi.com/'
+ 'CI Global Technologies Pvt Ltd':
+  city:  'Chennai'
+  name:  'CI Global Technologies Pvt Ltd'
+  website:  'http://www.ciindia.com/'
+ 'CIBERsites India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'CIBERsites India Pvt Ltd'
+  website:  'http://www.ciber.com/in'
+ 'CMA CGM Shared Service Centre (India) Pvt Ltd':
+  city:  'Chennai'
+  name:  'CMA CGM Shared Service Centre (India) Pvt Ltd'
+  website:  'http://www.cma-cgm.com/'
+ 'CMO AXiS Outsourcing Services Pvt Ltd':
+  city:  'Chennai'
+  name:  'CMO AXiS Outsourcing Services Pvt Ltd'
+  website:  'http://www.cmoaxis.com/'
+ 'CMS IT Services Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'CMS IT Services Pvt Ltd'
+  website:  'http://www.cmsitservices.com/'
+ 'CNO IT Services (India) Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'CNO IT Services (India) Pvt Ltd'
+  website:  'http://www.cnoindia.com/'
+ 'CNT Technologies Pvt Ltd':
+  city:  'New Delhi'
+  name:  'CNT Technologies Pvt Ltd'
+  website:  'http://www.cntglobal.in/'
+ 'COLT Technology Services India Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'COLT Technology Services India Pvt Ltd'
+  website:  'http://www.colt.net/'
+ 'COMSOL Multiphysics Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'COMSOL Multiphysics Pvt Ltd'
+  website:  'http://www.comsol.co.in/'
+ 'CR2 Technologies Ltd':
+  city:  'Ahmedabad'
+  name:  'CR2 Technologies Ltd'
+  website:  'http://www.cr2.in/'
+ 'CSM Technologies Pvt Ltd':
+  city:  'Bhubaneswar'
+  name:  'CSM Technologies Pvt Ltd'
+  website:  'http://memberdirectory.nasscom.in/mms_company_free_search/bfocus/www.csmpl.com'
+ 'CSS Corp Pvt Ltd':
+  city:  'Chennai'
+  name:  'CSS Corp Pvt Ltd'
+  website:  'http://www.csscorp.com/'
+ 'CVR College of Engineering':
+  city:  'Hyderabad'
+  name:  'CVR College of Engineering'
+  website:  'http://cvr.ac.in/'
+ 'Cabot Technology Solutions Pvt Ltd':
+  city:  'Kochi'
+  name:  'Cabot Technology Solutions Pvt Ltd'
+  website:  'http://www.cabotsolutions.com/'
+ 'Cactus Communications Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Cactus Communications Pvt Ltd'
+  website:  'http://www.cactusglobal.com/'
+ 'Cadmaxx Solutions Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Cadmaxx Solutions Pvt Ltd'
+  website:  'http://www.cadmaxx.com/'
+ 'CalSoft Pvt Ltd':
+  city:  'Pune'
+  name:  'CalSoft Pvt Ltd'
+  website:  'http://www.calsoftinc.com/'
+ 'Caliban Software Solutions Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Caliban Software Solutions Pvt Ltd'
+  website:  'http://www.calibansolutions.com/'
+ 'Caliber Interconnect Solutions Pvt Ltd':
+  city:  'Coimbatore'
+  name:  'Caliber Interconnect Solutions Pvt Ltd'
+  website:  'http://www.caliberinterconnects.com/'
+ 'Caliber Technologies Private Limited':
+  city:  'Hyderabad'
+  name:  'Caliber Technologies Private Limited'
+  website:  'http://www.caliberindia.com/'
+ 'Calling 24o7 BPO Services Pvt Ltd':
+  city:  'Pune'
+  name:  'Calling 24o7 BPO Services Pvt Ltd'
+  website:  'http://www.calling24o7.com/'
+ 'Calsoft Labs (India) Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Calsoft Labs (India) Pvt Ltd'
+  website:  'http://www.altencalsoftlabs.com/'
+ 'Cambridge Systems (India) Pvt Ltd':
+  city:  'Visakhapatnam'
+  name:  'Cambridge Systems (India) Pvt Ltd'
+  website:  'http://www.camsysind.com/'
+ 'Cambridge Technology Enterprises Ltd':
+  city:  'Hyderabad'
+  name:  'Cambridge Technology Enterprises Ltd'
+  website:  'http://www.ctepl.com/'
+ 'Canon India Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Canon India Pvt Ltd'
+  website:  'http://www.canon.co.in/'
+ 'Capco Technologies Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Capco Technologies Pvt Ltd'
+  website:  'http://www.capco.com/'
+ 'Capgemini Business Services (India) Ltd':
+  city:  'Bengaluru'
+  name:  'Capgemini Business Services (India) Ltd'
+  website:  'http://www.capgemini.com/'
+ 'Capgemini India Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Capgemini India Pvt Ltd'
+  website:  'http://www.capgemini.com/'
+ 'Capita India Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Capita India Pvt Ltd'
+  website:  'http://www.capita.co.uk/'
+ 'Captiveaide Advisory Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Captiveaide Advisory Pvt Ltd'
+  website:  'http://www.captiveaide.com/'
+ 'CareerBuilder.Com India Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'CareerBuilder.Com India Pvt Ltd'
+  website:  'http://www.careerbuilder.co.in/'
+ 'CareerVita India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'CareerVita India Pvt Ltd'
+  website:  'http://www.careervita.com/'
+ 'Caresoft Inc. India':
+  city:  'Bhopal'
+  name:  'Caresoft Inc. India'
+  website:  'http://www.caresoftinc.com/'
+ 'Cargill Business Services India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Cargill Business Services India Pvt Ltd'
+  website:  'http://www.cargill.com/'
+ 'Cargotec India Pvt Ltd':
+  city:  'Chennai'
+  name:  'Cargotec India Pvt Ltd'
+  website:  'http://www.navis.com/'
+ 'Caterpillar India Pvt Ltd':
+  city:  'Chennai'
+  name:  'Caterpillar India Pvt Ltd'
+  website:  'http://www.caterpillar.com/'
+ 'Cavium Networks (India) Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Cavium Networks (India) Pvt Ltd'
+  website:  'http://www.caviumnetworks.com/'
+ 'Cegura Technology Solutions Pvt Ltd':
+  city:  'Kolkata'
+  name:  'Cegura Technology Solutions Pvt Ltd'
+  website:  'http://www.cegura.com/'
+ 'Centre for Development of Advanced Computing (C - DAC)':
+  city:  'Pune'
+  name:  'Centre for Development of Advanced Computing (C - DAC)'
+  website:  'http://www.cdac.in/'
+ 'Centre for Development of Telematics (C-DOT)':
+  city:  'New Delhi'
+  name:  'Centre for Development of Telematics (C-DOT)'
+  website:  'http://www.cdot.co.in/'
+ 'Centre for Research and Industrial Staff Performance (CRISP)':
+  city:  'Bhopal'
+  name:  'Centre for Research and Industrial Staff Performance (CRISP)'
+  website:  'http://www.crispindia.com/'
+ 'Centroid Motion Capture Pvt Ltd':
+  city:  'Chennai'
+  name:  'Centroid Motion Capture Pvt Ltd'
+  website:  'http://www.centroid3d.com/'
+ 'Centurylink Technologies India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Centurylink Technologies India Pvt Ltd'
+  website:  'http://www.centurylink.com/'
+ 'Cerner Healthcare Solutions Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Cerner Healthcare Solutions Pvt Ltd'
+  website:  'http://www.cerner.com/'
+ 'Challido Softwares Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Challido Softwares Pvt Ltd'
+  website:  'http://challido.com/'
+ 'Changepond Technologies Pvt Ltd':
+  city:  'Chennai'
+  name:  'Changepond Technologies Pvt Ltd'
+  website:  'http://www.changepond.com/'
+ 'Chella Software Pvt Ltd':
+  city:  'Madurai'
+  name:  'Chella Software Pvt Ltd'
+  website:  'http://www.chelsoft.com/'
+ 'Chembian Technologies Pvt Ltd':
+  city:  'Chennai'
+  name:  'Chembian Technologies Pvt Ltd'
+  website:  'http://www.chembiantech.com/'
+ 'Chillipages Technologies':
+  city:  'Mangalore'
+  name:  'Chillipages Technologies'
+  website:  'http://www.chillipages.com/'
+ 'Chipmonk Technologies Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Chipmonk Technologies Pvt Ltd'
+  website:  'http://www.chipmonk.in/'
+ 'Chronito Technologies LLP':
+  city:  'Kolkata'
+  name:  'Chronito Technologies LLP'
+  website:  'http://www.chronitotech.com/'
+ 'Ciena India Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Ciena India Pvt Ltd'
+  website:  'http://www.ciena.com/india'
+ 'Cigniti Technologies Ltd':
+  city:  'Hyderabad'
+  name:  'Cigniti Technologies Ltd'
+  website:  'http://www.cigniti.com/'
+ 'Cimpress India Private Limited':
+  city:  'Mumbai'
+  name:  'Cimpress India Private Limited'
+  website:  'http://www.vistaprint.com/'
+ 'CipherCloud India Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'CipherCloud India Pvt Ltd'
+  website:  'http://www.ciphercloud.com/'
+ 'Circular Edge Solutions Pvt Ltd':
+  city:  'Chennai'
+  name:  'Circular Edge Solutions Pvt Ltd'
+  website:  'http://www.circularedge.com/'
+ 'Cisco Systems (India) Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Cisco Systems (India) Pvt Ltd'
+  website:  'http://www.cisco.com/web/IN/index.html'
+ 'Citicorp Services India Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Citicorp Services India Pvt Ltd'
+  website:  'http://-/'
+ 'Citius IT Solutions Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Citius IT Solutions Pvt Ltd'
+  website:  'http://www.citiustech.com/'
+ 'Citrix R&D India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Citrix R&D India Pvt Ltd'
+  website:  'http://www.citrix.com/'
+ 'Clairvolex Knowledge Processes Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Clairvolex Knowledge Processes Pvt Ltd'
+  website:  'http://www.clairvolex.com/'
+ 'Clearpath Technology Pvt Ltd':
+  city:  'New Delhi'
+  name:  'Clearpath Technology Pvt Ltd'
+  website:  'http://www.clearpathtechnology.com/'
+ 'Clematis Technology Solutions India Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Clematis Technology Solutions India Pvt Ltd'
+  website:  'http://www.clematistechsol.com/'
+ 'CliQr Technologies India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'CliQr Technologies India Pvt Ltd'
+  website:  'http://www.cliqr.com/'
+ 'ClickSoftware India Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'ClickSoftware India Pvt Ltd'
+  website:  'http://www.clicksoftware.com/'
+ 'Clonect Solutions Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Clonect Solutions Pvt Ltd'
+  website:  'http://www.clonect.com/'
+ 'CloudApps Software Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'CloudApps Software Pvt Ltd'
+  website:  'http://www.xpensemanager.com/'
+ 'Cloudstrats Technologies Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Cloudstrats Technologies Pvt Ltd'
+  website:  'http://www.cloudstrats.com/'
+ 'Cnetric Enterprise Solutions Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Cnetric Enterprise Solutions Pvt Ltd'
+  website:  'http://www.cnetric.com/'
+ 'Codeclouds IT Solutions Pvt Ltd':
+  city:  'Kolkata'
+  name:  'Codeclouds IT Solutions Pvt Ltd'
+  website:  'http://www.codeclouds.com/'
+ 'Codelattice Digital Solutions Pvt Ltd':
+  city:  'Calicut'
+  name:  'Codelattice Digital Solutions Pvt Ltd'
+  website:  'http://www.codelattice.com/'
+ 'Cognet HR Solutions Pvt Ltd':
+  city:  'Chennai'
+  name:  'Cognet HR Solutions Pvt Ltd'
+  website:  'http://www.cognethro.com/'
+ 'Cognitive Platform Solutions Pvt Ltd':
+  city:  'Chennai'
+  name:  'Cognitive Platform Solutions Pvt Ltd'
+  website:  'http://cognitiveplatformsolutions.com/'
+ 'Cognizant Technology Solutions India Pvt Ltd':
+  city:  'Chennai'
+  name:  'Cognizant Technology Solutions India Pvt Ltd'
+  website:  'http://www.cognizant.com/'
+ 'Coinmonk Ventures Pvt Ltd':
+  city:  'Tumkur'
+  name:  'Coinmonk Ventures Pvt Ltd'
+  website:  'http://www.unocoin.com/'
+ 'Colan Infotech Pvt Ltd':
+  city:  'Chennai'
+  name:  'Colan Infotech Pvt Ltd'
+  website:  'http://colaninfotech.com/'
+ 'Colgate Global Business Services Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Colgate Global Business Services Pvt Ltd'
+  website:  'http:///'
+ 'CollabNet Software Pvt Ltd':
+  city:  'Chennai'
+  name:  'CollabNet Software Pvt Ltd'
+  website:  'http://www.collab.net/'
+ 'Collabera Technologies Pvt Ltd':
+  city:  'Vadodara'
+  name:  'Collabera Technologies Pvt Ltd'
+  website:  'http://www.collabera.com/'
+ 'Colruyt IT Consultancy India Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Colruyt IT Consultancy India Pvt Ltd'
+  website:  'http://www.colruyt.in/'
+ 'CommVault Systems (India) Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'CommVault Systems (India) Pvt Ltd'
+  website:  'http://www.commvault.com/'
+ 'Commertia Internet Pvt Ltd':
+  city:  'Pune'
+  name:  'Commertia Internet Pvt Ltd'
+  website:  'http://www.commertia.in/'
+ 'Compare Infobase Ltd':
+  city:  'New Delhi'
+  name:  'Compare Infobase Ltd'
+  website:  'http://www.infobase.co.in/'
+ 'Compunnel Technology India Pvt Ltd':
+  city:  'Noida'
+  name:  'Compunnel Technology India Pvt Ltd'
+  website:  'http://www.infoprolearning.com/'
+ 'Computer Age Management Services Pvt Ltd':
+  city:  'Chennai'
+  name:  'Computer Age Management Services Pvt Ltd'
+  website:  'http://www.camsonline.com/'
+ 'Computer Sciences Corporation India Pvt Ltd':
+  city:  'Noida'
+  name:  'Computer Sciences Corporation India Pvt Ltd'
+  website:  'http://in.country.csc.com/'
+ 'Comunet Info-Systems Pvt Ltd':
+  city:  'Kolkata'
+  name:  'Comunet Info-Systems Pvt Ltd'
+  website:  'http://www.comunetsystems.com/'
+ 'Concentrix Technologies (India) Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Concentrix Technologies (India) Pvt Ltd'
+  website:  'http://www.concentrix.com/'
+ 'Congruent Info-Tech Pvt Ltd':
+  city:  'Chennai'
+  name:  'Congruent Info-Tech Pvt Ltd'
+  website:  'http://www.congruentindia.com/'
+ 'Congruent Solutions Pvt Ltd':
+  city:  'Chennai'
+  name:  'Congruent Solutions Pvt Ltd'
+  website:  'http://www.congruentsolutions.com/'
+ 'Connect Enterprises':
+  city:  'Aurangabad'
+  name:  'Connect Enterprises'
+  website:  'http://www.connectenterprises.in/'
+ 'Consim Info Pvt Ltd':
+  city:  'Chennai'
+  name:  'Consim Info Pvt Ltd'
+  website:  'http://www.consim.com/'
+ 'Continental Automative Components (India) Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Continental Automative Components (India) Pvt Ltd'
+  website:  'http://www.continental-corporation.com/'
+ 'Continental DataGraphics Technical Services India Pvt Ltd':
+  city:  'Chennai'
+  name:  'Continental DataGraphics Technical Services India Pvt Ltd'
+  website:  'http://www.cdgnow.com/'
+ 'Contus Support Interactive Pvt Ltd':
+  city:  'Chennai'
+  name:  'Contus Support Interactive Pvt Ltd'
+  website:  'http://www.contus.com/'
+ 'Converge Infocomm Pvt Ltd':
+  city:  'Ahmedabad'
+  name:  'Converge Infocomm Pvt Ltd'
+  website:  'http://www.virmati.com/'
+ 'Convergence IT Services Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Convergence IT Services Pvt Ltd'
+  website:  'http://www.convergenceservices.in/'
+ 'Convergys India Services Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Convergys India Services Pvt Ltd'
+  website:  'http://www.convergys.com/'
+ 'Copal Research India Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Copal Research India Pvt Ltd'
+  website:  'http://www.copalpartners.com/'
+ 'Coromandel Infotech India Ltd':
+  city:  'Chennai'
+  name:  'Coromandel Infotech India Ltd'
+  website:  'http://www.c2il.com/'
+ 'Corporate Executive Board India Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Corporate Executive Board India Pvt Ltd'
+  website:  'http://www.executiveboard.com/'
+ 'Corporate Infotech Pvt Ltd':
+  city:  'New Delhi'
+  name:  'Corporate Infotech Pvt Ltd'
+  website:  'http://www.cipl.org.in/'
+ 'Corporate Learning':
+  city:  'Visakhapatnam'
+  name:  'Corporate Learning'
+  website:  'http://memberdirectory.nasscom.in/mms_company_free_search/bfocus/www.corporatelearning.co.in'
+ 'Couth Infotech Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Couth Infotech Pvt Ltd'
+  website:  'http://www.couthit.com/'
+ 'Cox & Kings Global Services Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Cox & Kings Global Services Pvt Ltd'
+  website:  'http://www.ckgs.com/'
+ 'Cradiant IT Services Pvt Ltd':
+  city:  'Pune'
+  name:  'Cradiant IT Services Pvt Ltd'
+  website:  'http://www.cradiant.com/'
+ 'Craft Silicon Private Limited':
+  city:  'Bengaluru'
+  name:  'Craft Silicon Private Limited'
+  website:  'http://www.craftsilicon.com/'
+ 'Crane Global Solutions Ltd':
+  city:  'Hyderabad'
+  name:  'Crane Global Solutions Ltd'
+  website:  'http://www.cgslimited.com/'
+ 'Creative Lipi Webtech Pvt Ltd':
+  city:  'Noida'
+  name:  'Creative Lipi Webtech Pvt Ltd'
+  website:  'http://www.creativelipi.com/'
+ 'Credit Suisse Business Analytics India Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Credit Suisse Business Analytics India Pvt Ltd'
+  website:  'http://www.credit-suisse.com/'
+ 'CresTech Software Systems Pvt Ltd':
+  city:  'Noida'
+  name:  'CresTech Software Systems Pvt Ltd'
+  website:  'http://www.crestechglobal.com/'
+ 'Crimson Interactive Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Crimson Interactive Pvt Ltd'
+  website:  'http://www.crimsoni.com/'
+ 'CrimsonLogic India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'CrimsonLogic India Pvt Ltd'
+  website:  'http://www.crimsonlogic.com/'
+ 'Crisil Ltd':
+  city:  'Chennai'
+  name:  'Crisil Ltd'
+  website:  'http://www.irevna.com/'
+ 'Criterion Networks India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Criterion Networks India Pvt Ltd'
+  website:  'http://www.criterionnetworks.com/'
+ 'CrossWinds Technologies':
+  city:  'Hyderabad'
+  name:  'CrossWinds Technologies'
+  website:  'http://www.crosswindstechnologies.com/'
+ 'Crossdomain Solutions Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Crossdomain Solutions Pvt Ltd'
+  website:  'http://www.cross-domain.com/'
+ 'Cryptograph Technologies Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Cryptograph Technologies Pvt Ltd'
+  website:  'http://www.cryptographtech.com/'
+ 'Crystal Screening Services Pvt Ltd':
+  city:  'Noida'
+  name:  'Crystal Screening Services Pvt Ltd'
+  website:  'http://www.crystalscreening.com/'
+ 'CtrlS Datacenters Ltd':
+  city:  'Hyderabad'
+  name:  'CtrlS Datacenters Ltd'
+  website:  'http://www.ctrls.in/'
+ 'CustomerXPs Software Private Limited':
+  city:  'Bengaluru'
+  name:  'CustomerXPs Software Private Limited'
+  website:  'http://www.customerxps.com/'
+ 'Cuttingedge Translation Services Pvt Ltd':
+  city:  'Noida'
+  name:  'Cuttingedge Translation Services Pvt Ltd'
+  website:  'http://www.cuttingedge.co.in/'
+ 'Cvent India Private Limited':
+  city:  'Gurgaon'
+  name:  'Cvent India Private Limited'
+  website:  'http://www.cvent.com/en/india/'
+ 'Cybage Software Pvt Ltd':
+  city:  'Pune'
+  name:  'Cybage Software Pvt Ltd'
+  website:  'http://www.cybage.com/'
+ 'Cyber Astro Limited':
+  city:  'Gurgaon'
+  name:  'Cyber Astro Limited'
+  website:  'http://www.midaspctouch.com/'
+ 'CyberEye Research Labs & Security Solutions Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'CyberEye Research Labs & Security Solutions Pvt Ltd'
+  website:  'http://www.cybereyelabs.io/'
+ 'Cyberoam Technologies Pvt Ltd':
+  city:  'Ahmedabad'
+  name:  'Cyberoam Technologies Pvt Ltd'
+  website:  'http://cyberoam.com/'
+ 'Cybertech Systems and Software Ltd':
+  city:  'Mumbai'
+  name:  'Cybertech Systems and Software Ltd'
+  website:  'http://www.cybertech.com/'
+ 'Cybrosys Techno Solution Pvt Ltd':
+  city:  'Calicut'
+  name:  'Cybrosys Techno Solution Pvt Ltd'
+  website:  'http://www.cybrosys.com/'
+ 'Cygnet Infotech Pvt Ltd':
+  city:  'Ahmedabad'
+  name:  'Cygnet Infotech Pvt Ltd'
+  website:  'http://www.cygnet-infotech.com/'
+ 'CygnusPro Software Solutions Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'CygnusPro Software Solutions Pvt Ltd'
+  website:  'http://www.cygnuspro.com/'
+ 'Cyient Limited':
+  city:  'Hyderabad'
+  name:  'Cyient Limited'
+  website:  'http://www.cyient.com/'
+ 'Cypress Semiconductor Technology India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Cypress Semiconductor Technology India Pvt Ltd'
+  website:  'http://www.cypress.com/'
+ 'Cyret Technologies India Pvt Ltd':
+  city:  'Pune'
+  name:  'Cyret Technologies India Pvt Ltd'
+  website:  'http://www.cyret.com/'
+ 'D E Shaw India Software Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'D E Shaw India Software Pvt Ltd'
+  website:  'http://www.deshawindia.com/'
+ 'DBOI Global Services Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'DBOI Global Services Pvt Ltd'
+  website:  'http://www.db.com/'
+ 'DCM DataSystems (IT Division of DCM Ltd)':
+  city:  'Gurgaon'
+  name:  'DCM DataSystems (IT Division of DCM Ltd)'
+  website:  'http://www.dcmds.com/'
+ 'DLF Cyber City Developers Ltd':
+  city:  'Gurgaon'
+  name:  'DLF Cyber City Developers Ltd'
+  website:  'http://www.dlf.in/'
+ 'DRC Systems India Pvt Ltd':
+  city:  'Ahmedabad'
+  name:  'DRC Systems India Pvt Ltd'
+  website:  'http://www.drcsystems.com/'
+ 'DTCC Enterprise Servcies India Pvt Ltd':
+  city:  'Chennai'
+  name:  'DTCC Enterprise Servcies India Pvt Ltd'
+  website:  'http://www.dtcc.com/'
+ 'DTZ International Property Advisers Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'DTZ International Property Advisers Pvt Ltd'
+  website:  'http://www.dtz.com/'
+ 'Daffodil Software Ltd':
+  city:  'Gurgaon'
+  name:  'Daffodil Software Ltd'
+  website:  'http://www.daffodilsw.com/'
+ 'Dakshah eBiz Consulting Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Dakshah eBiz Consulting Pvt Ltd'
+  website:  'http://www.dakshahebiz.com/'
+ 'Danfoss Industries Pvt Ltd':
+  city:  'Chennai'
+  name:  'Danfoss Industries Pvt Ltd'
+  website:  'http://www.danfoss.com/home/'
+ 'Dassault Systemes India Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Dassault Systemes India Pvt Ltd'
+  website:  'http://www.3ds.com/'
+ 'Data Infosys Limited':
+  city:  'Jaipur'
+  name:  'Data Infosys Limited'
+  website:  'http://www.datainfosys.net/'
+ 'Data Resolve Technologies Pvt Ltd':
+  city:  'Noida'
+  name:  'Data Resolve Technologies Pvt Ltd'
+  website:  'http://www.dataresolve.com/'
+ 'Data Software Research Company Pvt Ltd':
+  city:  'Chennai'
+  name:  'Data Software Research Company Pvt Ltd'
+  website:  'http://www.dsrc.com/'
+ 'Data-Core (India) Pvt Ltd':
+  city:  'Kolkata'
+  name:  'Data-Core (India) Pvt Ltd'
+  website:  'http://www.datacore-india.com/'
+ 'DataTracks Services Ltd':
+  city:  'Chennai'
+  name:  'DataTracks Services Ltd'
+  website:  'http://www.datatracksglobal.com/'
+ 'Datacipher Solutions Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Datacipher Solutions Pvt Ltd'
+  website:  'http://www.datacipher.com/'
+ 'Datamatics Financial Services Ltd':
+  city:  'Mumbai'
+  name:  'Datamatics Financial Services Ltd'
+  website:  'http://www.datamaticsoutsourcing.com/'
+ 'Datamatics Global Services Ltd':
+  city:  'Mumbai'
+  name:  'Datamatics Global Services Ltd'
+  website:  'http://www.datamatics.com/'
+ 'Datavail Infotech Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Datavail Infotech Pvt Ltd'
+  website:  'http://www.datavail.com/'
+ 'Datawrkz Business Solutions Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Datawrkz Business Solutions Pvt Ltd'
+  website:  'http://memberdirectory.nasscom.in/mms_company_free_search/bfocus/www.datawrkz.com'
+ 'Dawn Consulting':
+  city:  'Bengaluru'
+  name:  'Dawn Consulting'
+  website:  'http://www.dawnconsulting.com/'
+ 'DealsNow Consumer Solutions Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'DealsNow Consumer Solutions Pvt Ltd'
+  website:  'http://www.hifives.in/'
+ 'Dell International Services India Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Dell International Services India Pvt Ltd'
+  website:  'http://www.dell.co.in/'
+ 'Deloitte Consulting India (P) Ltd':
+  city:  'Hyderabad'
+  name:  'Deloitte Consulting India (P) Ltd'
+  website:  'http://www.deloitte.com/'
+ 'Delta Technology & Management Services Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Delta Technology & Management Services Pvt Ltd'
+  website:  'http://www.deltaintech.com/'
+ 'DesiCrew Solutions Pvt Ltd':
+  city:  'Chennai'
+  name:  'DesiCrew Solutions Pvt Ltd'
+  website:  'http://www.desicrew.in/'
+ 'Det Norske Veritas AS':
+  city:  'Chennai'
+  name:  'Det Norske Veritas AS'
+  website:  'http://www.dnvindia.com/'
+ 'Deuteronsoft Technologies Private Limited':
+  city:  'Karur'
+  name:  'Deuteronsoft Technologies Private Limited'
+  website:  'http://deuteronsoft.com/'
+ 'Dev Information Technology Pvt Ltd':
+  city:  'Ahmedabad'
+  name:  'Dev Information Technology Pvt Ltd'
+  website:  'http://www.devitpl.com/'
+ 'Dewsoft Solution Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Dewsoft Solution Pvt Ltd'
+  website:  'http://www.dewsoftindia.com/'
+ 'Dexler Information Solutions Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Dexler Information Solutions Pvt Ltd'
+  website:  'http://www.dexler.com/'
+ 'DgFlick Solutions Pvt Ltd':
+  city:  'Mumbai'
+  name:  'DgFlick Solutions Pvt Ltd'
+  website:  'http://www.dgflick.com/'
+ 'Dhanvee Education Foundation':
+  city:  'Lucknow'
+  name:  'Dhanvee Education Foundation'
+  website:  'http://www.dhanvee.education/'
+ 'Diadem Technologies Pvt Ltd':
+  city:  'Kolkata'
+  name:  'Diadem Technologies Pvt Ltd'
+  website:  'http://www.diadem.co.in/'
+ 'Diaspark Infotech Pvt Ltd':
+  city:  'Indore'
+  name:  'Diaspark Infotech Pvt Ltd'
+  website:  'http://memberdirectory.nasscom.in/mms_company_free_search/bfocus/www.diaspark.com'
+ 'DigiCall Global Pvt Ltd':
+  city:  'Noida'
+  name:  'DigiCall Global Pvt Ltd'
+  website:  'http://www.digicallglobal.com/'
+ 'Digiquest India Ltd':
+  city:  'Hyderabad'
+  name:  'Digiquest India Ltd'
+  website:  'http://www.digiqueststudio.com/'
+ 'Digital Core Technologies Private Limited':
+  city:  'Kochi'
+  name:  'Digital Core Technologies Private Limited'
+  website:  'http://www.dicortech.com/'
+ 'Digital Insight India Products Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Digital Insight India Products Pvt Ltd'
+  website:  'http://www.digitalinsight.com/'
+ 'Dimentrix Technologies Pvt Ltd':
+  city:  'Pune'
+  name:  'Dimentrix Technologies Pvt Ltd'
+  website:  'http://www.dimentrix.com/'
+ 'Direction Software Solutions':
+  city:  'Mumbai'
+  name:  'Direction Software Solutions'
+  website:  'http://www.direction.biz/'
+ 'Disys India Pvt Ltd':
+  city:  'Chennai'
+  name:  'Disys India Pvt Ltd'
+  website:  'http://www.disys.com/'
+ 'Dot Com Infoway Ltd':
+  city:  'Chennai'
+  name:  'Dot Com Infoway Ltd'
+  website:  'http://www.dotcominfoway.com/'
+ 'Drishti-Soft Solutions Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Drishti-Soft Solutions Pvt Ltd'
+  website:  'http://www.drishti-soft.com/'
+ 'Drivestream India Pvt Ltd':
+  city:  'Chennai'
+  name:  'Drivestream India Pvt Ltd'
+  website:  'http://www.drivestream.com/'
+ 'Ducen IT Pvt Ltd':
+  city:  'Chennai'
+  name:  'Ducen IT Pvt Ltd'
+  website:  'http://www.ducenit.com/'
+ 'Dun & Bradstreet Technologies & Data Services Pvt Ltd':
+  city:  'Chennai'
+  name:  'Dun & Bradstreet Technologies & Data Services Pvt Ltd'
+  website:  'http://www.dnbtechnology.com/'
+ 'DynPro India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'DynPro India Pvt Ltd'
+  website:  'http://www.dynproindia.com/'
+ 'Dynamic Vertical Software Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Dynamic Vertical Software Pvt Ltd'
+  website:  'http://www.dynamicverticals.com/'
+ 'Dynode Software Technology Pvt Ltd':
+  city:  'Patna'
+  name:  'Dynode Software Technology Pvt Ltd'
+  website:  'http://www.dynodesoft.com/'
+ 'E-Herex Technologies Pvt Ltd':
+  city:  'Bhopal'
+  name:  'E-Herex Technologies Pvt Ltd'
+  website:  'http://www.eherex.com/'
+ 'E-Nxt Financials Ltd':
+  city:  'Mumbai'
+  name:  'E-Nxt Financials Ltd'
+  website:  'http://www.e-nxt.com/'
+ 'E.I. DuPont Services Centre India Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'E.I. DuPont Services Centre India Pvt Ltd'
+  website:  'http://www.dupont.com/'
+ 'EDP Soft':
+  city:  'Kolkata'
+  name:  'EDP Soft'
+  website:  'http://www.edpsoft.com/'
+ 'ELOGIC Technologies Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'ELOGIC Technologies Pvt Ltd'
+  website:  'http://www.elogic.co.in/'
+ 'EMC Software and Services India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'EMC Software and Services India Pvt Ltd'
+  website:  'http://india.emc.com/index.htm'
+ 'ERP BOSS':
+  city:  'Hyderabad'
+  name:  'ERP BOSS'
+  website:  'http://www.erpboss.com/'
+ 'ESDS Software Solution Pvt Ltd':
+  city:  'Nasik'
+  name:  'ESDS Software Solution Pvt Ltd'
+  website:  'http://www.esds.co.in/'
+ 'ESFITA Infotech Pvt Ltd':
+  city:  'Chennai'
+  name:  'ESFITA Infotech Pvt Ltd'
+  website:  'http://www.esfita.com/'
+ 'ESN Technologies (I) Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'ESN Technologies (I) Pvt Ltd'
+  website:  'http://www.esntechnologies.com/'
+ 'ESolz Technologies Pvt Ltd':
+  city:  'Kolkata'
+  name:  'ESolz Technologies Pvt Ltd'
+  website:  'http://www.esolz.net/'
+ 'ETAS Automotive India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'ETAS Automotive India Pvt Ltd'
+  website:  'http://www.etas.com/'
+ 'EUI Limited':
+  city:  'Gurgaon'
+  name:  'EUI Limited'
+  website:  'http://www.admiral.com/'
+ 'EYGBS (India) Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'EYGBS (India) Pvt Ltd'
+  website:  'http://www.ey.com/'
+ 'Easiprocess Private Limited':
+  city:  'Bengaluru'
+  name:  'Easiprocess Private Limited'
+  website:  'http://www.easiprocess.com/'
+ 'Eastern Software Systems Pvt Ltd':
+  city:  'Noida'
+  name:  'Eastern Software Systems Pvt Ltd'
+  website:  'http://www.essindia.com/'
+ 'Ebizindia Consulting Pvt Ltd':
+  city:  'Kolkata'
+  name:  'Ebizindia Consulting Pvt Ltd'
+  website:  'http://www.ebizindia.com/'
+ 'Ecommerce Consultants Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Ecommerce Consultants Pvt Ltd'
+  website:  'httt://www.eccouncil.org'
+ 'Ecomnets Technologies India Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Ecomnets Technologies India Pvt Ltd'
+  website:  'http://www.ecomnets.com/'
+ 'Ecosmob Technologies Pvt Ltd':
+  city:  'Ahmedabad'
+  name:  'Ecosmob Technologies Pvt Ltd'
+  website:  'http://www.ecosmob.com/'
+ 'Edelman India Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Edelman India Pvt Ltd'
+  website:  'http://www.edelman.com/'
+ 'Edgewood Networks Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Edgewood Networks Pvt Ltd'
+  website:  'http://www.edgewoodnetworks.com/'
+ 'Edifixio India Pvt Ltd':
+  city:  'Kolkata'
+  name:  'Edifixio India Pvt Ltd'
+  website:  'http://www.edifixio.co.in/'
+ 'Educomp Solutions Ltd':
+  city:  'Gurgaon'
+  name:  'Educomp Solutions Ltd'
+  website:  'http://www.educomp.com/'
+ 'EffiaSoft Private Limited':
+  city:  'Hyderabad'
+  name:  'EffiaSoft Private Limited'
+  website:  'http://www.effiasoft.com/'
+ 'Eicher Engineering Solutions (A Unit of VE Commercial Vehicles Ltd)':
+  city:  'Gurgaon'
+  name:  'Eicher Engineering Solutions (A Unit of VE Commercial Vehicles
+    Ltd)'
+  website:  'http://www.eicherengineeringglobal.com/'
+ 'Eka Software Solutions Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Eka Software Solutions Pvt Ltd'
+  website:  'http://www.ekaplus.com/'
+ 'Elagoon Business Solutions Private Limited':
+  city:  'Kolkata'
+  name:  'Elagoon Business Solutions Private Limited'
+  website:  'http://www.elagoonites.com/'
+ 'Electronic Arts Games (India) Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Electronic Arts Games (India) Pvt Ltd'
+  website:  'http://www.ea.com/'
+ 'Electronics For Imaging India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Electronics For Imaging India Pvt Ltd'
+  website:  'http://www.efi.com/'
+ 'Elegant Microweb Technologies Pvt Ltd':
+  city:  'Ahmedabad'
+  name:  'Elegant Microweb Technologies Pvt Ltd'
+  website:  'http://www.elegantjbi.com/'
+ 'Eli Research India Pvt Ltd':
+  city:  'Faridabad'
+  name:  'Eli Research India Pvt Ltd'
+  website:  'http://www.eliresearch.in/'
+ 'Elitecore Technologies Pvt Ltd':
+  city:  'Ahmedabad'
+  name:  'Elitecore Technologies Pvt Ltd'
+  website:  'http://www.elitecore.com/'
+ 'Ellucian Higher Education Systems India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Ellucian Higher Education Systems India Pvt Ltd'
+  website:  'http://www.ellucian.com/'
+ 'Elsys Intelligent Devices Pvt Ltd':
+  city:  'Thiruvananthapuram'
+  name:  'Elsys Intelligent Devices Pvt Ltd'
+  website:  'http://www.raksha.me/'
+ 'Elton Consulting India Pvt Ltd':
+  city:  'Coimbatore'
+  name:  'Elton Consulting India Pvt Ltd'
+  website:  'http://www.eltontechnologies.com/'
+ 'Elysium Technologies Pvt Ltd':
+  city:  'Madurai'
+  name:  'Elysium Technologies Pvt Ltd'
+  website:  'http://www.elysiumtechnologies.com/'
+ 'EmPowerM Mobility Solutions Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'EmPowerM Mobility Solutions Pvt Ltd'
+  website:  'http://memberdirectory.nasscom.in/mms_company_free_search/bfocus/-'
+ 'Embassy Office Parks Management Services Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Embassy Office Parks Management Services Pvt Ltd'
+  website:  'http://www.embassyindia.com/'
+ 'Emerson Innovation Center - Pune (A Div. of Emerson Electric Company (I) Pvt Ltd)':
+  city:  'Pune'
+  name:  'Emerson Innovation Center - Pune (A Div. of Emerson Electric
+    Company (I) Pvt Ltd)'
+  website:  'http://www.emerson.com/'
+ 'Emkor Solutions Ltd':
+  city:  'Gurgaon'
+  name:  'Emkor Solutions Ltd'
+  website:  'http://www.emkor.com/'
+ 'Emporis Enterprises LLP':
+  city:  'Margao'
+  name:  'Emporis Enterprises LLP'
+  website:  'http://www.emporisenterprises.com/'
+ 'EmpoweringVisions Solutions Pvt Ltd':
+  city:  'Pune'
+  name:  'EmpoweringVisions Solutions Pvt Ltd'
+  website:  'http://www.empoweringvisions.com/'
+ 'Emtec Software India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Emtec Software India Pvt Ltd'
+  website:  'http://www.emtecinc.com/'
+ 'Emulex Communications Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Emulex Communications Pvt Ltd'
+  website:  'http://www.emulex.com/'
+ 'EnTech Utility Service Bureau (India) Pvt Ltd':
+  city:  'Mumbai'
+  name:  'EnTech Utility Service Bureau (India) Pvt Ltd'
+  website:  'http://www.etech.us/'
+ 'Entercoms Solutions Pvt Ltd':
+  city:  'Pune'
+  name:  'Entercoms Solutions Pvt Ltd'
+  website:  'http://www.entercoms.com/'
+ 'EnvestNet Asset Management India Pvt Ltd':
+  city:  'Thiruvananthapuram'
+  name:  'EnvestNet Asset Management India Pvt Ltd'
+  website:  'http://www.envestnet.com/'
+ 'Eperium Business Solutions India Pvt Ltd':
+  city:  'Noida'
+  name:  'Eperium Business Solutions India Pvt Ltd'
+  website:  'http://www.eperiumindia.com/'
+ 'Epicenter Technologies Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Epicenter Technologies Pvt Ltd'
+  website:  'http://epicentertechnology.com/'
+ 'Equator Technologies':
+  city:  'Coimbatore'
+  name:  'Equator Technologies'
+  website:  'http://www.equatortek.com/'
+ 'Equiniti India Pvt Ltd':
+  city:  'Chennai'
+  name:  'Equiniti India Pvt Ltd'
+  website:  'http://www.equiniti-ics.com/'
+ 'Equinox Software & Services Pvt Ltd':
+  city:  'Pune'
+  name:  'Equinox Software & Services Pvt Ltd'
+  website:  'http://www.equinoxweb.co.in/'
+ 'Ericsson India Global Services Pvt Ltd':
+  city:  'Noida'
+  name:  'Ericsson India Global Services Pvt Ltd'
+  website:  'http://www.ericsson.co.in/'
+ 'Erode Builder Educational Trust''s Group of Institutions':
+  city:  'Kangayam'
+  name:  'Erode Builder Educational Trust''s Group of Institutions'
+  website:  'http://www.ebet.edu.in/'
+ 'EscrowTech India Pvt Ltd':
+  city:  'Chennai'
+  name:  'EscrowTech India Pvt Ltd'
+  website:  'http://www.escrowtech.in/'
+ 'Esko-Graphics India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Esko-Graphics India Pvt Ltd'
+  website:  'http://www.esko.com/'
+ 'Espire Infolabs Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Espire Infolabs Pvt Ltd'
+  website:  'http://www.espire.com/'
+ 'Essel Utilities Distribution Company Ltd':
+  city:  'Mumbai'
+  name:  'Essel Utilities Distribution Company Ltd'
+  website:  'http://www.esselutilities.com/'
+ 'Eternus Solutions Pvt Ltd':
+  city:  'Pune'
+  name:  'Eternus Solutions Pvt Ltd'
+  website:  'http://www.eternussolutions.com/'
+ 'Ethical Intelligent Technologies LLP':
+  city:  'Chennai'
+  name:  'Ethical Intelligent Technologies LLP'
+  website:  'http://www.eitworks.com/'
+ 'Eureka Outsourcing Solutions Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Eureka Outsourcing Solutions Pvt Ltd'
+  website:  'http://www.eosglobe.com/'
+ 'Eurofins IT Solutions India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Eurofins IT Solutions India Pvt Ltd'
+  website:  'http://www.eurofins.in/it-solutions.aspx'
+ 'Evalueserve.com Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Evalueserve.com Pvt Ltd'
+  website:  'http://www.evalueserve.com/'
+ 'Everest Business Advisory India Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Everest Business Advisory India Pvt Ltd'
+  website:  'http://www.everestgrp.com/'
+ 'Evoke Technologies Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Evoke Technologies Pvt Ltd'
+  website:  'http://www.evoketechnologies.com/'
+ 'Evolute Systems Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Evolute Systems Pvt Ltd'
+  website:  'http://www.evolute-sys.com/'
+ 'Excel Intelligence Services Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Excel Intelligence Services Pvt Ltd'
+  website:  'http://www.excelbizsolutions.com/'
+ 'ExcellenceTech Infosystems Pvt Ltd':
+  city:  'Kolkata'
+  name:  'ExcellenceTech Infosystems Pvt Ltd'
+  website:  'http://www.excellencetech.com/'
+ 'Excelsoft Technologies Pvt Ltd':
+  city:  'Mysore'
+  name:  'Excelsoft Technologies Pvt Ltd'
+  website:  'http://www.excelindia.com/'
+ 'Exeter Software India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Exeter Software India Pvt Ltd'
+  website:  'http://www.exeter.com/'
+ 'Exfo Electro-Optical Engineering India Pvt Ltd':
+  city:  'Pune'
+  name:  'Exfo Electro-Optical Engineering India Pvt Ltd'
+  website:  'http://www.exfo.com/'
+ 'Exilant Technologies Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Exilant Technologies Pvt Ltd'
+  website:  'http://www.exilant.com/'
+ 'Expedien E-Solutions Ltd':
+  city:  'Noida'
+  name:  'Expedien E-Solutions Ltd'
+  website:  'http://expedien.net/'
+ 'Experis IT Pvt Ltd':
+  city:  'Kolkata'
+  name:  'Experis IT Pvt Ltd'
+  website:  'http://www.expeisindia.com/'
+ 'Expert Global E-Commerce Solutions Private Limited':
+  city:  'Delhi'
+  name:  'Expert Global E-Commerce Solutions Private Limited'
+  website:  'http://www.goeventz.com/'
+ 'Expicient Software Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Expicient Software Pvt Ltd'
+  website:  'http://www.expicient.com/'
+ 'Extramarks.com Education Pvt Ltd':
+  city:  'Noida'
+  name:  'Extramarks.com Education Pvt Ltd'
+  website:  'http://www.extramarks.com/'
+ 'Extreme Networks India Pvt Ltd':
+  city:  'Chennai'
+  name:  'Extreme Networks India Pvt Ltd'
+  website:  'http://www.extremenetworks.com/'
+ 'Eyeres Infotech (India) Pvt Ltd':
+  city:  'Vijayawada'
+  name:  'Eyeres Infotech (India) Pvt Ltd'
+  website:  'http://www.eyeres.com/'
+ 'F G IT Services Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'F G IT Services Pvt Ltd'
+  website:  'http://www.felixglobalservices.com/'
+ 'F-Secure Pvt Ltd':
+  city:  'New Delhi'
+  name:  'F-Secure Pvt Ltd'
+  website:  'http://www.f-secure.in/'
+ 'FHLabs India Pvt Ltd':
+  city:  'New Delhi'
+  name:  'FHLabs India Pvt Ltd'
+  website:  'http://www.pedgelab.com/'
+ 'FIL India Business Services Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'FIL India Business Services Pvt Ltd'
+  website:  'http://www.fidelity.co.in/'
+ 'FLATMIND IT Solutions Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'FLATMIND IT Solutions Pvt Ltd'
+  website:  'http://www.flatmindtech.com/'
+ 'FLUXONIX Security Solutions Pvt Ltd':
+  city:  'Pune'
+  name:  'FLUXONIX Security Solutions Pvt Ltd'
+  website:  'http://www.deltaproactive.com/'
+ 'FNF Business Process Outsourcing Services India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'FNF Business Process Outsourcing Services India Pvt Ltd'
+  website:  'http://www.fnfindia.co.in/'
+ 'FSL Software Technologies Ltd':
+  city:  'Noida'
+  name:  'FSL Software Technologies Ltd'
+  website:  'http://www.fsltechnologies.com/'
+ 'FSS (Financial Software and Systems Pvt Ltd)':
+  city:  'Chennai'
+  name:  'FSS (Financial Software and Systems Pvt Ltd)'
+  website:  'http://www.fsstech.com/'
+ 'Facebook India Online Services Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Facebook India Online Services Pvt Ltd'
+  website:  'http://www.facebook.com/'
+ 'Fact Solutions India Pvt Ltd':
+  city:  'Kolkata'
+  name:  'Fact Solutions India Pvt Ltd'
+  website:  'http://www.factsoftware.com/'
+ 'Factset Systems India Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Factset Systems India Pvt Ltd'
+  website:  'http://www.factset.com/'
+ 'Faes Packaging Solutions Pvt Ltd':
+  city:  'Thiruvananthapuram'
+  name:  'Faes Packaging Solutions Pvt Ltd'
+  website:  'http://www.faespackagingsolutions.com/'
+ 'Fakhoury Consultants Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Fakhoury Consultants Pvt Ltd'
+  website:  'http://www.employmentimmigration.com/'
+ 'Fauna Technologies Pvt Ltd':
+  city:  'Navi Mumbai'
+  name:  'Fauna Technologies Pvt Ltd'
+  website:  'http://www.faunatechnologies.com/'
+ 'Fi-es Systems Pvt Ltd':
+  city:  'Thiruvananthapuram'
+  name:  'Fi-es Systems Pvt Ltd'
+  website:  'http://www.fi-es.com/'
+ 'Fidelity Business Services India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Fidelity Business Services India Pvt Ltd'
+  website:  'http://www.fidelity.co.in/'
+ 'Fifth Generation Technologies India Pvt Ltd':
+  city:  'Chennai'
+  name:  'Fifth Generation Technologies India Pvt Ltd'
+  website:  'http://www.fifthgentech.com/'
+ 'FinIQ Consulting India Private Limited':
+  city:  'Pune'
+  name:  'FinIQ Consulting India Private Limited'
+  website:  'http://www.finiq.com/'
+ 'Financial Technologies (India) Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Financial Technologies (India) Pvt Ltd'
+  website:  'http://www.ftindia.com/'
+ 'Finatel Technologies Private Limited':
+  city:  'Chennai'
+  name:  'Finatel Technologies Private Limited'
+  website:  'http://memberdirectory.nasscom.in/mms_company_free_search/bfocus/www.finateltech.com'
+ 'Finoit Technologies (I) Pvt Ltd':
+  city:  'Noida'
+  name:  'Finoit Technologies (I) Pvt Ltd'
+  website:  'http://www.finoit.com/'
+ 'Fintellix Solutions Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Fintellix Solutions Pvt Ltd'
+  website:  'http://www.fintellix.com/'
+ 'FireEye Cybersecurity Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'FireEye Cybersecurity Pvt Ltd'
+  website:  'http://memberdirectory.nasscom.in/mms_company_free_search/bfocus/www.FireEye.com'
+ 'First Advantage Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'First Advantage Pvt Ltd'
+  website:  'http://www.fadvasia.com/'
+ 'First American (India) Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'First American (India) Pvt Ltd'
+  website:  'http://www.firstam.co.in/'
+ 'First Serv Solutions Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'First Serv Solutions Pvt Ltd'
+  website:  'http://www.firstservsolutions.com/'
+ 'Firstrain Software Centre Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Firstrain Software Centre Pvt Ltd'
+  website:  'http://www.firstrain.com/'
+ 'Firstsource Solutions Ltd':
+  city:  'Mumbai'
+  name:  'Firstsource Solutions Ltd'
+  website:  'http://www.firstsource.com/'
+ 'Fiserv India Pvt Ltd':
+  city:  'Noida'
+  name:  'Fiserv India Pvt Ltd'
+  website:  'http://www.fiserv.com/'
+ 'Fission Computer Labs Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Fission Computer Labs Pvt Ltd'
+  website:  'http://www.fissionlabs.in/'
+ 'Five Splash Infotech Pvt Ltd':
+  city:  'Udaipur'
+  name:  'Five Splash Infotech Pvt Ltd'
+  website:  'http://www.fivesplash.in/'
+ 'Fixnix Infosec Solutions Pvt Ltd':
+  city:  'Vellore'
+  name:  'Fixnix Infosec Solutions Pvt Ltd'
+  website:  'http://fixrnix.in/'
+ 'Flatworld Solutions Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Flatworld Solutions Pvt Ltd'
+  website:  'http://www.flatworldsolutions.com/'
+ 'FlipCare Meditours Pvt Ltd':
+  city:  'Kochi'
+  name:  'FlipCare Meditours Pvt Ltd'
+  website:  'http://www.medicalportal.asia/'
+ 'Flipkart Internet Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Flipkart Internet Pvt Ltd'
+  website:  'http://www.flipkart.com/'
+ 'Fluent India Pvt Ltd':
+  city:  'Pune'
+  name:  'Fluent India Pvt Ltd'
+  website:  'http://www.ansys.com/'
+ 'Flutura Business Solutions Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Flutura Business Solutions Pvt Ltd'
+  website:  'http://www.flutura.com/'
+ 'Focus 4-D Career Education Pvt Ltd':
+  city:  'Coimbatore'
+  name:  'Focus 4-D Career Education Pvt Ltd'
+  website:  'http://www.focusacademy.in/'
+ 'Focuz Infotech (A Div. of Focuz Innovations Pvt Ltd)':
+  city:  'Kochi'
+  name:  'Focuz Infotech (A Div. of Focuz Innovations Pvt Ltd)'
+  website:  'http://www.focuzinfotech.com/'
+ 'Footprints Collateral Services Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Footprints Collateral Services Pvt Ltd'
+  website:  'http://www.checkfootprints.com/'
+ 'Foradian Technologies Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Foradian Technologies Pvt Ltd'
+  website:  'http://www.foradian.com/'
+ 'Ford Motor Pvt Ltd':
+  city:  'Chennai'
+  name:  'Ford Motor Pvt Ltd'
+  website:  'http://www.india.ford.com/'
+ 'Formac Software Services Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Formac Software Services Pvt Ltd'
+  website:  'http://www.formac.in/'
+ 'Forsvar Infosec Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Forsvar Infosec Pvt Ltd'
+  website:  'http://www.forsvarinfosec.com/'
+ 'Fortune InfoServeIndia Pvt Ltd':
+  city:  'Belgaum'
+  name:  'Fortune InfoServeIndia Pvt Ltd'
+  website:  'http://www.fortuneinfoserve.com/'
+ 'Forum IT Parks Pvt Ltd':
+  city:  'Kolkata'
+  name:  'Forum IT Parks Pvt Ltd'
+  website:  'http://www.forumprojects.in/'
+ 'Fourth Dimension Solutions Pvt Ltd':
+  city:  'New Delhi'
+  name:  'Fourth Dimension Solutions Pvt Ltd'
+  website:  'http://www.fdsindia.co.in/'
+ 'Fractal Analytics Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Fractal Analytics Pvt Ltd'
+  website:  'http://fractalanalytics.com/'
+ 'Fragomen Immigration Services India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Fragomen Immigration Services India Pvt Ltd'
+  website:  'http://www.fragomen.com/'
+ 'Franklin Templeton International Services (India) Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Franklin Templeton International Services (India) Pvt Ltd'
+  website:  'http://www.franklintempleton.com/'
+ 'Frictionless Ventures Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Frictionless Ventures Pvt Ltd'
+  website:  'http://www.frictionlessventures.com/'
+ 'Frontline Consulting Services Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Frontline Consulting Services Pvt Ltd'
+  website:  'http://www.teksystems.com/'
+ 'Fujitsu Consulting India Pvt Ltd':
+  city:  'Pune'
+  name:  'Fujitsu Consulting India Pvt Ltd'
+  website:  'http://www.fujitsu.com/'
+ 'Fullscan Business Solutions LLP':
+  city:  'Hyderabad'
+  name:  'Fullscan Business Solutions LLP'
+  website:  'http://www.fullscan.co.in/'
+ 'Future Focus Infotech Pvt Ltd':
+  city:  'Chennai'
+  name:  'Future Focus Infotech Pvt Ltd'
+  website:  'http://www.focusinfotech.com/'
+ 'Futurecalls Technology Pvt Ltd':
+  city:  'Chennai'
+  name:  'Futurecalls Technology Pvt Ltd'
+  website:  'http://www.futurecalls.com/'
+ 'Futurism Technologies Pvt Ltd':
+  city:  'Pune'
+  name:  'Futurism Technologies Pvt Ltd'
+  website:  'http://www.futurismtechnologies.com/'
+ 'G4S Corporate Services (India) Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'G4S Corporate Services (India) Pvt Ltd'
+  website:  'http://memberdirectory.nasscom.in/mms_company_free_search/bfocus/www.g4s.in'
+ 'G7 CR Technologies India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'G7 CR Technologies India Pvt Ltd'
+  website:  'http://www.g7cr.com/'
+ 'GA Software Technologies Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'GA Software Technologies Pvt Ltd'
+  website:  'http://www.gasofttech.com/'
+ 'GAVS Technologies Pvt Ltd':
+  city:  'Chennai'
+  name:  'GAVS Technologies Pvt Ltd'
+  website:  'http://www.gavsin.com/'
+ 'GCS Computer Tech Pvt Ltd':
+  city:  'Chandigarh'
+  name:  'GCS Computer Tech Pvt Ltd'
+  website:  'http://www.gcsgroup.co.in/'
+ 'GENPACT India':
+  city:  'Gurgaon'
+  name:  'GENPACT India'
+  website:  'http://www.genpact.com/'
+ 'GEP Solutions Pvt Ltd':
+  city:  'Navi Mumbai'
+  name:  'GEP Solutions Pvt Ltd'
+  website:  'http://www.gep.com/'
+ 'GES Infotek Pvt Ltd':
+  city:  'Thiruvananthapuram'
+  name:  'GES Infotek Pvt Ltd'
+  website:  'http://www.gesinfotek.com/'
+ 'GLOPORE IM Services Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'GLOPORE IM Services Pvt Ltd'
+  website:  'http://www.gloporeims.com/'
+ 'GM Insights Solution Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'GM Insights Solution Pvt Ltd'
+  website:  'http://www.glocalmind.com/'
+ 'GMS Software Solutions':
+  city:  'Bengaluru'
+  name:  'GMS Software Solutions'
+  website:  'http://www.gmssoft.com/'
+ 'GP Sourcing Pvt Ltd':
+  city:  'Mohali'
+  name:  'GP Sourcing Pvt Ltd'
+  website:  'http://www.globalpueblosolutions.com/'
+ 'GPX India Pvt Ltd':
+  city:  'Mumbai'
+  name:  'GPX India Pvt Ltd'
+  website:  'http://www.gpxglobal.net/'
+ 'GT US Shared Services Center India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'GT US Shared Services Center India Pvt Ltd'
+  website:  'http://www.gtsharedservices.co.in/'
+ 'GWB IT Solutions Pvt Ltd':
+  city:  'Indore'
+  name:  'GWB IT Solutions Pvt Ltd'
+  website:  'http://www.gowebbaby.com/'
+ 'Gadgeon Smart Systems Pvt Ltd':
+  city:  'Kochi'
+  name:  'Gadgeon Smart Systems Pvt Ltd'
+  website:  'http://www.gadgeon.com/'
+ 'Galactic Medical Databank Pvt Ltd':
+  city:  'Mysore'
+  name:  'Galactic Medical Databank Pvt Ltd'
+  website:  'http://www.gmdbcloud.com/'
+ 'Gallagher Operations Support Services Pvt Ltd':
+  city:  'Pune'
+  name:  'Gallagher Operations Support Services Pvt Ltd'
+  website:  'http://www.aig.com/'
+ 'Gamut Infosystems Ltd':
+  city:  'Kolkata'
+  name:  'Gamut Infosystems Ltd'
+  website:  'http://www.gamutinfosystems.com/'
+ 'Geine Technologies India Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Geine Technologies India Pvt Ltd'
+  website:  'http://www.geinetech.com/'
+ 'General Atlantic Pvt Ltd':
+  city:  'Mumbai'
+  name:  'General Atlantic Pvt Ltd'
+  website:  'http://www.generalatlantic.com/'
+ 'General Mills India Pvt Ltd':
+  city:  'Mumbai'
+  name:  'General Mills India Pvt Ltd'
+  website:  'http://www.generalmills.com/'
+ 'Geojit Technologies Pvt Ltd':
+  city:  'Ernakulam'
+  name:  'Geojit Technologies Pvt Ltd'
+  website:  'http://www.geojittechnologies.com/'
+ 'Geometric Ltd':
+  city:  'Mumbai'
+  name:  'Geometric Ltd'
+  website:  'http://www.geometricglobal.com/'
+ 'Germinait Solutions Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Germinait Solutions Pvt Ltd'
+  website:  'http://www.germin8.com/'
+ 'Gigabyte InfoComm Pvt Ltd':
+  city:  'Kolkata'
+  name:  'Gigabyte InfoComm Pvt Ltd'
+  website:  'http://www.yctc.co.in/'
+ 'Global Edge Software Ltd':
+  city:  'Bengaluru'
+  name:  'Global Edge Software Ltd'
+  website:  'http://www.globaledgesoft.com/'
+ 'Global Groupware Solutions Ltd':
+  city:  'Gurgaon'
+  name:  'Global Groupware Solutions Ltd'
+  website:  'http://www.employwise.com/'
+ 'Global Infovision Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Global Infovision Pvt Ltd'
+  website:  'http://www.globalinfovision.com/'
+ 'Global Softech':
+  city:  'Pune'
+  name:  'Global Softech'
+  website:  'http://www.gsoftech.in/'
+ 'Global Software Solutions (TVL) Pvt Ltd':
+  city:  'Tirunelveli'
+  name:  'Global Software Solutions (TVL) Pvt Ltd'
+  website:  'http://www.gsstvl.com/'
+ 'Global Talent Track Pvt Ltd':
+  city:  'Pune'
+  name:  'Global Talent Track Pvt Ltd'
+  website:  'http://www.gttconnect.com/'
+ 'Global e-Business Operations Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Global e-Business Operations Pvt Ltd'
+  website:  'http://www.hp.com/'
+ 'Global eNetworks Ltd':
+  city:  'New Delhi'
+  name:  'Global eNetworks Ltd'
+  website:  'http://www.globalenetworks.com/'
+ 'GlobalDoc Worldwide Translation Services India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'GlobalDoc Worldwide Translation Services India Pvt Ltd'
+  website:  'http://www.globaldoc.com/'
+ 'GlobalLogic India Ltd':
+  city:  'Noida'
+  name:  'GlobalLogic India Ltd'
+  website:  'http://www.globallogic.com/'
+ 'GlobalStep Services Pvt Ltd':
+  city:  'Pune'
+  name:  'GlobalStep Services Pvt Ltd'
+  website:  'http://globalstepgames.com/'
+ 'Globalnest IT Solutions Pvt Ltd':
+  city:  'Kolkata'
+  name:  'Globalnest IT Solutions Pvt Ltd'
+  website:  'http://www.globalnest.com/'
+ 'Globarena Technologies Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Globarena Technologies Pvt Ltd'
+  website:  'http://www.globarena.com/'
+ 'GlobeOp Financial Services (India) Pvt Ltd':
+  city:  'Mumbai'
+  name:  'GlobeOp Financial Services (India) Pvt Ltd'
+  website:  'http://www.globeop.com/'
+ 'Globus Infocom Limited':
+  city:  'New Delhi'
+  name:  'Globus Infocom Limited'
+  website:  'http://www.globusinfocom.com/'
+ 'Globussoft':
+  city:  'Bhilai'
+  name:  'Globussoft'
+  website:  'http://www.globussoft.com/'
+ 'Glueplus Innotech India Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Glueplus Innotech India Pvt Ltd'
+  website:  'http://www.glueplus.com/'
+ 'GoDB Tech Pvt Ltd':
+  city:  'Chennai'
+  name:  'GoDB Tech Pvt Ltd'
+  website:  'http://www.godbtech.com/'
+ 'GoFrugal Software Technologies Pvt Ltd':
+  city:  'Chennai'
+  name:  'GoFrugal Software Technologies Pvt Ltd'
+  website:  'http://www.gofrugal.com/'
+ 'Goavega Software India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Goavega Software India Pvt Ltd'
+  website:  'http://www.goavega.com/'
+ 'Godrej Infotech Ltd':
+  city:  'Mumbai'
+  name:  'Godrej Infotech Ltd'
+  website:  'http://www.godrejinfotech.com/'
+ 'Goldman Sachs Services Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Goldman Sachs Services Pvt Ltd'
+  website:  'http://www.gs.com/'
+ 'Good Friends Tracom Pvt Ltd':
+  city:  'Kolkata'
+  name:  'Good Friends Tracom Pvt Ltd'
+  website:  'http://www.gftpl.com/'
+ 'GoodWorkLabs Services Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'GoodWorkLabs Services Pvt Ltd'
+  website:  'http://www.goodworklabs.com/'
+ 'Google India Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Google India Pvt Ltd'
+  website:  'http://www.google.com/'
+ 'Goose Technologies Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Goose Technologies Pvt Ltd'
+  website:  'http://www.goose-tech.com/'
+ 'Got Softwares Pvt Ltd':
+  city:  'Chennai'
+  name:  'Got Softwares Pvt Ltd'
+  website:  'http://www.gotsoftwares.com/'
+ 'Graebert India Software Pvt Ltd':
+  city:  'Noida'
+  name:  'Graebert India Software Pvt Ltd'
+  website:  'http://www.graebert.in/'
+ 'Grandtrust Infotech Pvt Ltd':
+  city:  'Ernakulam'
+  name:  'Grandtrust Infotech Pvt Ltd'
+  website:  'http://www.thegti.com/'
+ 'GrayCell Technologies Exports':
+  city:  'Chandigarh'
+  name:  'GrayCell Technologies Exports'
+  website:  'http://www.graycelltech.com/'
+ 'Graymatter Software Services Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Graymatter Software Services Pvt Ltd'
+  website:  'http://www.graymatter.co.in/'
+ 'Great Lakes Institute of Management':
+  city:  'Chennai'
+  name:  'Great Lakes Institute of Management'
+  website:  'http://www.greatlakes.edu.in/'
+ 'Great Software Laboratory Pvt Ltd':
+  city:  'Pune'
+  name:  'Great Software Laboratory Pvt Ltd'
+  website:  'http://www.gslab.com/'
+ 'Green Clouds Education Solutions Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Green Clouds Education Solutions Pvt Ltd'
+  website:  'http://www.greenclouds.in/'
+ 'Green Orange Advertising Pvt Ltd':
+  city:  'Kolkata'
+  name:  'Green Orange Advertising Pvt Ltd'
+  website:  'http://www.greenorange.co.in/'
+ 'Green Quotient Systems Pvt Ltd':
+  city:  'Chennai'
+  name:  'Green Quotient Systems Pvt Ltd'
+  website:  'http://www.gquotient.com/'
+ 'GreenField Software Pvt Ltd':
+  city:  'Kolkata'
+  name:  'GreenField Software Pvt Ltd'
+  website:  'http://www.greenfieldsoft.com/'
+ 'Greeno Tech Solutions Pvt Ltd':
+  city:  'Coimbatore'
+  name:  'Greeno Tech Solutions Pvt Ltd'
+  website:  'http://www.greeno.in/'
+ 'GreyCampus Edutech Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'GreyCampus Edutech Pvt Ltd'
+  website:  'http://www.greycampus.com/'
+ 'Griffin Education Pvt Ltd':
+  city:  'Chennai'
+  name:  'Griffin Education Pvt Ltd'
+  website:  'http://www.griffinedu.com/'
+ 'Griha Software Technologies Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Griha Software Technologies Pvt Ltd'
+  website:  'http://www.grihasoft.com/'
+ 'Growel Softech Pvt Ltd':
+  city:  'Pune'
+  name:  'Growel Softech Pvt Ltd'
+  website:  'http://www.growelsoftech.com/'
+ 'Gujarat Informatics Ltd':
+  city:  'Gandhinagar'
+  name:  'Gujarat Informatics Ltd'
+  website:  'http://www.gujaratinformatics.com/'
+ 'Gujarat Narmada Valley Fertilizers & Chemicals Ltd':
+  city:  'Ahmedabad'
+  name:  'Gujarat Narmada Valley Fertilizers & Chemicals Ltd'
+  website:  'http://www.gnvfc.net/'
+ 'Gujarat Venture Finance Ltd':
+  city:  'Ahmedabad'
+  name:  'Gujarat Venture Finance Ltd'
+  website:  'http://www.gvfl.com/'
+ 'GupShup Technology India Pvt Ltd':
+  city:  'Mumbai'
+  name:  'GupShup Technology India Pvt Ltd'
+  website:  'http://www.webaroo.com/'
+ 'Guru Gowri Krupa Technologies Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Guru Gowri Krupa Technologies Pvt Ltd'
+  website:  'http://www.ggktech.com/'
+ 'Gyan Ganga Institute of Technology & Sciences':
+  city:  'Jabalpur'
+  name:  'Gyan Ganga Institute of Technology & Sciences'
+  website:  'http://www.ggits.org/'
+ 'H5 Asia Pacific Pvt Ltd':
+  city:  'Mumbai'
+  name:  'H5 Asia Pacific Pvt Ltd'
+  website:  'http://www.h5.com/'
+ 'HCL Corporation Ltd':
+  city:  'Noida'
+  name:  'HCL Corporation Ltd'
+  website:  'http://www.hclinsys.com/'
+ 'HCL Services Ltd':
+  city:  'Chennai'
+  name:  'HCL Services Ltd'
+  website:  'http://www.hclservices.in/'
+ 'HCL Technologies Ltd':
+  city:  'Noida'
+  name:  'HCL Technologies Ltd'
+  website:  'http://www.hcl.com/'
+ 'HCM Info Systems Pvt Ltd':
+  city:  'Noida'
+  name:  'HCM Info Systems Pvt Ltd'
+  website:  'http://www.hcminfosystems.com/'
+ 'HDI Solutions Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'HDI Solutions Pvt Ltd'
+  website:  'http://www.grupohdi.com/'
+ 'HOV Services Ltd':
+  city:  'Pune'
+  name:  'HOV Services Ltd'
+  website:  'http://www.hovsltd.com/'
+ 'HR Governance Solutions (India) Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'HR Governance Solutions (India) Pvt Ltd'
+  website:  'http://www.hrgsi.com/'
+ 'HSBC Electronic Data Processing India Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'HSBC Electronic Data Processing India Pvt Ltd'
+  website:  'http://www.hsbcservicedelivery.com/'
+ 'HSBC Software Development (India) Pvt Ltd':
+  city:  'Pune'
+  name:  'HSBC Software Development (India) Pvt Ltd'
+  website:  'http://www.hsbcsoftwaredevelopment.com/'
+ 'HTC Global Services (India) Pvt Ltd':
+  city:  'Chennai'
+  name:  'HTC Global Services (India) Pvt Ltd'
+  website:  'http://www.htcinc.com/'
+ 'Hackett Group (India) Ltd':
+  city:  'Hyderabad'
+  name:  'Hackett Group (India) Ltd'
+  website:  'http://www.thehackettgroup.com/'
+ 'Hakuna Matata Solutions Pvt Ltd':
+  city:  'Chennai'
+  name:  'Hakuna Matata Solutions Pvt Ltd'
+  website:  'http://www.hakunamatata.in/'
+ 'Hans Infomatic Pvt Ltd':
+  city:  'Noida'
+  name:  'Hans Infomatic Pvt Ltd'
+  website:  'http://www.hansinfomatic.com/'
+ 'Hansa Customer Equity Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Hansa Customer Equity Pvt Ltd'
+  website:  'http://www.cequitysolutions.com/'
+ 'Happiest Minds Technologies Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Happiest Minds Technologies Pvt Ltd'
+  website:  'http://www.happiestminds.com/'
+ 'Harbinger Knowledge Products Pvt Ltd':
+  city:  'Pune'
+  name:  'Harbinger Knowledge Products Pvt Ltd'
+  website:  'http://www.harbingergroup.com/'
+ 'HardCube IT Consultancy Pvt Ltd':
+  city:  'Chennai'
+  name:  'HardCube IT Consultancy Pvt Ltd'
+  website:  'http://www.hardcube.in/'
+ 'Hartron Communications Ltd':
+  city:  'Gurgaon'
+  name:  'Hartron Communications Ltd'
+  website:  'http://www.hartron.cc/'
+ 'Harvard Business School (I) Research Center':
+  city:  'Mumbai'
+  name:  'Harvard Business School (I) Research Center'
+  website:  'http://www.hbs.edu/'
+ 'HashedIn Technologies Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'HashedIn Technologies Pvt Ltd'
+  website:  'http://hashedin.com/'
+ 'Hazel Mercantile Ltd':
+  city:  'Mumbai'
+  name:  'Hazel Mercantile Ltd'
+  website:  'http://www.hazelinfotech.com/'
+ 'Health Management and Research Institute':
+  city:  'Hyderabad'
+  name:  'Health Management and Research Institute'
+  website:  'http://www.hmri.in/'
+ 'Health Watch Tele Diagnostics Pvt Ltd':
+  city:  'New Delhi'
+  name:  'Health Watch Tele Diagnostics Pvt Ltd'
+  website:  'http://www.chchealthwatch.com/'
+ 'HealthFore Technologies Ltd':
+  city:  'Noida'
+  name:  'HealthFore Technologies Ltd'
+  website:  'http://healthfore.com/'
+ 'Helios & Matheson Information Technology Ltd':
+  city:  'Chennai'
+  name:  'Helios & Matheson Information Technology Ltd'
+  website:  'http://www.heliosmatheson.com/'
+ 'Helma Solutions India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Helma Solutions India Pvt Ltd'
+  website:  'http://www.helma-international.com/english/'
+ 'Hero Management Service Ltd':
+  city:  'Gurgaon'
+  name:  'Hero Management Service Ltd'
+  website:  'http://www.herobpo.com/'
+ 'Heuristics Informatics Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Heuristics Informatics Pvt Ltd'
+  website:  'http://www.hipl.co.in/'
+ 'Hewlett-Packard India Sales Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Hewlett-Packard India Sales Pvt Ltd'
+  website:  'http://www.hpindia.com/'
+ 'HexaCorp Technical Services Pvt Ltd':
+  city:  'Chennai'
+  name:  'HexaCorp Technical Services Pvt Ltd'
+  website:  'http://www.hexacorp.com/'
+ 'Hexagon Analysts and Consulting Services Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Hexagon Analysts and Consulting Services Pvt Ltd'
+  website:  'http://www.hexagonconsulting.co/'
+ 'Hexagon Capability Center India Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Hexagon Capability Center India Pvt Ltd'
+  website:  'http://www.intergraphconsulting.com/'
+ 'Hexaware Technologies Ltd':
+  city:  'Mumbai'
+  name:  'Hexaware Technologies Ltd'
+  website:  'http://www.hexaware.com/'
+ 'Hi-Tech Outsourcing Services':
+  city:  'Ahmedabad'
+  name:  'Hi-Tech Outsourcing Services'
+  website:  'http://www.hitechos.com/'
+ 'Hi-Tech e Soft (a division of Hi-Tech Gears Ltd)':
+  city:  'Gurgaon'
+  name:  'Hi-Tech e Soft (a division of Hi-Tech Gears Ltd)'
+  website:  'http://www.hitechesoft.com/'
+ 'HiddenBrains Infotech Pvt Ltd':
+  city:  'Ahmedabad'
+  name:  'HiddenBrains Infotech Pvt Ltd'
+  website:  'http://www.hiddenbrains.com/'
+ 'Highbar Technologies Ltd':
+  city:  'Mumbai'
+  name:  'Highbar Technologies Ltd'
+  website:  'http://www.highbartechnologies.com/'
+ 'Higher One Financial Technology Pvt Ltd':
+  city:  'Chennai'
+  name:  'Higher One Financial Technology Pvt Ltd'
+  website:  'http://www.higherone.com/'
+ 'Himadi Solutions Pvt Ltd':
+  city:  'New Delhi'
+  name:  'Himadi Solutions Pvt Ltd'
+  website:  'http://www.himadi.com/'
+ 'Hindi Software Solutions':
+  city:  'New Delhi'
+  name:  'Hindi Software Solutions'
+  website:  'http://www.hindisoftware.net/'
+ 'Hinditron Infosystems Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Hinditron Infosystems Pvt Ltd'
+  website:  'http://www.hinditron.com/'
+ 'Hinduja Global Solutions Ltd':
+  city:  'Bengaluru'
+  name:  'Hinduja Global Solutions Ltd'
+  website:  'http://www.teamhgs.com/'
+ 'Hinduja Tech Limited':
+  city:  'Chennai'
+  name:  'Hinduja Tech Limited'
+  website:  'http://www.defiance-tech.com/'
+ 'Hindustan Industrial Research Private Limited':
+  city:  'Chennai'
+  name:  'Hindustan Industrial Research Private Limited'
+  website:  'http://www.hindustancorporate.org/'
+ 'Hindustan Unilever Ltd (Enterprise Support and IT Innovation)':
+  city:  'Bengaluru'
+  name:  'Hindustan Unilever Ltd (Enterprise Support and IT Innovation)'
+  website:  'http://www.hul.co.in/'
+ 'Hitachi Consulting Software Services India Ltd':
+  city:  'Hyderabad'
+  name:  'Hitachi Consulting Software Services India Ltd'
+  website:  'http://www.hitachiconsulting.com/'
+ 'Hitachi Data Systems India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Hitachi Data Systems India Pvt Ltd'
+  website:  'http://www.hds.com/'
+ 'Hitachi India Private Limited':
+  city:  'New Delhi'
+  name:  'Hitachi India Private Limited'
+  website:  'http://www.hitachi.co.in/'
+ 'Hitachi Solutions India Pvt Ltd':
+  city:  'Chennai'
+  name:  'Hitachi Solutions India Pvt Ltd'
+  website:  'http://www.hitachi-solutions.com/'
+ 'Holcim Services (South Asia) Ltd':
+  city:  'Mumbai'
+  name:  'Holcim Services (South Asia) Ltd'
+  website:  'http://www.holcim.com/'
+ 'Honcho Commercial Pvt Ltd':
+  city:  'Kolkata'
+  name:  'Honcho Commercial Pvt Ltd'
+  website:  'http://www.honcho.net.in/'
+ 'Honeywell International (India) Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Honeywell International (India) Pvt Ltd'
+  website:  'http://www.honeywell.com/'
+ 'Hope Technologies Pvt Ltd':
+  city:  'New Delhi'
+  name:  'Hope Technologies Pvt Ltd'
+  website:  'http://www.zwcadindia.com/'
+ 'Hornet Infotech Private Limited':
+  city:  'Hyderabad'
+  name:  'Hornet Infotech Private Limited'
+  website:  'http://www.hornetinfotech.com/'
+ 'Huawei Technologies India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Huawei Technologies India Pvt Ltd'
+  website:  'http://www.huawei.com/'
+ 'Hughes Systique Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Hughes Systique Pvt Ltd'
+  website:  'http://www.hsc.com/'
+ 'HyTech Professionals India Pvt Ltd':
+  city:  'Noida'
+  name:  'HyTech Professionals India Pvt Ltd'
+  website:  'http://www.hytechpro.com/'
+ 'Hyper Quality India Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Hyper Quality India Pvt Ltd'
+  website:  'http://www.hyperquality.com/'
+ 'I Scribes India Pvt Ltd':
+  city:  'Thiruvananthapuram'
+  name:  'I Scribes India Pvt Ltd'
+  website:  'http://www.iscribesindia.com/'
+ 'I T Pathshala Pvt Ltd':
+  city:  'Noida'
+  name:  'I T Pathshala Pvt Ltd'
+  website:  'http://www.itpathshala.com/'
+ 'IBA Outsourcing Services LLP':
+  city:  'New Delhi'
+  name:  'IBA Outsourcing Services LLP'
+  website:  'http://www.offshorebench.com/'
+ 'IBM India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'IBM India Pvt Ltd'
+  website:  'http://www.ibm.com/in'
+ 'IBS Software Services (P) Ltd':
+  city:  'Thiruvananthapuram'
+  name:  'IBS Software Services (P) Ltd'
+  website:  'http://www.ibsplc.com/'
+ 'ICT Academy of Tamilnadu':
+  city:  'Chennai'
+  name:  'ICT Academy of Tamilnadu'
+  website:  'http://www.ictact.in/'
+ 'IDC Engineering India Pvt Ltd':
+  city:  'Chennai'
+  name:  'IDC Engineering India Pvt Ltd'
+  website:  'http://www.idc-tech.com/'
+ 'IDEAS Inc. Management Pvt Ltd':
+  city:  'Raipur'
+  name:  'IDEAS Inc. Management Pvt Ltd'
+  website:  'http://www.iimpl.in/'
+ 'IDG Ventures India Advisors Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'IDG Ventures India Advisors Pvt Ltd'
+  website:  'http://www.idgvcindia.com/'
+ 'IDS Infotech Ltd':
+  city:  'Chandigarh'
+  name:  'IDS Infotech Ltd'
+  website:  'http://www.idsil.com/'
+ 'IDS Logic Pvt Ltd':
+  city:  'Noida'
+  name:  'IDS Logic Pvt Ltd'
+  website:  'http://www.idslogic.com/'
+ 'IFB Automotive Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'IFB Automotive Pvt Ltd'
+  website:  'http://www.ifbautomotive.com/'
+ 'IG3 Infra Ltd':
+  city:  'Chennai'
+  name:  'IG3 Infra Ltd'
+  website:  'http://www.indiangreengridgroup.com/'
+ 'IGATE Global Solutions Ltd':
+  city:  'Mumbai'
+  name:  'IGATE Global Solutions Ltd'
+  website:  'http://www.igate.com/'
+ 'IHG IT Services (India) Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'IHG IT Services (India) Pvt Ltd'
+  website:  'http://www.ichotelsgroup.com/'
+ 'IIC Technologies Ltd':
+  city:  'Hyderabad'
+  name:  'IIC Technologies Ltd'
+  website:  'http://www.iictechnologies.com/'
+ 'ILMP Technologies Pvt Ltd':
+  city:  'Noida'
+  name:  'ILMP Technologies Pvt Ltd'
+  website:  'http://www.ilmp-tech.com/'
+ 'INSORCE Operational Optimizers Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'INSORCE Operational Optimizers Pvt Ltd'
+  website:  'http://www.insorce.com/'
+ 'IRIS Business Services Ltd':
+  city:  'Mumbai'
+  name:  'IRIS Business Services Ltd'
+  website:  'http://www.irisindia.net/'
+ 'IRIS Software Pvt Ltd':
+  city:  'New Delhi'
+  name:  'IRIS Software Pvt Ltd'
+  website:  'http://www.irissoftware.com/'
+ 'ISG Novasoft Technologies Ltd (A company in the K K Birla Group)':
+  city:  'Chennai'
+  name:  'ISG Novasoft Technologies Ltd (A company in the K K Birla
+    Group)'
+  website:  'http://www.isgn.com/'
+ 'IT Thoughts Consulting Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'IT Thoughts Consulting Pvt Ltd'
+  website:  'http://www.itthoughts.com/'
+ 'IT World Web.com Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'IT World Web.com Pvt Ltd'
+  website:  'http://www.itworldweb.com/'
+ 'ITC Infotech India Ltd':
+  city:  'Bengaluru'
+  name:  'ITC Infotech India Ltd'
+  website:  'http://www.itcinfotech.com/'
+ 'ITSYS Solutions Pvt Ltd':
+  city:  'Noida'
+  name:  'ITSYS Solutions Pvt Ltd'
+  website:  'http://www.itsyssolutions.com/'
+ 'ITShastra (India) Pvt Ltd':
+  city:  'Mumbai'
+  name:  'ITShastra (India) Pvt Ltd'
+  website:  'http://www.itshastra.com/'
+ 'ITTI Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'ITTI Pvt Ltd'
+  website:  'http://www.itti.com/'
+ 'Icreon Communications Pvt Ltd':
+  city:  'Noida'
+  name:  'Icreon Communications Pvt Ltd'
+  website:  'http://www.icreon.com/'
+ 'Ideation Technology Solutions Pvt Ltd':
+  city:  'Kolkata'
+  name:  'Ideation Technology Solutions Pvt Ltd'
+  website:  'http://www.ideationts.com/'
+ 'Ideatree India Pvt Ltd':
+  city:  'Delhi'
+  name:  'Ideatree India Pvt Ltd'
+  website:  'http://www.ideatree.com/'
+ 'Identlogic Systems Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Identlogic Systems Pvt Ltd'
+  website:  'http://www.identlogic.com/'
+ 'Iglyte Advertising and Marketing Services Pvt Ltd':
+  city:  'Thane'
+  name:  'Iglyte Advertising and Marketing Services Pvt Ltd'
+  website:  'http://www.iglyte.com/'
+ 'Ignitarium Technology Solutions Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Ignitarium Technology Solutions Pvt Ltd'
+  website:  'http://www.ignitarium.com/'
+ 'Image Infotainment Ltd':
+  city:  'Chennai'
+  name:  'Image Infotainment Ltd'
+  website:  'http://www.imageil.com/'
+ 'Imarticus Learning Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Imarticus Learning Pvt Ltd'
+  website:  'http://www.imarticus.org/'
+ 'Imere Technologies Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Imere Technologies Pvt Ltd'
+  website:  'http://www.adnear.com/'
+ 'Impact Systems Pvt Ltd':
+  city:  'Pune'
+  name:  'Impact Systems Pvt Ltd'
+  website:  'http://www.impactinfosys.com/'
+ 'ImpactQA Services Pvt Ltd':
+  city:  'Noida'
+  name:  'ImpactQA Services Pvt Ltd'
+  website:  'http://www.impactqa.in/'
+ 'Impetus Infotech (India) Pvt Ltd':
+  city:  'Indore'
+  name:  'Impetus Infotech (India) Pvt Ltd'
+  website:  'http://www.impetus.com/'
+ 'Impetus Testing, Please Ignore':
+  city:  'Noida'
+  name:  'Impetus Testing, Please Ignore'
+  website:  'http://impetus.com/'
+ 'In-Solutions Global Pvt Ltd':
+  city:  'Mumbai'
+  name:  'In-Solutions Global Pvt Ltd'
+  website:  'http://www.insolutionsglobal.com/'
+ 'In2IT Technologies Pvt Ltd':
+  city:  'Bhubaneswar'
+  name:  'In2IT Technologies Pvt Ltd'
+  website:  'http://www.in2ittech.com/'
+ 'In4velocity Systems Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'In4velocity Systems Pvt Ltd'
+  website:  'http://www.in4velocity.com/'
+ 'InDemand Infotech Pvt Ltd':
+  city:  'Chennai'
+  name:  'InDemand Infotech Pvt Ltd'
+  website:  'http://www.indemand.co.in/'
+ 'InLogic Technologies Pvt Ltd':
+  city:  'Chennai'
+  name:  'InLogic Technologies Pvt Ltd'
+  website:  'http://www.inlogic.in/'
+ 'InSync Tech-Fin Solutions Ltd':
+  city:  'Kolkata'
+  name:  'InSync Tech-Fin Solutions Ltd'
+  website:  'http://www.insync.co.in/'
+ 'Inboundsys Webgalaxy Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Inboundsys Webgalaxy Pvt Ltd'
+  website:  'http://www.inboundsys.com/'
+ 'Incessant Technologies Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Incessant Technologies Pvt Ltd'
+  website:  'http://www.incessanttechnologies.com/'
+ 'Indecomm Global Services (India) Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Indecomm Global Services (India) Pvt Ltd'
+  website:  'http://www.indecomm.net/'
+ 'India Education Services Pvt Ltd':
+  city:  'New Delhi'
+  name:  'India Education Services Pvt Ltd'
+  website:  'http://memberdirectory.nasscom.in/mms_company_free_search/bfocus/BPM#'
+ 'India Today Consumer Marketing Services (A division of Living Media India Ltd)':
+  city:  'Noida'
+  name:  'India Today Consumer Marketing Services (A division of Living
+    Media India Ltd)'
+  website:  'http://-/'
+ 'Indiabulls Technology Solutions Ltd':
+  city:  'Gurgaon'
+  name:  'Indiabulls Technology Solutions Ltd'
+  website:  'http://www.incedoinc.com/'
+ 'Indiagames Ltd':
+  city:  'Navi Mumbai'
+  name:  'Indiagames Ltd'
+  website:  'http://www.indiagames.com/'
+ 'Indian Institute of Management Calcutta':
+  city:  'Kolkata'
+  name:  'Indian Institute of Management Calcutta'
+  website:  'http://library.iimcal.ac.in/'
+ 'Indian Institute of Management Kozhikode':
+  city:  'Kozhikode'
+  name:  'Indian Institute of Management Kozhikode'
+  website:  'http://www.iimk.ac.in/'
+ 'Indian Institute of Management Udaipur':
+  city:  'Udaipur'
+  name:  'Indian Institute of Management Udaipur'
+  website:  'http://www.iimu.ac.in/'
+ 'Indian Institute of Management, Ahmedabad':
+  city:  'Ahmedabad'
+  name:  'Indian Institute of Management, Ahmedabad'
+  website:  'http://www.iimahd.ernet.in/'
+ 'Indian School of Business':
+  city:  'Hyderabad'
+  name:  'Indian School of Business'
+  website:  'http://www.isb.edu/'
+ 'Indianic Infotech Ltd':
+  city:  'Ahmedabad'
+  name:  'Indianic Infotech Ltd'
+  website:  'http://www.indianic.com/'
+ 'Indium Software (India) Ltd':
+  city:  'Chennai'
+  name:  'Indium Software (India) Ltd'
+  website:  'http://www.indiumsoft.com/'
+ 'Indus Health Plus Pvt Ltd':
+  city:  'Pune'
+  name:  'Indus Health Plus Pvt Ltd'
+  website:  'http://www.indushealthplus.com/'
+ 'Indus Net Technologies Pvt Ltd':
+  city:  'Kolkata'
+  name:  'Indus Net Technologies Pvt Ltd'
+  website:  'http://www.indusnet.co.in/'
+ 'Indus Valley Partners (India) Pvt Ltd':
+  city:  'Noida'
+  name:  'Indus Valley Partners (India) Pvt Ltd'
+  website:  'http://www.indusvalleypartners.com/'
+ 'Indusa Infotech Services Pvt Ltd':
+  city:  'Ahmedabad'
+  name:  'Indusa Infotech Services Pvt Ltd'
+  website:  'http://www.indusa.com/'
+ 'Induslaw':
+  city:  'Bengaluru'
+  name:  'Induslaw'
+  website:  'http://www.induslaw.com/'
+ 'Infinera India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Infinera India Pvt Ltd'
+  website:  'http://www.infinera.com/'
+ 'Infinite Computer Solutions (India) Ltd':
+  city:  'Bengaluru'
+  name:  'Infinite Computer Solutions (India) Ltd'
+  website:  'http://www.infinite.com/'
+ 'Infiniti Software Solutions Pvt Ltd':
+  city:  'Chennai'
+  name:  'Infiniti Software Solutions Pvt Ltd'
+  website:  'http://www.infinitisoftware.net/'
+ 'Infinity Infotech Parks Ltd':
+  city:  'Kolkata'
+  name:  'Infinity Infotech Parks Ltd'
+  website:  'http://www.infinityitpark.com/'
+ 'Info Edge (India) Ltd':
+  city:  'Noida'
+  name:  'Info Edge (India) Ltd'
+  website:  'http://infoedge.in/'
+ 'InfoAxon Technologies (India) Pvt Ltd':
+  city:  'Noida'
+  name:  'InfoAxon Technologies (India) Pvt Ltd'
+  website:  'http://www.infoaxon.com/'
+ 'InfoBeans Systems India Pvt Ltd':
+  city:  'Indore'
+  name:  'InfoBeans Systems India Pvt Ltd'
+  website:  'http://www.infobeans.com/'
+ 'InfoSoft Global Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'InfoSoft Global Pvt Ltd'
+  website:  'http://www.fusioncharts.com/'
+ 'InfoVision Solutions India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'InfoVision Solutions India Pvt Ltd'
+  website:  'http://www.infovision.net/'
+ 'Infocus Technologies Pvt Ltd':
+  city:  'Kolkata'
+  name:  'Infocus Technologies Pvt Ltd'
+  website:  'http://www.infocus-in.com/'
+ 'Infogain India (P) Ltd':
+  city:  'Noida'
+  name:  'Infogain India (P) Ltd'
+  website:  'http://www.infogain.com/'
+ 'Infoicon Technologies Pvt Ltd':
+  city:  'Noida'
+  name:  'Infoicon Technologies Pvt Ltd'
+  website:  'http://www.infoicontechnologies.com/'
+ 'Infom Atomicka (Tech) Pvt Ltd':
+  city:  'Pondicherry'
+  name:  'Infom Atomicka (Tech) Pvt Ltd'
+  website:  'http://www.atomicka.com/'
+ 'Infoparks, Kerala':
+  city:  'Ernakulam'
+  name:  'Infoparks, Kerala'
+  website:  'http://www.infopark.in/'
+ 'Information and Communication Technology Academy of Kerala':
+  city:  'Thiruvananthapuram'
+  name:  'Information and Communication Technology Academy of Kerala'
+  website:  'http://memberdirectory.nasscom.in/mms_company_free_search/bfocus/www.ictkerala.org'
+ 'Infoserve India Pvt Ltd':
+  city:  'New Delhi'
+  name:  'Infoserve India Pvt Ltd'
+  website:  'http://www.infoserveindia.com/'
+ 'Infosys BPO Ltd':
+  city:  'Bengaluru'
+  name:  'Infosys BPO Ltd'
+  website:  'http://www.infosys.com/bpo'
+ 'Infosys Limited':
+  city:  'Bengaluru'
+  name:  'Infosys Limited'
+  website:  'http://www.infosys.com/'
+ 'Infotech Education Society':
+  city:  'Bhopal'
+  name:  'Infotech Education Society'
+  website:  'http://www.iesbpl.ac.in/'
+ 'Infoway Technology Solution Ltd':
+  city:  'Kolkata'
+  name:  'Infoway Technology Solution Ltd'
+  website:  'http://www.itsl.net/'
+ 'Infozech Software Ltd':
+  city:  'New Delhi'
+  name:  'Infozech Software Ltd'
+  website:  'http://www.infozech.com/'
+ 'InfraHedge Services (India) Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'InfraHedge Services (India) Pvt Ltd'
+  website:  'http://www.infrahedge.com/'
+ 'Infrasoft Technologies Ltd':
+  city:  'Mumbai'
+  name:  'Infrasoft Technologies Ltd'
+  website:  'http://www.infrasofttech.com/'
+ 'InheritX Solutions Pvt Ltd':
+  city:  'Ahmedabad'
+  name:  'InheritX Solutions Pvt Ltd'
+  website:  'http://www.inheritx.com/'
+ 'Inhospitals Health Services Pvt Ltd':
+  city:  'Pune'
+  name:  'Inhospitals Health Services Pvt Ltd'
+  website:  'http://www.inhospitals.com/'
+ 'Innefu Labs Pvt Ltd':
+  city:  'New Delhi'
+  name:  'Innefu Labs Pvt Ltd'
+  website:  'http://www.innefu.com/'
+ 'Innobuzz Knowledge Solutions Pvt Ltd':
+  city:  'New Delhi'
+  name:  'Innobuzz Knowledge Solutions Pvt Ltd'
+  website:  'http://www.innobuzz.in/'
+ 'Innodata India Pvt Ltd':
+  city:  'Noida'
+  name:  'Innodata India Pvt Ltd'
+  website:  'http://www.innodata.com/'
+ 'Innofied Solution Pvt Ltd':
+  city:  'Kolkata'
+  name:  'Innofied Solution Pvt Ltd'
+  website:  'http://www.innofied.com/'
+ 'Innolat Technologies':
+  city:  'Raipur'
+  name:  'Innolat Technologies'
+  website:  'http://memberdirectory.nasscom.in/mms_company_free_search/bfocus/www.innolat.com'
+ 'Innolever Solutions Pvt Ltd':
+  city:  'Kolkata'
+  name:  'Innolever Solutions Pvt Ltd'
+  website:  'http://www.9830258751/'
+ 'Innopark India Private Limited':
+  city:  'Hyderabad'
+  name:  'Innopark India Private Limited'
+  website:  'http://www.innopark.in/'
+ 'InsideView Technologies (India) Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'InsideView Technologies (India) Pvt Ltd'
+  website:  'http://www.insideview.com/'
+ 'Insight Customer Call Solutions Ltd':
+  city:  'New Delhi'
+  name:  'Insight Customer Call Solutions Ltd'
+  website:  'http://www.iccs-bpo.com/'
+ 'Insights of Data Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Insights of Data Pvt Ltd'
+  website:  'http://www.insightsofdata.com/'
+ 'Insoft.com Pvt Ltd':
+  city:  'Chennai'
+  name:  'Insoft.com Pvt Ltd'
+  website:  'http://www.insoft.com/'
+ 'InspirOn Engineering Pvt Ltd':
+  city:  'Ahmedabad'
+  name:  'InspirOn Engineering Pvt Ltd'
+  website:  'http://www.inspiron.co.in/'
+ 'Institute for Development and Research in Banking Technology (IDRBT)':
+  city:  'Hyderabad'
+  name:  'Institute for Development and Research in Banking Technology
+    (IDRBT)'
+  website:  'http://www.idrbt.ac.in/'
+ 'Institute for Information Industry (India Branch Office)':
+  city:  'Chennai'
+  name:  'Institute for Information Industry (India Branch Office)'
+  website:  'http://www.iii.org.tw/'
+ 'Institute for Professional Excellence and Consultancy Pvt Ltd':
+  city:  'Surat'
+  name:  'Institute for Professional Excellence and Consultancy Pvt
+    Ltd'
+  website:  'http://ipec.co.in/'
+ 'Intec Infra-Technologies Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Intec Infra-Technologies Pvt Ltd'
+  website:  'http://www.intecinfocom.com/'
+ 'Integra Software Services Pvt Ltd':
+  city:  'Pondicherry'
+  name:  'Integra Software Services Pvt Ltd'
+  website:  'http://www.integra.co.in/'
+ 'Integrated Information Services Pvt Ltd':
+  city:  'Noida'
+  name:  'Integrated Information Services Pvt Ltd'
+  website:  'http://www.iiservz.com/'
+ 'Integreon Managed Solutions (India) Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Integreon Managed Solutions (India) Pvt Ltd'
+  website:  'http://www.integreon.com/'
+ 'Intel Technology India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Intel Technology India Pvt Ltd'
+  website:  'http://www.intel.com/'
+ 'Inteliment Software Technologies (India) Pvt Ltd':
+  city:  'Pune'
+  name:  'Inteliment Software Technologies (India) Pvt Ltd'
+  website:  'http://memberdirectory.nasscom.in/mms_company_free_search/bfocus/www.inteliment.com'
+ 'Intellect Bizware Services Pvt Ltd':
+  city:  'Navi Mumbai'
+  name:  'Intellect Bizware Services Pvt Ltd'
+  website:  'http://www.intellectbizware.com/'
+ 'Intellicus Technologies Pvt Ltd':
+  city:  'Indore'
+  name:  'Intellicus Technologies Pvt Ltd'
+  website:  'http://www.intellicus.com/'
+ 'Intelligentia IT Systems Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Intelligentia IT Systems Pvt Ltd'
+  website:  'http://www.intellgentia.co.in/'
+ 'Intellinet Systems Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Intellinet Systems Pvt Ltd'
+  website:  'http://www.intellinetsystem.com/'
+ 'Intelliob Technologies Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Intelliob Technologies Pvt Ltd'
+  website:  'http://www.intelliob.com/'
+ 'Intense Technologies Ltd':
+  city:  'Hyderabad'
+  name:  'Intense Technologies Ltd'
+  website:  'http://www.in10stech.com/'
+ 'Interactive Manpower Solutions Pvt Ltd':
+  city:  'Ahmedabad'
+  name:  'Interactive Manpower Solutions Pvt Ltd'
+  website:  'http://www.imspeople.com/'
+ 'Interglobe Technologies Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Interglobe Technologies Pvt Ltd'
+  website:  'http://www.igt.in/'
+ 'Interlace India Pvt Ltd':
+  city:  'Chennai'
+  name:  'Interlace India Pvt Ltd'
+  website:  'http://www.interlaceindia.com/'
+ 'International Council for Professional Training & Research':
+  city:  'Kalyan'
+  name:  'International Council for Professional Training & Research'
+  website:  'http://www.icptr.in/'
+ 'International Institute of Information Technology':
+  city:  'Pune'
+  name:  'International Institute of Information Technology'
+  website:  'http://www.isquareit.ac.in/'
+ 'International Institute of Information Technology, Bhubaneswar':
+  city:  'Bhubaneswar'
+  name:  'International Institute of Information Technology, Bhubaneswar'
+  website:  'http://www.iiit-bh.ac.in/'
+ 'Interra Information Technologies (India) Pvt Ltd':
+  city:  'Noida'
+  name:  'Interra Information Technologies (India) Pvt Ltd'
+  website:  'http://www.interrait.com/'
+ 'IntersoftKK (India) Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'IntersoftKK (India) Pvt Ltd'
+  website:  'http://www.intersoftkk.com/'
+ 'Intertek India Pvt Ltd':
+  city:  'New Delhi'
+  name:  'Intertek India Pvt Ltd'
+  website:  'http://www.intertek.com/mobile'
+ 'Intimetec Visionsoft Pvt Ltd':
+  city:  'Jaipur'
+  name:  'Intimetec Visionsoft Pvt Ltd'
+  website:  'http://www.intimetec.com/'
+ 'Intouch Consumer Care Solutions Pvt Ltd':
+  city:  'Pune'
+  name:  'Intouch Consumer Care Solutions Pvt Ltd'
+  website:  'http://www.intouchrewards.com/'
+ 'Intrasoft Technologies Ltd':
+  city:  'Kolkata'
+  name:  'Intrasoft Technologies Ltd'
+  website:  'http://www.itlindia.com/'
+ 'Intuit India Product Development Center Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Intuit India Product Development Center Pvt Ltd'
+  website:  'http://www.intuit.com/'
+ 'Invaria Tech India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Invaria Tech India Pvt Ltd'
+  website:  'http://www.invariatech.com/'
+ 'Invensis Technologies Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Invensis Technologies Pvt Ltd'
+  website:  'http://www.invensis.net/'
+ 'Invensys Development Centre India (P) Ltd':
+  city:  'Hyderabad'
+  name:  'Invensys Development Centre India (P) Ltd'
+  website:  'http://www.invensys-idc.com/'
+ 'Inventum Technologies Pvt Ltd':
+  city:  'Noida'
+  name:  'Inventum Technologies Pvt Ltd'
+  website:  'http://www.inventum.net/'
+ 'Invesco (Hyderabad) Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Invesco (Hyderabad) Pvt Ltd'
+  website:  'http://www.invesco.com/'
+ 'Invest Northern Ireland':
+  city:  'Mumbai'
+  name:  'Invest Northern Ireland'
+  website:  'http://www.investni.com/'
+ 'IonIdea Enterprise Solutions Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'IonIdea Enterprise Solutions Pvt Ltd'
+  website:  'http://www.ionidea.com/'
+ 'Island Pacific Retail Systems Pvt Ltd':
+  city:  'Chennai'
+  name:  'Island Pacific Retail Systems Pvt Ltd'
+  website:  'http://www.islandpacific.com/'
+ 'Itelligence India Software Solutions Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Itelligence India Software Solutions Pvt Ltd'
+  website:  'http://memberdirectory.nasscom.in/mms_company_free_search/bfocus/www.itelligencegroup.com'
+ 'Ittiam Systems Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Ittiam Systems Pvt Ltd'
+  website:  'http://www.ittiam.com/'
+ 'Ivy Comptech (P) Ltd':
+  city:  'Hyderabad'
+  name:  'Ivy Comptech (P) Ltd'
+  website:  'http://www.ivycomptech.com/'
+ 'Ivy Mobility Solutions Ltd':
+  city:  'Chennai'
+  name:  'Ivy Mobility Solutions Ltd'
+  website:  'http://www.ivymobility.com/'
+ 'Ixsight Technologies Pvt Ltd':
+  city:  'Pune'
+  name:  'Ixsight Technologies Pvt Ltd'
+  website:  'http://www.ixsight.com/'
+ 'J. Sagar Associates':
+  city:  'Bengaluru'
+  name:  'J. Sagar Associates'
+  website:  'http://www.jsalaw.com/'
+ 'J.D.S Technologies Pvt Ltd':
+  city:  'Kolkata'
+  name:  'J.D.S Technologies Pvt Ltd'
+  website:  'http://www.jdstech.co.in/'
+ 'JD Software Pvt Ltd':
+  city:  'Chennai'
+  name:  'JD Software Pvt Ltd'
+  website:  'http://www.jdsoft.in/'
+ 'JDA Software Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'JDA Software Pvt Ltd'
+  website:  'http://www.manu.com/'
+ 'JDSU India Pvt Ltd':
+  city:  'Pune'
+  name:  'JDSU India Pvt Ltd'
+  website:  'http://www.jdsu.com/'
+ 'JIS Foundation':
+  city:  'Kolkata'
+  name:  'JIS Foundation'
+  website:  'http://www.jisgroup.org/'
+ 'JK Technosoft Ltd':
+  city:  'Noida'
+  name:  'JK Technosoft Ltd'
+  website:  'http://www.jktech.com/'
+ 'JKT Consulting Ltd':
+  city:  'Noida'
+  name:  'JKT Consulting Ltd'
+  website:  'https://www.jktc.in/'
+ 'JMR Infotech India Pvt Ltd':
+  city:  'Calicut'
+  name:  'JMR Infotech India Pvt Ltd'
+  website:  'http://www.jmrinfotech.com/'
+ 'JP Morgan Services India Pvt Ltd':
+  city:  'Mumbai'
+  name:  'JP Morgan Services India Pvt Ltd'
+  website:  'http://www.jpmorgan.com/'
+ 'JSoft Solutions Ltd':
+  city:  'Bengaluru'
+  name:  'JSoft Solutions Ltd'
+  website:  'http://www.jsoftsolutions.in/'
+ 'JaMocha Tech Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'JaMocha Tech Pvt Ltd'
+  website:  'http://www.jamochatech.com/'
+ 'Jaagruthi Info Technologies Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Jaagruthi Info Technologies Pvt Ltd'
+  website:  'http://www.techwavenet.com/'
+ 'Jade Global Software Pvt Ltd':
+  city:  'Pune'
+  name:  'Jade Global Software Pvt Ltd'
+  website:  'http://memberdirectory.nasscom.in/mms_company_free_search/bfocus/www.jadeglobal.com'
+ 'JantaKhoj InfoServices Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'JantaKhoj InfoServices Pvt Ltd'
+  website:  'http://www.jantakhoj.com/'
+ 'Janya IT Technologies Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Janya IT Technologies Pvt Ltd'
+  website:  'http://www.janyatech.com/'
+ 'Jaro Institute of Technology, Management and Research Pvt Ltd':
+  city:  'Mumbai'
+  name:  'Jaro Institute of Technology, Management and Research Pvt
+    Ltd'
+  website:  'http://www.jaro.in/'
+ 'Jasmin Infotech Pvt Ltd':
+  city:  'Chennai'
+  name:  'Jasmin Infotech Pvt Ltd'
+  website:  'http://www.jasmin-infotech.com/'
+ 'Jasper Infotech Pvt Ltd':
+  city:  'New Delhi'
+  name:  'Jasper Infotech Pvt Ltd'
+  website:  'http://www.snapdeal.com/'
+ 'Jeeves Information Systems Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Jeeves Information Systems Pvt Ltd'
+  website:  'http://www.jeeves.se/'
+ 'JiJi Technologies Pvt Ltd':
+  city:  'Tirunelveli'
+  name:  'JiJi Technologies Pvt Ltd'
+  website:  'http://www.jijitechnologies.com/'
+ 'Jireh Software Solutions Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Jireh Software Solutions Pvt Ltd'
+  website:  'http://www.jirehsol.com/'
+ 'John Keells BPO Solutions India Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'John Keells BPO Solutions India Pvt Ltd'
+  website:  'http://www.johnkeellsbpo.com/'
+ 'Johnson Controls Automotive Ltd':
+  city:  'Pune'
+  name:  'Johnson Controls Automotive Ltd'
+  website:  'http://www.johnsoncontrols.in/'
+ 'Jones Lang Lasalle Property Consultants (India) Ltd':
+  city:  'Gurgaon'
+  name:  'Jones Lang Lasalle Property Consultants (India) Ltd'
+  website:  'http://www.joneslanglasalle.co.in/'
+ 'Jumping Goldfish Infotech':
+  city:  'Pune'
+  name:  'Jumping Goldfish Infotech'
+  website:  'http://www.jumpinggoldfish.in/'
+ 'Juniper Networks India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Juniper Networks India Pvt Ltd'
+  website:  'http://www.juniper.net/'
+ 'K M Medical Software India Pvt Ltd':
+  city:  'Coimbatore'
+  name:  'K M Medical Software India Pvt Ltd'
+  website:  'http://www.kmmedicalsoftware.com/'
+ 'K-Nomics Techno Solutions Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'K-Nomics Techno Solutions Pvt Ltd'
+  website:  'http://www.mintbook.com/'
+ 'KBACE Technologies Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'KBACE Technologies Pvt Ltd'
+  website:  'http://www.kbace.com/'
+ 'KCP Technologies Ltd':
+  city:  'Chennai'
+  name:  'KCP Technologies Ltd'
+  website:  'http://www.kcp.net/'
+ 'KDK Softwares (India) Pvt Ltd':
+  city:  'Jaipur'
+  name:  'KDK Softwares (India) Pvt Ltd'
+  website:  'http://www.kdksoftware.com/'
+ 'KG Information Systems Pvt Ltd':
+  city:  'Coimbatore'
+  name:  'KG Information Systems Pvt Ltd'
+  website:  'http://www.kgisl.com/'
+ 'KLA-Tencor Software India Pvt Ltd':
+  city:  'Chennai'
+  name:  'KLA-Tencor Software India Pvt Ltd'
+  website:  'http://www.kla-tencor.com/'
+ 'KNAV & Co.':
+  city:  'Mumbai'
+  name:  'KNAV & Co.'
+  website:  'http://www.knavcpa.com/'
+ 'KPIT Technologies Ltd':
+  city:  'Pune'
+  name:  'KPIT Technologies Ltd'
+  website:  'http://www.kpitcummins.com/'
+ 'KPMG Advisory Services Pvt Ltd':
+  city:  'Mumbai'
+  name:  'KPMG Advisory Services Pvt Ltd'
+  website:  'http://www.in.kpmg.com/'
+ 'KPMG Global Delivery Center Private Limited':
+  city:  'Bengaluru'
+  name:  'KPMG Global Delivery Center Private Limited'
+  website:  'https://portal.ema.kworld.kpmg.com/'
+ 'KPR Institute of Engineering and Technology':
+  city:  'Coimbatore'
+  name:  'KPR Institute of Engineering and Technology'
+  website:  'http://www.kpriet.ac.in/'
+ 'KRIB Information Services':
+  city:  'Noida'
+  name:  'KRIB Information Services'
+  website:  'http://www.kribindia.com/'
+ 'KTree Computer Solutions India Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'KTree Computer Solutions India Pvt Ltd'
+  website:  'http://www.ktree.com/'
+ 'KVN Software Pvt Ltd':
+  city:  'Mumbai'
+  name:  'KVN Software Pvt Ltd'
+  website:  'http://www.kvnsoftware.com/'
+ 'Kaalbi Technologies Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Kaalbi Technologies Pvt Ltd'
+  website:  'http://www.shieldsquare.com/'
+ 'Kaar Technologies India Pvt Ltd':
+  city:  'Chennai'
+  name:  'Kaar Technologies India Pvt Ltd'
+  website:  'http://www.kaartech.com/'
+ 'Kaavian Systems Pvt Ltd':
+  city:  'Chennai'
+  name:  'Kaavian Systems Pvt Ltd'
+  website:  'http://www.kaaviansys.com/'
+ 'Kairee Systems Pvt Ltd':
+  city:  'Pune'
+  name:  'Kairee Systems Pvt Ltd'
+  website:  'http://www.kaireesystems.com/'
+ 'Kallos Solutions Pvt Ltd':
+  city:  'Chennai'
+  name:  'Kallos Solutions Pvt Ltd'
+  website:  'http://www.kallossolutions.com/'
+ 'Kalycito Infotech Pvt Ltd':
+  city:  'Coimbatore'
+  name:  'Kalycito Infotech Pvt Ltd'
+  website:  'http://www.kalycito.com/'
+ 'Kapil Engineers & Infrastructure Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Kapil Engineers & Infrastructure Pvt Ltd'
+  website:  'http://www.kapiltowers.com/'
+ 'Karneet Enterprises India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Karneet Enterprises India Pvt Ltd'
+  website:  'http://www.mallinathgroup.com/'
+ 'Karomi Technology Pvt Ltd':
+  city:  'Chennai'
+  name:  'Karomi Technology Pvt Ltd'
+  website:  'http://www.karomi.com/'
+ 'Karvy Data Management Services Ltd':
+  city:  'Hyderabad'
+  name:  'Karvy Data Management Services Ltd'
+  website:  'https://www.kdms.in/'
+ 'Karvy Global Services Ltd':
+  city:  'Hyderabad'
+  name:  'Karvy Global Services Ltd'
+  website:  'http://www.karvyglobal.com/'
+ 'Kaspersky Lab India Pvt Ltd':
+  city:  'Navi Mumbai'
+  name:  'Kaspersky Lab India Pvt Ltd'
+  website:  'http://www.kaspersky.co.in/'
+ 'Katwa Infotech Limited':
+  city:  'Belgaum'
+  name:  'Katwa Infotech Limited'
+  website:  'http://www.katwa.com/'
+ 'KavNiya Technology Solutions Pvt Ltd':
+  city:  'Chennai'
+  name:  'KavNiya Technology Solutions Pvt Ltd'
+  website:  'https://www.kavniya.com/'
+ 'Kclink Technologies Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Kclink Technologies Pvt Ltd'
+  website:  'http://www.kclink.com/'
+ 'Keeves Technologies Pvt Ltd':
+  city:  'Kolkata'
+  name:  'Keeves Technologies Pvt Ltd'
+  website:  'http://www.keevestechnologies.com/'
+ 'Kellton Tech Solutions Ltd':
+  city:  'Gurgaon'
+  name:  'Kellton Tech Solutions Ltd'
+  website:  'http://www.kelltontech.com/'
+ 'Kelly Services India Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Kelly Services India Pvt Ltd'
+  website:  'http://www.kellyservices.com/'
+ 'Keysight Technologies India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Keysight Technologies India Pvt Ltd'
+  website:  'http://www.keysight.com/'
+ 'Khemeia Technologies Private Ltd':
+  city:  'Chennai'
+  name:  'Khemeia Technologies Private Ltd'
+  website:  'http://www.stelae-technologies.com/'
+ 'Kingston Info Solution Services Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Kingston Info Solution Services Pvt Ltd'
+  website:  'http://memberdirectory.nasscom.in/mms_company_free_search/bfocus/www.kingstoninfosolution.com'
+ 'Klazina Consultants Ltd':
+  city:  'Gurgaon'
+  name:  'Klazina Consultants Ltd'
+  website:  'http://www.klazina.com/'
+ 'KlioTech Pvt Ltd':
+  city:  'Chennai'
+  name:  'KlioTech Pvt Ltd'
+  website:  'http://www.kliotech.com/'
+ 'Knack Systems & Services (P) Ltd':
+  city:  'Mumbai'
+  name:  'Knack Systems & Services (P) Ltd'
+  website:  'http://www.knacksystems.com/'
+ 'KnoahSoft Technologies Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'KnoahSoft Technologies Pvt Ltd'
+  website:  'http://www.knoahsoft.com/'
+ 'Knot Solutions Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Knot Solutions Pvt Ltd'
+  website:  'http://www.knotsolutions.com/'
+ 'Knowcross Solutions Pvt Ltd':
+  city:  'New Delhi'
+  name:  'Knowcross Solutions Pvt Ltd'
+  website:  'http://www.knowcross.com/'
+ 'Knowlarity Communications Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Knowlarity Communications Pvt Ltd'
+  website:  'http://www.knowlarity.com/'
+ 'Koenig Solutions Ltd':
+  city:  'New Delhi'
+  name:  'Koenig Solutions Ltd'
+  website:  'http://www.koenig-solutions.com/'
+ 'Konstant Infosolutions Pvt Ltd':
+  city:  'Jaipur'
+  name:  'Konstant Infosolutions Pvt Ltd'
+  website:  'http://www.konstantinfo.com/'
+ 'Kony India Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'Kony India Pvt Ltd'
+  website:  'http://www.konysolutions.com/'
+ 'Korn/Ferry International Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Korn/Ferry International Pvt Ltd'
+  website:  'http://www.kornferry.com/'
+ 'Kovaion Consulting India Pvt Ltd':
+  city:  'Chennai'
+  name:  'Kovaion Consulting India Pvt Ltd'
+  website:  'http://www.kovaion.com/'
+ 'Kovair Software Pvt Ltd':
+  city:  'Kolkata'
+  name:  'Kovair Software Pvt Ltd'
+  website:  'http://www.kovair.com/'
+ 'Kranti Tech Services Pvt Ltd':
+  city:  'Noida'
+  name:  'Kranti Tech Services Pvt Ltd'
+  website:  'http://www.krantitechservices.com/'
+ 'Kratos ADS Private Limited':
+  city:  'Bengaluru'
+  name:  'Kratos ADS Private Limited'
+  website:  'http://www.thekratos.com/'
+ 'Kreara Solutions Pvt Ltd':
+  city:  'Thiruvananthapuram'
+  name:  'Kreara Solutions Pvt Ltd'
+  website:  'http://www.kreara.com/'
+ 'Kreatio Software Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Kreatio Software Pvt Ltd'
+  website:  'http://www.kreatio.com/'
+ 'Kriyatec IT Systems Pvt Ltd':
+  city:  'Chennai'
+  name:  'Kriyatec IT Systems Pvt Ltd'
+  website:  'http://www.kriyatec.com/'
+ 'Kronos Solutions India Pvt Ltd':
+  city:  'Noida'
+  name:  'Kronos Solutions India Pvt Ltd'
+  website:  'http://www.kronos.com/'
+ 'Ksolves India Pvt Ltd':
+  city:  'New Delhi'
+  name:  'Ksolves India Pvt Ltd'
+  website:  'http://www.ksolves.com/'
+ 'Kumaran Systems Pvt Ltd':
+  city:  'Chennai'
+  name:  'Kumaran Systems Pvt Ltd'
+  website:  'http://www.kumaran.com/'
+ 'Kvaliteta Systems and Solutions Pvt Ltd':
+  city:  'Thiruvananthapuram'
+  name:  'Kvaliteta Systems and Solutions Pvt Ltd'
+  website:  'http://www.kvaliteta.in/'
+ 'Kyrah Technologies Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Kyrah Technologies Pvt Ltd'
+  website:  'http://www.kyrahtech.com/'
+ 'L&T Technology Services Ltd':
+  city:  'Mumbai'
+  name:  'L&T Technology Services Ltd'
+  website:  'http://www.lnties.com/'
+ 'La Exactlly Software Pvt Ltd':
+  city:  'Kolkata'
+  name:  'La Exactlly Software Pvt Ltd'
+  website:  'http://www.exactlly.com/'
+ 'Lalani Computer Academy':
+  city:  'Kolkata'
+  name:  'Lalani Computer Academy'
+  website:  'http://www.lalaniacademy.com/'
+ 'Lam Research (India) Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'Lam Research (India) Pvt Ltd'
+  website:  'http://www.novellus.com/'
+ 'Lancers Network Limited':
+  city:  'New Delhi'
+  name:  'Lancers Network Limited'
+  website:  'http://www.lancerindia.com/'
+ 'Lantrasoft':
+  city:  'Coimbatore'
+  name:  'Lantrasoft'
+  website:  'http://www.lantrasoft.com/'
+ 'Lapiz Digital Services (A Div. of Ultramarine & Pigments Ltd)':
+  city:  'Chennai'
+  name:  'Lapiz Digital Services (A Div. of Ultramarine & Pigments
+    Ltd)'
+  website:  'http://www.lapizonline.com/'
+ 'Larsen & Toubro Infotech Ltd':
+  city:  'Mumbai'
+  name:  'Larsen & Toubro Infotech Ltd'
+  website:  'http://www.lntinfotech.com/'
+ 'Laserbeam Software Private Limited':
+  city:  'Chennai'
+  name:  'Laserbeam Software Private Limited'
+  website:  'http://www.laserbeamsoftware.com/'
+ 'Lazer Ken IT Services India Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'Lazer Ken IT Services India Pvt Ltd'
+  website:  'http://memberdirectory.nasscom.in/mms_company_free_search/bfocus/BPM#'
+ 'LearnOn Technology Solutions LLP':
+  city:  'Thiruvananthapuram'
+  name:  'LearnOn Technology Solutions LLP'
+  website:  'http://www.learnonsolutions.com/'
+ 'Leeyo Software Pvt Ltd':
+  city:  'Chennai'
+  name:  'Leeyo Software Pvt Ltd'
+  website:  'http://www.leeyo.com/'
+ 'Legasis Services Pvt Ltd':
+  city:  'Pune'
+  name:  'Legasis Services Pvt Ltd'
+  website:  'http://www.legasis.in/'
+ 'Lemoxo Technologies':
+  city:  'Pune'
+  name:  'Lemoxo Technologies'
+  website:  'http://www.lemoxo.com/'
+ 'aurionPro Solutions Ltd':
+  city:  'Mumbai'
+  name:  'aurionPro Solutions Ltd'
+  website:  'http://www.aurionpro.com/'
+ 'bbnisys Technologies Pvt Ltd':
+  city:  'Gwalior'
+  name:  'bbnisys Technologies Pvt Ltd'
+  website:  'http://www.bbnisys.com/'
+ 'c-suite Labs Private Limited':
+  city:  'Bengaluru'
+  name:  'c-suite Labs Private Limited'
+  website:  'http://www.complyglobal.com/'
+ 'cloudchowk Solutions Pvt Ltd':
+  city:  'New Delhi'
+  name:  'cloudchowk Solutions Pvt Ltd'
+  website:  'http://www.cloudchowk.com/'
+ 'dMACQ Digitization Solutions Pvt Ltd':
+  city:  'New Delhi'
+  name:  'dMACQ Digitization Solutions Pvt Ltd'
+  website:  'http://www.aspireit.in/'
+ 'e-Activities Technologies Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'e-Activities Technologies Pvt Ltd'
+  website:  'http://www.enterpriseactivities.com/'
+ 'e-Zest Solutions Ltd':
+  city:  'Pune'
+  name:  'e-Zest Solutions Ltd'
+  website:  'http://www.e-zest.net/'
+ 'e-navik Global Services India Pvt Ltd':
+  city:  'Noida'
+  name:  'e-navik Global Services India Pvt Ltd'
+  website:  'http://www.e-navik.com/'
+ 'e-navik Solutions Pvt Ltd':
+  city:  'New Delhi'
+  name:  'e-navik Solutions Pvt Ltd'
+  website:  'http://www.e-navik.com/'
+ 'e4e Healthcare Business Services Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'e4e Healthcare Business Services Pvt Ltd'
+  website:  'http://www.e4e.com/'
+ 'eBay India Pvt Ltd':
+  city:  'Mumbai'
+  name:  'eBay India Pvt Ltd'
+  website:  'http://www.ebay.in/'
+ 'eCentric Solutions Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'eCentric Solutions Pvt Ltd'
+  website:  'http://e-centricsolutions.com/'
+ 'eClerx Services Ltd':
+  city:  'Mumbai'
+  name:  'eClerx Services Ltd'
+  website:  'http://www.eclerx.com/'
+ 'eDominer Technologies Private Limited':
+  city:  'Kolkata'
+  name:  'eDominer Technologies Private Limited'
+  website:  'http://www.edominer.com/'
+ 'eFocus Informatix Pvt Ltd':
+  city:  'Chennai'
+  name:  'eFocus Informatix Pvt Ltd'
+  website:  'http://www.efocusinfo.com/'
+ 'eMart Solutions India Pvt Ltd':
+  city:  'Mumbai'
+  name:  'eMart Solutions India Pvt Ltd'
+  website:  'http://www.emartsolutions.com/'
+ 'eNoah iSolution India Pvt Ltd':
+  city:  'Chennai'
+  name:  'eNoah iSolution India Pvt Ltd'
+  website:  'http://www.enoahisolution.com/'
+ 'eRevMax Technologies Pvt Ltd':
+  city:  'Kolkata'
+  name:  'eRevMax Technologies Pvt Ltd'
+  website:  'http://www.erevmax.com/'
+ 'eStomi Technologies Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'eStomi Technologies Pvt Ltd'
+  website:  'http://www.estomi.in/'
+ 'ehost 24X7':
+  city:  'Chennai'
+  name:  'ehost 24X7'
+  website:  'http://www.ehost24x7.com/'
+ 'emids Technologies Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'emids Technologies Pvt Ltd'
+  website:  'http://www.emids.com/'
+ 'exl Service.com (India) Pvt Ltd':
+  city:  'Noida'
+  name:  'exl Service.com (India) Pvt Ltd'
+  website:  'http://www.exlservice.com/'
+ 'i-Grandee Software Technologies Pvt Ltd':
+  city:  'Madurai'
+  name:  'i-Grandee Software Technologies Pvt Ltd'
+  website:  'http://www.igrandee.com/'
+ 'i-Nurture Education Solutions Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'i-Nurture Education Solutions Pvt Ltd'
+  website:  'http://www.inurture.co.in/'
+ 'i3 Software Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'i3 Software Pvt Ltd'
+  website:  'http://www.i3-soft.com/'
+ 'i4 Global Information Technologies Ltd':
+  city:  'Bengaluru'
+  name:  'i4 Global Information Technologies Ltd'
+  website:  'http://www.i4git.com/'
+ 'iAccept Softwares Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'iAccept Softwares Pvt Ltd'
+  website:  'http://www.iaccept.in/'
+ 'iBus Network and Infrastructure Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'iBus Network and Infrastructure Pvt Ltd'
+  website:  'http://www.ibusnetworks.com/'
+ 'iComp Solutions':
+  city:  'Bengaluru'
+  name:  'iComp Solutions'
+  website:  'http://www.icompsolutions.co.in/'
+ 'iConcept Software Services Pvt Ltd':
+  city:  'Hyderabad'
+  name:  'iConcept Software Services Pvt Ltd'
+  website:  'http://www.conceptglobal.com/'
+ 'iEtech Consulting and Services':
+  city:  'Bengaluru'
+  name:  'iEtech Consulting and Services'
+  website:  'http://www.ietechconsulting.com/'
+ 'iInterchange Systems Pvt Ltd':
+  city:  'Chennai'
+  name:  'iInterchange Systems Pvt Ltd'
+  website:  'http://www.iinterchange.com/'
+ 'iLink Systems Pvt Ltd':
+  city:  'Trichy'
+  name:  'iLink Systems Pvt Ltd'
+  website:  'http://www.ilink-systems.com/'
+ 'iMantras India Pvt Ltd':
+  city:  'Chennai'
+  name:  'iMantras India Pvt Ltd'
+  website:  'http://www.imantras.com/'
+ 'iN Technologies Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'iN Technologies Pvt Ltd'
+  website:  'http://www.technologiesin.com/'
+ 'iNautix Technologies India Pvt Ltd':
+  city:  'Chennai'
+  name:  'iNautix Technologies India Pvt Ltd'
+  website:  'http://www.inautix.co.in/'
+ 'iPRIMED Education Solutions Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'iPRIMED Education Solutions Pvt Ltd'
+  website:  'http://www.iprimed.com/'
+ 'iPlan Enterprise Pvt Ltd':
+  city:  'Chennai'
+  name:  'iPlan Enterprise Pvt Ltd'
+  website:  'http://www.iplanenterprise.com/'
+ 'iQor India Services Pvt Ltd':
+  city:  'Noida'
+  name:  'iQor India Services Pvt Ltd'
+  website:  'http://www.iqor.com/'
+ 'iScholar Education Services Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'iScholar Education Services Pvt Ltd'
+  website:  'http://www.ischolareducation.com/'
+ 'iSolution Software Systems Pvt Ltd':
+  city:  'Kolkata'
+  name:  'iSolution Software Systems Pvt Ltd'
+  website:  'http://www.isoeh.com/'
+ 'iThoughtz Technologies Pvt Ltd':
+  city:  'Chennai'
+  name:  'iThoughtz Technologies Pvt Ltd'
+  website:  'http://www.ithoughtz.com/'
+ 'iWork Technologies Pvt Ltd':
+  city:  'Pune'
+  name:  'iWork Technologies Pvt Ltd'
+  website:  'http://www.iworktech.com/'
+ 'iYogi Technical Services Pvt Ltd':
+  city:  'Gurgaon'
+  name:  'iYogi Technical Services Pvt Ltd'
+  website:  'http://www.iyogi.com/'
+ 'iauro Systems Pvt Ltd':
+  city:  'Pune'
+  name:  'iauro Systems Pvt Ltd'
+  website:  'http://www.iauro.com/'
+ 'ipinfusion Software India Pvt Ltd':
+  city:  'Bengaluru'
+  name:  'ipinfusion Software India Pvt Ltd'
+  website:  'http://www.ipinfusion.com/'
+ 'kPoint Technologies Pvt Ltd':
+  city:  'Pune'
+  name:  'kPoint Technologies Pvt Ltd'
+  website:  'http://www.kpoint.com/'
