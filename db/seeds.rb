@@ -10,8 +10,15 @@
 require 'yaml'
 
 
-companies = YAML.load(File.open(File.expand_path('db/companies.yml')))
-puts 'seeding companies details...'
-companies.each do |key, value|
-  Company.find_or_create_by(name: value['name'],city: value['city'],website: value['website'])
+# companies = YAML.load(File.open(File.expand_path('db/companies.yml')))
+# puts 'seeding companies details...'
+# companies.each do |key, value|
+#   Company.find_or_create_by(name: value['name'],city: value['city'],website: value['website'])
+# end
+
+
+sub_companies = YAML.load(File.open(File.expand_path('db/sub_companies.yml')))
+puts 'seeding sub companies details...'
+sub_companies.each do |key,value|
+   SubCompany.find_or_create_by(linked_in_id: value['linked_in_id'],name: value['name'],universal_name:value['universal_name'],web_site_url: value['website_url'],logo_url:value['logo_url'],employee_count_range:value['employee_count_range'][0],num_followers:value['num_followers'],description:value['description'])
 end
