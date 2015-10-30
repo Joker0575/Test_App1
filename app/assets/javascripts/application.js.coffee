@@ -15,6 +15,7 @@
 #= require turbolinks
 #= require home
 #= require jQuery.scrollSpeed
+#= require s3_direct_upload
 #= require_tree .
 
 # ---

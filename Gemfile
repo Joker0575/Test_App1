@@ -41,6 +41,11 @@ gem  'sidetiq'
 #for tacking models
 gem 'activeadmin'
 
+#for video uploading
+gem 'aws-sdk' # S3 API
+gem 'paperclip' # file attachment syntax and callbacks
+gem 's3_direct_upload' # direct upload form helper and assets
+
 gem 'devise'
 
 # Use ActiveModel has_secure_password
