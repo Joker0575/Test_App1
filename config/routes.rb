@@ -1,8 +1,6 @@
 require 'sidekiq/web'
 Rails.application.routes.draw do
-  get 'document/index'
 
-  get 'documen/index'
 
   devise_for :admin_users, ActiveAdmin::Devise.config
   ActiveAdmin.routes(self)
@@ -14,6 +12,12 @@ Rails.application.routes.draw do
   get 'home/privacy'
   get 'home/other'
   get 'home/create'
+
+
+  namespace :api do
+    resources :clients, :defaults => { :format => 'json' }
+  end
+
   root :to => 'home#index'
 
   mount Sidekiq::Web, at: "/sidekiq"
